@@ -1,6 +1,6 @@
 
 
-This folder contains scripts for retrieving commit URLs from BigQuery Public Data or GHArchive.org.
+This folder contains scripts for retrieving commit URLs from GHArchive.org.
 
 We extracts commits from GHArchive.org, which is an event collection database. Based on the 15 types of events documented by GHArchive.org, we collect commits triggered by the "PushEvent" event. For additional constraints and specifics, please refer to the  "gharchive.org__c-commit_list_20172022_no_filter.sql"
 
