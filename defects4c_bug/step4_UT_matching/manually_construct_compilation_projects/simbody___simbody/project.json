@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/simbody/simbody",
+    "language": null,
+    "main_repo": "https://github.com/simbody/simbody",
+    "repo_name": "simbody___simbody",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

@@ -1,0 +1,333 @@
+[
+    {
+        "commit_after": "054745902dbf5e6799579cc9352f97ef661b7c28",
+        "commit_message": "Rml4ZWQgYnVnIElEOjE5NzE0MzYgYW5kIGFkZGVkIG1vcmUgdGVzdGluZyBvZiByb3dzZXQgY29weSBvcGVyYXRpb25zCg==",
+        "commit_date": "2010-02-27 15:14:25 +0000",
+        "commit_before": "1a88555374bb6da5477964792a25abd9e6db01f9",
+        "files": {
+            "src": [
+                "src/core/rowset.h"
+            ],
+            "test": [
+                "src/core/test/common-tests.h"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 181,
+                "func_end": 238,
+                "func_hunks": [],
+                "patch_md5": "c9db19dd89f38e246e1b4c8722c5e9b9"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/054745902dbf5e6799579cc9352f97ef661b7c28"
+    },
+    {
+        "commit_after": "d279c11e9bd28c199199e7c289693b8552f65b82",
+        "commit_message": "Rml4IG1lbW9yeSBsZWFrIG9mIHN0YXRlbWVudCBiYWNrZW5kIChpc3N1ZSAjNjcpCgpUaGUgbGVhayBoYXMgYmVlbiBjb25maXJtZWQgdXNpZ24gbWVtb3J5IGRlYnVnZ2VyLiBBcHBsaWVkIGZpeCBzdWdnZXN0ZWQKYnkgRXZnZW55IEJhcmFiYW5vdiB0byBwZXJmb3JtIGFsbG9jYXRlZCBzdGF0ZW1lbnQgY2xlYW4gdXAgaWYgZXhjZXB0aW9uCmlzIHRocm93biBmcm9tIHByZXBhcmUoKSBtZXRob2QuCg==",
+        "commit_date": "2013-02-16 22:19:35 +0000",
+        "commit_before": "b29861ee98443eb1c8d46c2dd463001c452e0b05",
+        "files": {
+            "src": [
+                "src/core/statement.cpp"
+            ],
+            "test": [
+                "src/core/test/common-tests.h"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 55,
+                "hunk_end": 61,
+                "func_is_single": true,
+                "func_start": 55,
+                "func_end": 61,
+                "func_hunks": [],
+                "patch_md5": "650e783c4ef5d18a7fc6a545865b48f8"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/d279c11e9bd28c199199e7c289693b8552f65b82"
+    },
+    {
+        "commit_after": "3bbd5c2eeccebe9e236943d6c2a950567fb17147",
+        "commit_message": "Rml4IHJlYWRpbmcgbmVnYXRpdmUgZG91YmxlcyBmcm9tIHRoZSBkYXRhYmFzZSB3aXRoIEZpcmViaXJkIGJhY2tlbmQuCgpNYW50aXNzYSBvZiB0eXBlIFNRTF9MT05HIG11c3QgYmUgY29udmVydGVkIHRvICJpbnQiLCBub3QgInVuc2lnbmVkIiwgd2hlbgpyZWFkaW5nIGZyb20gdGhlIGRhdGFiYXNlLgoKVGhpcyBjb3JyZWN0cyB0aGUgY2hhbmdlcyBvZiA0YzNjYjYyOSB3aGljaCBkaWQgdXNlIGludCBpbiBvdGhlciBwbGFjZXMgd2hlcmUKU1FMX0xPTkcgaXMgaGFuZGxlZCBidXQgbm90IGhlcmUgdG8gY29tcGVuc2F0ZSBmb3IgYSBkaWZmZXJlbnQgYnVnIHdpdGgKaGFuZGxpbmcgb2YgdW5zaWduZWQgbG9uZyB3aGljaCBpcyBmaXhlZCBkaWZmZXJlbnRseSBieSB0aGUgcHJldmlvdXMgY29tbWl0LgoKQWxzbyBhZGQgdW5pdCBhIChGaXJlYmlyZC1zcGVjaWZpYyBmb3Igbm93IGJ1dCBpdCBzaG91bGQgYmUgbWFkZSBjb21tb24pIHRlc3QKZm9yIHJlYWRpbmcgbmVnYXRpdmUgZG91Ymxlcy4K",
+        "commit_date": "2013-03-23 13:28:10 +0100",
+        "commit_before": "dde8ea69ec5cb34735c59343b08d315f5457b661",
+        "files": {
+            "src": [
+                "src/backends/firebird/common.h"
+            ],
+            "test": [
+                "src/backends/firebird/test/test-firebird.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 200,
+                "hunk_end": 206,
+                "func_is_single": true,
+                "func_start": 200,
+                "func_end": 206,
+                "func_hunks": [],
+                "patch_md5": "7a67f9a26933e9fefed37661a7045860"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/3bbd5c2eeccebe9e236943d6c2a950567fb17147"
+    },
+    {
+        "commit_after": "10d2c8ab3843ca9c9c9f1b8c2fa72130d2928b2a",
+        "commit_message": "Rml4ZWQgYSBidWcgd2hpY2ggbWFkZSB0aGUgTXlTUUwgYmFja2VuZCBtaXN0YWtlIGFuIGVzY2FwZWQgc2luZ2xlIHF1b3RlIGluc2lkZQphIHN0cmluZyBsaXRlcmFsIGZvciB0aGUgY2xvc2luZyBxdW90ZS4gVGhpcyByZXN1bHRlZCBpbiBpbmNvcnJlY3QgYmVoYXZpb3IKaWYgdGhlIHNhbWUgc3RyaW5nIGxpdGVyYWwgY29udGFpbmVkIGEgY29sb24gY2hhcmFjdGVyICc6Jy4K",
+        "commit_date": "2014-03-27 19:21:37 -0700",
+        "commit_before": "81c106b1ddc0c5bd9112e1987423e429714f821a",
+        "files": {
+            "src": [
+                "src/backends/mysql/statement.cpp"
+            ],
+            "test": [
+                "src/backends/mysql/test/test-mysql.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 57,
+                "func_end": 92,
+                "func_hunks": [],
+                "patch_md5": "f6595971f928b2b4c304123547db1722"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/10d2c8ab3843ca9c9c9f1b8c2fa72130d2928b2a"
+    },
+    {
+        "commit_after": "51d058f04c9c46a5144324d50e186596f327a483",
+        "commit_message": "UmVwYWlyIFZDOCBjb21waWxlIG9mIHRlc3QgYXBwbGljYXRpb25zICgjNTkzKQoKRml4IGNvbXBpbGF0aW9uIGlzc3VlcyBmb3IgVmlzdWFsIEMrKyA4LjAgKFZTMjAwNSkKCiogQWRkIF9XSU4zMl9XSU5OVCBtaW5pbWFsIHJlcXVpcmVkIHZlcnNpb24gdG8gc29jaS1wbGF0Zm9ybS5oIHRvIGZpeCB3aW5kb3dzLmggaXNzdWUgcmVsYXRlZCB0byB1c2Ugb2YgQWRkL1JlbW92ZVZlY3RvcmVkRXhjZXB0aW9uSGFuZGxlci4KKiBPdmVycmlkZSBTRUNUSU9OIG1hY3JvIHNpbmNlIGRlZmF1bHQgbWFjcm8gcGFyYW1ldGVyICgzIHJlcXVpcmVkIC8gMiBnaXZlbiBvciAyIHJlcXVpcmVkIC8gMSBnaXZlbikgZG8gbm90IGV4cGFuZCBhbmQgbGVhZCB0byBzeW50YXggZXJyb3Iu",
+        "commit_date": "2017-09-23 12:57:38 +0200",
+        "commit_before": "c2310cf54f48dc2f28413c037da336320fabc06e",
+        "files": {
+            "src": [
+                "include/soci/soci-platform.h"
+            ],
+            "test": [
+                "tests/common-tests.h"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 75,
+                "hunk_is_single": true,
+                "hunk_start": 74,
+                "hunk_end": 79,
+                "func_is_single": true,
+                "func_start": 74,
+                "func_end": 79,
+                "func_hunks": [],
+                "patch_md5": "332bc2c0e6c9a7ac9ff5be3e07cac496"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/51d058f04c9c46a5144324d50e186596f327a483"
+    },
+    {
+        "commit_after": "45778f175015b09e90289f515a4134399ca75105",
+        "commit_message": "Rml4ZWQgc3RkOjp0bSBiaW5kIGZvciBzcWxpdGUgYmFja2VuZCAoIzc3MCkKCklmIEMrKzExIHdhcyBhbGxvd2VkLCBzdGQ6OmdldF90aW1lIGNvdWxkIGJlIHVzZWQgZm9yIHBhcnNpbmcgdGhlIHRpbWUgc3RyaW5nCihzZWUgaHR0cHM6Ly9naXRodWIuY29tL1NPQ0kvc29jaS9wdWxsLzc3MCNpc3N1ZWNvbW1lbnQtNTU3ODI0MTQ1KS4=",
+        "commit_date": "2019-11-23 21:50:11 +0100",
+        "commit_before": "63093e4d247c512bdc6e1278c859cb1bbd4a08c0",
+        "files": {
+            "src": [
+                "src/backends/sqlite3/statement.cpp"
+            ],
+            "test": [
+                "tests/sqlite3/test-sqlite3.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 265,
+                "hunk_end": 273,
+                "func_is_single": true,
+                "func_start": 265,
+                "func_end": 273,
+                "func_hunks": [],
+                "patch_md5": "e9e49bbd0cce10797892bd53bf64f3ac"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/45778f175015b09e90289f515a4134399ca75105"
+    },
+    {
+        "commit_after": "9ff3016c00108f21760d438bfbb451188886274c",
+        "commit_message": "Rml4IHVzZSgpLWluZyBjdXN0b20gdHlwZXMgd2l0aCBhbiBleHBsaWNpdGx5IG51bGwgaW5kaWNhdG9yCgpUaGlzIGZpeGVzIGEgYnVnIGNhdXNlZCBieSBjYWxsaW5nIHRoYXQgc29jaTo6dHlwZV9jb252ZXJzaW9uOjp0b19iYXNlKCkKdW5jb25kaXRpb25hbGx5LCBldmVuIGlmIHRoZSBjYWxsZXIgZXhwbGljaXRseSBwYXNzZWQgaV9udWxsIGZvciB0aGUKaW5kaWNhdG9yLCB3aGljaCBpcyB1bm5lY2Vzc2FyeSB3b3JrLCBidXQgd29yc2UsIGFjdHVhbGx5IHJlc3VsdGVkIGluCndyb25nIGRhdGEgYmVpbmcgaW5zZXJ0ZWQgaW50byB0aGUgZGF0YWJhc2Ugd2hlbiB1c2luZyBib29zdDo6b3B0aW9uYWwKY29udmVyc2lvbiAoYW5kIG90aGVyIHNpbWlsYXIgY3VzdG9tIHR5cGUgY29udmVyc2lvbnMpIGFzIGl0IHdvdWxkIHNldAp0aGUgaW5kIGFyZ3VtZW50IHRvIGlfb2ssIG92ZXJyaWRpbmcgdGhlIGNhbGxlcidzIGV4cGxpY2l0IGlfbnVsbCBwYXNzZWQKdG8gdXNlKCkuCgpBZGQgKHByZXZpb3VzbHkpIGZhaWxpbmcgdGVzdCB3aGljaCBub3cgcGFzc2VzIGZvciBtb3N0IGJhY2tlbmRzLgo=",
+        "commit_date": "2020-05-12 18:47:56 -0500",
+        "commit_before": "f8044b88e963409641aa1bfe8a92c31a03550cd8",
+        "files": {
+            "src": [
+                "include/soci/type-conversion.h"
+            ],
+            "test": [
+                "tests/common-tests.h"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 148,
+                "hunk_is_single": true,
+                "hunk_start": 147,
+                "hunk_end": 152,
+                "func_is_single": true,
+                "func_start": 147,
+                "func_end": 152,
+                "func_hunks": [],
+                "patch_md5": "293c90d7687f9471fb213520fb54e834"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "soci_sqlite3_test_static",
+                "soci_sqlite3_test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/9ff3016c00108f21760d438bfbb451188886274c"
+    },
+    {
+        "commit_after": "3d0edf59baa1f4b766d4c2d18d075f4f6d33a24d",
+        "commit_message": "Rml4IHdvcmtpbmcgd2l0aCBkZWZhdWx0IE9yYWNsZSBOVU1CRVIgdXNpbmcgcm93c2V0IEFQSQoKVXNpbmcgcm93c2V0IEFQSSB3aXRoIHRoZSByZXN1bHQgb2YgdG9fbnVtYmVyKCksIHdoaWNoIHJldHVybmVkIGEgTlVNQkVSCndpdGggYm90aCBwcmVjaXNpb24gYW5kIHNjYWxlIG9mIDAgKGluZGljYXRpbmcgdGhhdCBpdCdzIHRoZSBkZWZhdWx0Ck5VTUJFUiB0eXBlLCBpLmUuIE5VTUJFUigzOCwgMTApKSwgcHJldmlvdXNseSByZXN1bHRlZCBpbiAnT1JBLTAxNDU1Ogpjb252ZXJ0aW5nIGNvbHVtbiBvdmVyZmxvd3MgaW50ZWdlciBkYXRhdHlwZScgZXJyb3IgYmVjYXVzZSB3ZQppbmNvcnJlY3RseSBoYW5kbGVkIHN1Y2ggbnVtYmVycyBhcyBpbnRlZ2VycyByYXRoZXIgdGhhbiBkb3VibGVzIHRoYXQKdGhleSByZWFsbHkgYXJlLgoKQ2xvc2VzICM4NzIuCgpTZWUgIzg3NCwgIzg3NS4KCkNvLUF1dGhvcmVkLUJ5OiBWYWRpbSBaZWl0bGluIDx2ei1zb2NpQHplaXRsaW5zLm9yZz4K",
+        "commit_date": "2021-04-18 23:22:04 +0800",
+        "commit_before": "4ae2d90c5f7e4b864e149a63364d68a15c7806b2",
+        "files": {
+            "src": [
+                "src/backends/oracle/statement.cpp"
+            ],
+            "test": [
+                "tests/oracle/test-oracle.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 255,
+                "hunk_end": 270,
+                "func_is_single": true,
+                "func_start": 255,
+                "func_end": 270,
+                "func_hunks": [],
+                "patch_md5": "ec3b1f5b59698761b369502403c050c9"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/3d0edf59baa1f4b766d4c2d18d075f4f6d33a24d"
+    }
+]

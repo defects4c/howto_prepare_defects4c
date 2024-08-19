@@ -1,0 +1,324 @@
+[
+    {
+        "commit_after": "3545ebf7d565115a23bfec39a85037c2021fd142",
+        "commit_message": "QnVnZml4IGZvciAjOTM4Cg==",
+        "commit_date": "2017-01-21 18:19:05 +0100",
+        "commit_before": "f36b9b91a84d93ec07b8d41fe1231566ae0114db",
+        "files": {
+            "src": [
+                "src/newlines.cpp"
+            ],
+            "test": [
+                "tests/config/bug_i_938.cfg",
+                "tests/cpp.test",
+                "tests/input/cpp/bug_i_938.h",
+                "tests/output/cpp/30755-bug_i_938.h"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 3776,
+                "func_end": 3938,
+                "func_hunks": [],
+                "patch_md5": "32c1f316a9a36134323871259b21edf8"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "30755"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/3545ebf7d565115a23bfec39a85037c2021fd142"
+    },
+    {
+        "commit_after": "7b603d0a878ddf9d39a205af7ceeef92503b0901",
+        "commit_message": "YSBidWdmaXggZm9yICMxMTA4Cg==",
+        "commit_date": "2017-05-16 18:47:33 +0200",
+        "commit_before": "d7258b095ff404a65152837d561c97f23824fe41",
+        "files": {
+            "src": [
+                "src/indent.cpp"
+            ],
+            "test": [
+                "tests/config/bug_1108.cfg",
+                "tests/cpp.test",
+                "tests/input/cpp/bug_1108.cpp",
+                "tests/output/c/02100-i2c-core.c",
+                "tests/output/cpp/30208-bug_1108.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1375,
+                "hunk_end": 1382,
+                "func_is_single": true,
+                "func_start": 1375,
+                "func_end": 1382,
+                "func_hunks": [],
+                "patch_md5": "bd97dd4360ef18fae0414fb3ad17672b"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "c_02100",
+                "cpp_30208"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/7b603d0a878ddf9d39a205af7ceeef92503b0901"
+    },
+    {
+        "commit_after": "dfe791684b24adc9eef81baef867f824866abdfa",
+        "commit_message": "QSBidWdmaXggZm9yICMxMzUyLgpBIG5ldyBydW4gaW4gdGhlIGxvb3AgaXMgbmVjZXNzYXJ5Lgo=",
+        "commit_date": "2017-09-22 18:13:19 +0200",
+        "commit_before": "f4043299e5ee9b8607e6eed1b1bf0901b85fe747",
+        "files": {
+            "src": [
+                "src/width.cpp"
+            ],
+            "test": [
+                "tests/output/c/00451-enum_gallery.c",
+                "tests/output/c/00453-enum_gallery.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 339,
+                "hunk_is_single": true,
+                "hunk_start": 338,
+                "hunk_end": 343,
+                "func_is_single": true,
+                "func_start": 338,
+                "func_end": 343,
+                "func_hunks": [],
+                "patch_md5": "3778037f2c181771c2dae16c9be0a4c9"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "c_00451",
+                "c_00453"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/dfe791684b24adc9eef81baef867f824866abdfa"
+    },
+    {
+        "commit_after": "059898e80d55dbe8d5c5eca6e6c1b10668553f92",
+        "commit_message": "QSBidWdmaXggcHJvcG9zYWwgZm9yICMxMzQwCg==",
+        "commit_date": "2017-10-12 17:09:34 +0200",
+        "commit_before": "a38a422316def5f5101ed6012cc94d78edf468a7",
+        "files": {
+            "src": [
+                "src/align.cpp"
+            ],
+            "test": [
+                "tests/config/bug_1340.cfg",
+                "tests/cpp.test",
+                "tests/input/cpp/bug_1340.cpp",
+                "tests/output/cpp/30023-templates.cpp",
+                "tests/output/cpp/30220-bug_1340.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 730,
+                "hunk_end": 736,
+                "func_is_single": true,
+                "func_start": 730,
+                "func_end": 736,
+                "func_hunks": [],
+                "patch_md5": "f198a33bd3587792caa593c2ab9a9c8b"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "cpp_30023",
+                "cpp_30220"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/059898e80d55dbe8d5c5eca6e6c1b10668553f92"
+    },
+    {
+        "commit_after": "9a2ad693bc9b165133e536300398938ef4f14d15",
+        "commit_message": "QSBidWdmaXggcHJvcG9zYWwgZm9yIGlzc3VlICMxMjg4Cg==",
+        "commit_date": "2017-11-26 18:17:33 +0100",
+        "commit_before": "b11817c164b161055ae84de54bc5e7fe9726a5a5",
+        "files": {
+            "src": [
+                "src/space.cpp"
+            ],
+            "test": [
+                "tests/cpp.test",
+                "tests/input/cpp/bug_1288.cpp",
+                "tests/output/cpp/33203-bug_1288.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 522,
+                "hunk_end": 528,
+                "func_is_single": true,
+                "func_start": 522,
+                "func_end": 528,
+                "func_hunks": [],
+                "patch_md5": "728c34a6ce689db2158371d35440014f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "cpp_33203"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/9a2ad693bc9b165133e536300398938ef4f14d15"
+    },
+    {
+        "commit_after": "221a47fa490833a8d0ba7f17ffeb55c629a8238d",
+        "commit_message": "Rml4IGlzc3VlIHJlbGF0ZWQgdG8gYEZVTkNfQ0FMTGAgbm90IHRva2VuaXplZCBpbiBPQyB3aGVuIGZpcnN0IHBhcmFtIHN0YXJ0cyB3aXRoIGBDQVJFVGAKClRoaXMgZml4ZXMgdGhlIElzc3VlIDI2Mjkgd2hlcmUgYEZVTkNfQ0FMTGAgaXMgbm90IGJlaW5nIHJlY29nbml6ZWQgd2hlbiBmaXJzdApwYXJhbSBzdGFycyB3aXRoIGEgYF5gLgo=",
+        "commit_date": "2020-02-04 11:52:05 -0800",
+        "commit_before": "69f3834adae4f929ca4d50b2fc3e15453bc852ad",
+        "files": {
+            "src": [
+                "src/combine.cpp"
+            ],
+            "test": [
+                "tests/expected/oc/50804-issue_2629.m",
+                "tests/input/oc/issue_2629.m",
+                "tests/objective-c.test"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1176,
+                "hunk_end": 1182,
+                "func_is_single": true,
+                "func_start": 1176,
+                "func_end": 1182,
+                "func_hunks": [],
+                "patch_md5": "50573a510c454f89fadd33e23288f00c"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "objective-c"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/221a47fa490833a8d0ba7f17ffeb55c629a8238d"
+    },
+    {
+        "commit_after": "6f692d42c9f556e7ed3378602e353f2a97553659",
+        "commit_message": "Rml4IGlzc3VlIHdpdGggbW9kZXJuaXplZCByYXcgc3RyaW5nIGxpdGVyYWxzIGluIE9DKysKClByZXZpb3VzIGZpeCBvbmx5IGFwcGxpZXMgdG8gcGFydGlhbCBzY2VuYXJpb3MuIFRoaXMgZml4ZXMgZm9yIGFsbCAiUiIgZm9ybWF0dGVkIEMgc3RyaW5ncyBpbiBPQysrIGxhbmd1YWdlLiBUaGUgdGVzdCBmaWxlIGhhcyB0byBiZSByZW5hbWVkIGZyb20gIi5tIiB0byAiLm1tIiB0byBzdXBwb3J0IE9DKysgbGFuZ3VhZ2UuIEZpeGVzIGlzc3VlcyAjMzAyNyAmICMyMjMuCg==",
+        "commit_date": "2020-12-18 17:30:20 -0800",
+        "commit_before": "a193d9f7170c0ac1c61fd4fd92006c6dfb1b5377",
+        "files": {
+            "src": [
+                "src/tokenize.cpp"
+            ],
+            "test": [
+                "tests/expected/oc/50009-literals.mm",
+                "tests/input/oc/literals.mm",
+                "tests/objective-c.test"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2275,
+                "hunk_is_single": true,
+                "hunk_start": 2274,
+                "hunk_end": 2279,
+                "func_is_single": true,
+                "func_start": 2274,
+                "func_end": 2279,
+                "func_hunks": [],
+                "patch_md5": "2f92650cef9fddea2d6cd8ab4bc6fd3d"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "objective-c"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/uncrustify/uncrustify/commits/6f692d42c9f556e7ed3378602e353f2a97553659"
+    }
+]

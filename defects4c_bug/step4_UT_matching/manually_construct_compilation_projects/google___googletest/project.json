@@ -1,0 +1,16 @@
+{
+    "homepage": "https://api.github.com/repos/google/googletest/commits/e972a23cd8ab955a58a92a44957d29c54d4a9fce",
+    "language": null,
+    "main_repo": "https://github.com/google/googletest",
+    "repo_name": "google___googletest",
+    "env": [],
+    "before_install": ["CXXFLAGS='-Wno-error'"],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": ["-Dgmock_build_tests=on","-Dgtest_build_tests=on","-DCMAKE_CXX_STANDARD=14"],
+        "build_flags_v2": ["-Dgtest_build_tests=on","-DBUILD_GMOCK=off"],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

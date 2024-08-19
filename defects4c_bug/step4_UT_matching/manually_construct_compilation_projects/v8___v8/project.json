@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/v8/v8/commits/23a593b9d86a32b6a72094b36080baa29cde7526",
+    "language": null,
+    "main_repo": null,
+    "repo_name": "v8___v8",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "bash inplace_build.sh",
+        "build_flags": [],
+        "test": "bash inplace_test.sh",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

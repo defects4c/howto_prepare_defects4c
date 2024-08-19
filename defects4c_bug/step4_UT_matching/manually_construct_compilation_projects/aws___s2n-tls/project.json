@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/aws/s2n-tls",
+    "language": null,
+    "main_repo": "https://github.com/aws/s2n-tls",
+    "repo_name": "aws___s2n-tls",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

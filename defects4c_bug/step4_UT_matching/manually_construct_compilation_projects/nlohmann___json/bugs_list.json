@@ -1,0 +1,642 @@
+[
+    {
+        "commit_after": "330ffd952b891abe7d1902ef3b55d799ceb1573d",
+        "commit_message": "cmVtb3ZlZCByZXZlcnNlX2l0ZXJhdG9ycyBhbmQgZml4ZWQgc29tZSBidWdzCg==",
+        "commit_date": "2015-02-08 19:18:39 +0100",
+        "commit_before": "4c59ccd1d5eed38fa879af88e0b5d04993bfef28",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/unit.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 84,
+                "func_end": 2332,
+                "func_hunks": [],
+                "patch_md5": "a2b1d763882addaa6816f00c05968b18"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/330ffd952b891abe7d1902ef3b55d799ceb1573d"
+    },
+    {
+        "commit_after": "48392cfa79e6b46aec93e94010127fc860ecd1f2",
+        "commit_message": "c29tZSBidWcgZml4aW5nCg==",
+        "commit_date": "2015-02-09 18:02:31 +0100",
+        "commit_before": "fe64ed5f016ca3456eeaef90b48b73b489af92a4",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/unit.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1604,
+                "func_end": 3321,
+                "func_hunks": [],
+                "patch_md5": "0d78bbf49120b391f53d67ffb6f1e06f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/48392cfa79e6b46aec93e94010127fc860ecd1f2"
+    },
+    {
+        "commit_after": "53c9564c51ecd0c84b597a37813a21a01900ab83",
+        "commit_message": "YnVnIGZpeCBhbmQgdGVzdCBjYXNlcwo=",
+        "commit_date": "2015-02-11 14:58:52 +0100",
+        "commit_before": "4d23c49601c120881f88be795fc44f5dccd65ec9",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/unit.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 256,
+                "func_end": 1684,
+                "func_hunks": [],
+                "patch_md5": "1877e7e6f3cc05f699842bb410a9fe6d"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/53c9564c51ecd0c84b597a37813a21a01900ab83"
+    },
+    {
+        "commit_after": "7e3245786c63c0923186b2b38c9c874ed2cc3942",
+        "commit_message": "Rml4ZWQgaXNzdWUgIzE3MSAtIGFkZGVkIGV4dHJhIG9wZXJhdG9yW10gdGVtcGxhdGUgb3ZlcmxvYWRzCg==",
+        "commit_date": "2016-01-23 17:03:45 +1000",
+        "commit_before": "9de14a4861ee861439abc7eb887cf279146b6cf9",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/unit.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 3062,
+                "func_end": 3140,
+                "func_hunks": [],
+                "patch_md5": "6a07bcc490bf354af471e28d30e5e918"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/7e3245786c63c0923186b2b38c9c874ed2cc3942"
+    },
+    {
+        "commit_after": "31bccc83b946f0dd2b8cbfe5644d552b41996121",
+        "commit_message": "Zml4ZWQgbG9jYWxlIHByb2JsZW1zCg==",
+        "commit_date": "2016-04-05 21:55:51 +0200",
+        "commit_before": "43ee70cef8aedb43956d3ba66ec39ec0dfee9722",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/unit.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 6114,
+                "func_end": 6191,
+                "func_hunks": [],
+                "patch_md5": "6ab375296f707ce7666c1b62b2296a52"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/31bccc83b946f0dd2b8cbfe5644d552b41996121"
+    },
+    {
+        "commit_after": "ddfe86cc49f3c97b70efef77da505a05569a250f",
+        "commit_message": "Zml4ZWQgYSBidWcgdGhhdCB3YXMgZm91bmQgaW4gdGhlIGRpc2N1c3Npb24gb2YgIzI3NAo=",
+        "commit_date": "2016-07-22 21:40:58 +0200",
+        "commit_before": "51a3829680dd5f5a67fe5c0390151c3157294639",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 7283,
+                "hunk_end": 7289,
+                "func_is_single": true,
+                "func_start": 7283,
+                "func_end": 7289,
+                "func_hunks": [],
+                "patch_md5": "e7b14eea0421985202f116e9a402db8a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/ddfe86cc49f3c97b70efef77da505a05569a250f"
+    },
+    {
+        "commit_after": "1d66ab9f7a5898267ebecefe5c2ba4ee0ffec613",
+        "commit_message": "Zml4ZWQgbGV4ZXIgaXNzdWUgd2hpY2ggcmVxdWlyZWQgbnVsbCBieXRlIGF0IHRoZSBlbmQgb2YgY29udGlndW91cyBzdG9yYWdlIGNvbnRhaW5lcnMgIzI5MAo=",
+        "commit_date": "2016-08-23 22:38:05 +0200",
+        "commit_before": "a79d634ccbbbccfacf5ada18d5fe2a1ce6ab338a",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-class_parser.cpp",
+                "test/src/unit-deserialization.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 8538,
+                "func_end": 8586,
+                "func_hunks": [],
+                "patch_md5": "3c2b14947410f6c69cbe59e3506c6845"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/1d66ab9f7a5898267ebecefe5c2ba4ee0ffec613"
+    },
+    {
+        "commit_after": "42ea4fb7510447d1328ab296ee8d9d77c5200de4",
+        "commit_message": "Zml4ZWQgYSBidWcgZm9yIHNob3J0IGlucHV0IGZpbGVzICgjMzQ0KQoKRm9yIGlucHV0IGZpbGVzIHdpdGggbGVzcyB0aGFuIDUgYnl0ZXMsIHRoZSBwYXJzZXIgaGFkIGEgYnVnIHNvIHRoYXQKcmVmaWxsaW5nIHRoZSBpbnB1dCBidWZmZXIgbGVkIHRvIGVyYXNpbmcgaXQuCg==",
+        "commit_date": "2016-10-29 13:32:36 +0200",
+        "commit_before": "2fdba9de1975a6cc2de4420f190befd10811f56f",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-testsuites.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 8598,
+                "hunk_end": 8608,
+                "func_is_single": true,
+                "func_start": 8598,
+                "func_end": 8608,
+                "func_hunks": [],
+                "patch_md5": "1e665b001f5198ba59faac2ecaed2684"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/42ea4fb7510447d1328ab296ee8d9d77c5200de4"
+    },
+    {
+        "commit_after": "ee0f23fdc6b8346cd6e48782bd8287a3a39b563b",
+        "commit_message": "OmNvbnN0cnVjdGlvbjogYnVnIGZpeGVzIGFuZCBtb3JlIHRlc3RzCg==",
+        "commit_date": "2016-11-28 23:20:03 +0100",
+        "commit_before": "bc238124ee43e08f2492d36a21516c8feb73630d",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/Makefile",
+                "test/src/unit-cbor.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 6490,
+                "hunk_end": 6497,
+                "func_is_single": true,
+                "func_start": 6490,
+                "func_end": 6497,
+                "func_hunks": [],
+                "patch_md5": "4bab22b7a1a619e25e8f93152916f23b"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/ee0f23fdc6b8346cd6e48782bd8287a3a39b563b"
+    },
+    {
+        "commit_after": "41673e8fed46aff58952604154ef05a28f587dca",
+        "commit_message": "OmJ1ZzogZml4ZWQgQ0JPUiBjb2RlIGFuZCBhZGRlZCB0ZXN0IGNhc2VzCg==",
+        "commit_date": "2016-12-10 23:12:57 +0100",
+        "commit_before": "7e5d6af5c1dbfc2f350eafc8e86eeecc6d1af25e",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-cbor.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 7085,
+                "hunk_end": 7109,
+                "func_is_single": true,
+                "func_start": 7085,
+                "func_end": 7109,
+                "func_hunks": [],
+                "patch_md5": "d62ebecb062f91a459931918c849a151"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/41673e8fed46aff58952604154ef05a28f587dca"
+    },
+    {
+        "commit_after": "acb7e0558d2337ad42261ed81e67d37385679285",
+        "commit_message": "OmFtYnVsYW5jZTogZml4ZWQgYnVncyBkZXRlY3RlZCBieSBBRkwtRnV6ego=",
+        "commit_date": "2016-12-28 12:09:15 +0100",
+        "commit_before": "6e129fbfb7a09856659763a13193d6ae1ee6ae0f",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/data/cbor_regression/id:000000,sig:06,src:000223+000677,op:splice,rep:2",
+                "test/data/cbor_regression/id:000000,sig:06,src:000787,op:havoc,rep:8",
+                "test/data/cbor_regression/id:000000,sig:06,src:000833,op:havoc,rep:32",
+                "test/data/cbor_regression/id:000000,sig:06,src:000838,op:havoc,rep:64",
+                "test/data/cbor_regression/id:000000,sig:06,src:000846+001064,op:splice,rep:16",
+                "test/data/cbor_regression/id:000000,sig:06,src:000848,op:flip1,pos:0",
+                "test/data/cbor_regression/id:000000,sig:06,src:001435,op:havoc,rep:32",
+                "test/data/cbor_regression/id:000000,sig:06,src:001436,op:havoc,rep:4",
+                "test/data/cbor_regression/id:000001,sig:06,src:000864+000903,op:splice,rep:2",
+                "test/data/cbor_regression/id:000001,sig:06,src:001310+001138,op:splice,rep:32",
+                "test/data/cbor_regression/id:000001,sig:06,src:001330+000569,op:splice,rep:64",
+                "test/data/cbor_regression/id:000001,sig:06,src:001413,op:havoc,rep:32",
+                "test/data/cbor_regression/id:000001,sig:06,src:001447,op:havoc,rep:4",
+                "test/data/cbor_regression/id:000001,sig:06,src:001465+000325,op:splice,rep:4",
+                "test/data/cbor_regression/id:000002,sig:06,src:000539,op:havoc,rep:8",
+                "test/data/cbor_regression/id:000002,sig:06,src:001301,op:havoc,rep:16",
+                "test/data/cbor_regression/id:000002,sig:06,src:001317+000850,op:splice,rep:8",
+                "test/data/cbor_regression/id:000002,sig:06,src:001382,op:havoc,rep:128",
+                "test/data/cbor_regression/id:000002,sig:06,src:001413+001036,op:splice,rep:4",
+                "test/data/cbor_regression/id:000003,sig:06,src:000846+000155,op:splice,rep:16",
+                "test/data/cbor_regression/id:000004,sig:06,src:001445,op:havoc,rep:128",
+                "test/src/unit-cbor.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 6836,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 6835,
+                "func_end": 7657,
+                "func_hunks": [],
+                "patch_md5": "5ac80f1937635bfe6791e04a900392ff"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/acb7e0558d2337ad42261ed81e67d37385679285"
+    },
+    {
+        "commit_after": "60057a4728ac4a7a9826d14d3c15aba5213289e9",
+        "commit_message": "OmhhbW1lcjogZml4ZWQgYnVncyBpbnRyb2R1Y2VkIGJ5IG1lcmdpbmcgZnJvbSBkZXZlbG9wCg==",
+        "commit_date": "2017-03-29 07:54:26 +0200",
+        "commit_before": "a690a9f2d2ed665fef509706acfb155beb7737e9",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-regression.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 7390,
+                "func_end": 7428,
+                "func_hunks": [],
+                "patch_md5": "b657e4cf6bd68da872e249c3245baf52"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/60057a4728ac4a7a9826d14d3c15aba5213289e9"
+    },
+    {
+        "commit_after": "90273e930c135a3f893ef2e303267f76b9b246b5",
+        "commit_message": "OmJ1ZzogZml4IGZvciAjNTEyCgpXZSB0b3RhbGx5IGZvcmdvdCB0byBpbXBsZW1lbnQgdGhlIGNvbXBhcmlzb24gb3BlcmF0b3JzIG90aGVyIHRoYW4gPT0KYW5kICE9IGZvciBzY2FsYXIgdHlwZXMuIENvbnNlcXVlbnRseSwgY29tcGFyaW5nIGEgSlNPTiB2YWx1ZSB3aXRoIGEKc2NhbGFyIHR5cGUgbGVkIHRvIGNvbXBpbGUgZXJyb3JzLgo=",
+        "commit_date": "2017-04-07 15:44:41 +0200",
+        "commit_before": "4f6b63e4920c996a7f46c5778b81db8e1227655b",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-regression.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 6386,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 6385,
+                "func_end": 6456,
+                "func_hunks": [],
+                "patch_md5": "7f7170b1c381d00684bc1e7faa17b6c1"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/90273e930c135a3f893ef2e303267f76b9b246b5"
+    },
+    {
+        "commit_after": "fba1bcdd0b109c217564088219eb44e2a2a8e077",
+        "commit_message": "OmJ1ZzogZml4aW5nICM1NzUKCkkgZm9yZ290IHRvIGNvbnNpZGVyIHRoZSBvZmZzZXQuCg==",
+        "commit_date": "2017-05-07 13:41:48 +0200",
+        "commit_before": "56ac7908f1fc176a2efb7e7fe5a364c557ff4a32",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-regression.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 8915,
+                "hunk_end": 8921,
+                "func_is_single": true,
+                "func_start": 8915,
+                "func_end": 8921,
+                "func_hunks": [],
+                "patch_md5": "31eefb774c0cf8563513b53632bd7c6e"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/fba1bcdd0b109c217564088219eb44e2a2a8e077"
+    },
+    {
+        "commit_after": "3d589fd032316b67681b68a15eb6dcbb78377387",
+        "commit_message": "OmhhbW1lcjogZml4ZWQgY29tcGlsYXRpb24gZXJyb3IK",
+        "commit_date": "2017-07-26 23:59:56 +0200",
+        "commit_before": "e6aa7003608dd0607f304f506303fafebbc65094",
+        "files": {
+            "src": [
+                "src/json.hpp"
+            ],
+            "test": [
+                "test/src/unit-class_const_iterator.cpp",
+                "test/src/unit-class_iterator.cpp",
+                "test/src/unit-convenience.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3618,
+                "hunk_end": 3624,
+                "func_is_single": true,
+                "func_start": 3618,
+                "func_end": 3624,
+                "func_hunks": [],
+                "patch_md5": "51cb0ed792d6d81678e8306f5bfa8100"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nlohmann/json/commits/3d589fd032316b67681b68a15eb6dcbb78377387"
+    }
+]

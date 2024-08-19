@@ -1,0 +1,2313 @@
+[
+    {
+        "commit_after": "06024f574a37200a2b1132613a90adf5e10c156e",
+        "commit_message": "Rml4ZWQgdGVzdFg2NCBvbiBEYXJ3aW4uCgpCdWdzOgoKLSBhc20gYnVmZmVyIHBhZ2VzIG5vdCBtYWRlIGV4ZWN1dGFibGUuCi0gd3JvbmcgY2FsbGluZyBjb252ZW50aW9uLgoKRm9ybWVyLWNvbW1pdC1pZDogYzI5OGZhNjJkMTM4ZWM0MzhiYmRjZWQ0MjgwYzUxYjY5MWQzZDM0ZQ==",
+        "commit_date": "2011-02-18 01:18:39 -0500",
+        "commit_before": "f7a3b93cc383c74f86a4f56dedf9a7e160b141ea",
+        "files": {
+            "src": [
+                "X64.h"
+            ],
+            "test": [
+                "testX64.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 918,
+                "hunk_end": 927,
+                "func_is_single": true,
+                "func_start": 918,
+                "func_end": 927,
+                "func_hunks": [],
+                "patch_md5": "27cd5d0d3fc13c414795c90dccad9874"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/06024f574a37200a2b1132613a90adf5e10c156e"
+    },
+    {
+        "commit_after": "f08a629b8488e2aa9de54771a2662bf3da9c10e1",
+        "commit_message": "Rml4ZWQgYnVnIGluIGZvb3RwcmludAoKCkZvcm1lci1jb21taXQtaWQ6IDRiODgzY2NkZGU3NGY3YTQxZGMwMTkyZjhiN2UwNTRjZDY3MDY1NDk=",
+        "commit_date": "2012-10-27 15:29:23 -0400",
+        "commit_before": "31bac8cf7778456acf9a40d106ffb3770438b5ad",
+        "files": {
+            "src": [
+                "cpp_bindings/Expr.cpp"
+            ],
+            "test": [
+                "test/cpp/footprint/test.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 199,
+                "hunk_end": 206,
+                "func_is_single": true,
+                "func_start": 199,
+                "func_end": 206,
+                "func_hunks": [],
+                "patch_md5": "001f1788ceffdb0e47b76b673286ee38"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/f08a629b8488e2aa9de54771a2662bf3da9c10e1"
+    },
+    {
+        "commit_after": "7675d2bfe94cbfaf02486d9424da405438d27395",
+        "commit_message": "Rml4IGxlcnAgY2FzZSBmb3IgMzItYml0IHZhbHVlcyBhbmQgZmxvYXQgd2VpZ2h0LgoKRml4IG9uZSBsZXJwIHRlc3QgY2FzZSB0byBhdm9pZCBvdmVyZmxvdyB3aXRoIDE2LWJpdCBpbnQgdmFsdWVzIGFuZApmbG9hdCB3ZWlnaHQuCgpNb3ZlIG9wdGltaXphdGlvbiBDKysgY29tcGlsZXIgZmxhZyBpbnRvIGEgTWFrZWZpbGUgdmFyaWFibGUgdG8gbWFrZQppdCBlYXNpZXIgdG8gY29tcGlsZSBkZWJ1Z2FibGUgSGFsaWRlLiAoRG9uJ3QgdXNlIGZsYWcgZm9yIHJ1bnRpbWVzIGFzCml0IGNhdXNlcyBlcnJvcnMuKQoKCkZvcm1lci1jb21taXQtaWQ6IDU2OGZjYmM4NDUzZGY2OTM4MmQ3NWZmODZlNzQ2Njc4Y2Q4MjJjYTA=",
+        "commit_date": "2013-08-19 14:12:48 -0700",
+        "commit_before": "17cddf023c6e82c46d241b33f7211ff2b12ce5e7",
+        "files": {
+            "src": [
+                "src/CodeGen.cpp"
+            ],
+            "test": [
+                "test/correctness/lerp.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1294,
+                "hunk_end": 1302,
+                "func_is_single": true,
+                "func_start": 1294,
+                "func_end": 1302,
+                "func_hunks": [],
+                "patch_md5": "945ee12e985a4cbf720858aa431bf10c"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/7675d2bfe94cbfaf02486d9424da405438d27395"
+    },
+    {
+        "commit_after": "98faabd196b004a435674e5ae24fbc5852af0654",
+        "commit_message": "Qm91bmRzIGluZmVyZW5jZSBub3cgZ29lcyBpbnNpZGUtb3V0CgpGaXhlcyBidWdzIGR1ZSB0byBpbm5lciBib3VuZHMgdGhhdCBkZXBlbmQgb24gb3V0ZXIgYm91bmRzLgoKCkZvcm1lci1jb21taXQtaWQ6IDdiZDM5ZWE2OWJhYzIwN2Y4MzM0NDhjNmRiNTc1MmIxOGM3YjRlOGE=",
+        "commit_date": "2013-09-04 11:04:04 -0700",
+        "commit_before": "1c5004d50ee0fa07e8d1f7ac7978e9ac9a3da9a3",
+        "files": {
+            "src": [
+                "src/BoundsInference.cpp"
+            ],
+            "test": [
+                "test/correctness/autotune_bug.cpp",
+                "test/performance/sort.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 28,
+                "func_end": 293,
+                "func_hunks": [],
+                "patch_md5": "a2ec9892fa2a1ac2ed48eff43b5a9323"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/98faabd196b004a435674e5ae24fbc5852af0654"
+    },
+    {
+        "commit_after": "0d44ac7f88fca548c685b899249666ad92989c47",
+        "commit_message": "Rml4ZWQgYSBib3VuZHMgYnVnIGluIGxvd2VyaW5nCgpXaGVuIGluaXRpYWxpemF0aW9ucyB3ZXJlIGV4cGFuZGVkIHRvIGNvdmVyIHRoZSByZWdpb24gcmVhZCBvbmx5IGJ5IHRoZQp1cGRhdGUgc3RlcCwgbWF4X21pbiB3YXMgbm90IGJlaW5nIHJlZGVmaW5lZCwgd2hpY2ggbWVhbnQgdGhhdCBpZiB5b3UKdmVjdG9yaXplZCB0aGUgaW5pdGlhbGl6YXRpb24sIG5vdCBlbm91Z2ggZ3JvdW5kIHdhcyBpbml0aWFsaXplZCBmb3IKcmVkdWN0aW9ucyB0aGF0IHJlYWQgb3V0c2lkZSBvZiB0aGUgZG9tYWluIHRoZXkgd3JpdGUgdG8gKGUuZy4gc2NhbnMpLgoKCkZvcm1lci1jb21taXQtaWQ6IGYxYWRkNjIxMzVjOGQyYmQ5YWJkNzc0ZjNjMGFhZWU5NmNjMTc2Njc=",
+        "commit_date": "2013-09-24 10:21:18 -0700",
+        "commit_before": "b023b750ef238bfb01fed695e6cc3eaa97de2a0e",
+        "files": {
+            "src": [
+                "src/Lower.cpp"
+            ],
+            "test": [
+                "test/correctness/vectorized_initialization.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 422,
+                "hunk_end": 434,
+                "func_is_single": true,
+                "func_start": 422,
+                "func_end": 434,
+                "func_hunks": [],
+                "patch_md5": "f20d127522f030485b857bfa45ce5a2c"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/0d44ac7f88fca548c685b899249666ad92989c47"
+    },
+    {
+        "commit_after": "eb186b7dd1af9c9fdcb0fc23f31de317d5fff590",
+        "commit_message": "Rml4IGEgYnVnIHdpdGggbXVsdGlwbGUgb3V0cHV0cyBmcm9tIGFuIGV4dGVybmFsIGFycmF5IGZ1bmN0aW9uCm5vdCBjb21waWxpbmcgYmVjYXVzZSBvZiBhIG1pc21hdGNoIGluIHRoZSBuYW1lIHVzZWQgZm9yIHRoZSBib3VuZHMKcmVwcmVzZW50aW5nIHRoZSBlbnRpcmUgb3V0cHV0IFR1cGxlLgoKQWRkZWQgYSB0ZXN0IGNhc2UgZm9yIHRvIGNhdGNoIHRoaXMgZmFpbHVyZS4KCgpGb3JtZXItY29tbWl0LWlkOiBmOTYwOTNiYmRjNTNmZTUzMGE3YzgxMzBmNDg3M2MyZjgxZWZlMjBj",
+        "commit_date": "2013-12-27 10:05:18 -0800",
+        "commit_before": "0bbcf4d0d0593317512e02b4fe12fc71bb8861a9",
+        "files": {
+            "src": [
+                "src/Lower.cpp"
+            ],
+            "test": [
+                "test/correctness/extern_producer.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 321,
+                "hunk_end": 340,
+                "func_is_single": true,
+                "func_start": 321,
+                "func_end": 340,
+                "func_hunks": [],
+                "patch_md5": "075c390bb19777567bc93b4e70892b5e"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/eb186b7dd1af9c9fdcb0fc23f31de317d5fff590"
+    },
+    {
+        "commit_after": "e9af2d7092be2d50913da295222225726afcb29a",
+        "commit_message": "U3RvcmFnZSBmbGF0dGVuaW5nIG5vdyBsZWdhbGl6ZXMgdHlwZXMKCkZvcmNlcyBlbGVtZW50cyB0byBiZSBhIG11bHRpcGxlIG9mIDgtYml0cywgYW5kCmluc2VydHMgY2FzdHMgYXMgbmVlZGVkLiBGaXhlcyBhbiBvdXRzdGFuZGluZyBidWcKd2l0aCB2ZWN0b3JpemVkIGxvYWRzIG9mIGNvbXB1dGVfcm9vdCBib29sIGJ1ZmZlcnMuCgpGb3JtZXItY29tbWl0LWlkOiA3NDliMDBhNGY5MTgzZTcxZjA1OTY3MjRiMTdiZGNiOWJjNGFmZWQx",
+        "commit_date": "2014-01-20 16:01:28 -0800",
+        "commit_before": "bdef8bccfd6961b3de7bb5d819f3ea8b8116b7b0",
+        "files": {
+            "src": [
+                "src/StorageFlattening.cpp"
+            ],
+            "test": [
+                "test/correctness/bool_compute_root_vectorize.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 144,
+                "func_end": 235,
+                "func_hunks": [],
+                "patch_md5": "3bcf8127fd0d8c715095176797f6c92f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/e9af2d7092be2d50913da295222225726afcb29a"
+    },
+    {
+        "commit_after": "cbacc02e536da5d0f39fe11986368409344f388a",
+        "commit_message": "Rml4IGJ1ZyBpbiBza2lwIHN0YWdlcwoKT3V0IG9mIHNjb3BlIHZhcmlhYmxlcyB3ZXJlIHNuZWFraW5nIGludG8gdGhlIGNvbmRpdGlvbiB2aWEKcmVwbGFjaW5nIGEgZm9yIGxvb3Agb2YgZXh0ZW50IG9uZSB3aXRoIGl0cyBtaW4gZHVyaW5nIGFuYWx5c2lzLgoKCkZvcm1lci1jb21taXQtaWQ6IDZlZGU4MjJmODE0Mzg0M2RlYzc0MDcyMDYzMzQ1NTJjZWYyMWZhYjg=",
+        "commit_date": "2014-03-05 13:09:14 -0800",
+        "commit_before": "7893ae8ea1843a6b5193f3769c0268aed4a97269",
+        "files": {
+            "src": [
+                "src/SkipStages.cpp"
+            ],
+            "test": [
+                "test/correctness/autotune_bug_5.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 28,
+                "func_end": 226,
+                "func_hunks": [],
+                "patch_md5": "f7d6660316e7448061d1f5c02147e5ca"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/cbacc02e536da5d0f39fe11986368409344f388a"
+    },
+    {
+        "commit_after": "470ad7174bb081ffa31be8197c69b13cd3535dc4",
+        "commit_message": "Rml4IGEgYnVnIHdoZXJlIGludGVnZXIgY29uc3RhbnRzIHdlcmUgbm90IGdldHRpbmcgY2FzdGVkIHRvIGNvcnJlY3QgdHlwZSB3aGVuCmdlbmVyYXRpbmcgeDg2IGludHJpbnNpY3MgZHVyaW5nIHBlZXBob2xpbmcuCgpBZGQgdGVzdCBmb3IgYWJvdmUuCgpVbnRhYmlmeSBzaW1kX29wX2NoZWNrLmNwcC4KCgpGb3JtZXItY29tbWl0LWlkOiBmNDllODQzN2E5NmE3Mjc0MjZmNmVmNThmMmE0MTU4MDRiYjY1ZTRj",
+        "commit_date": "2014-07-10 13:30:06 -0700",
+        "commit_before": "8d695cce29eb54ccbebb0f96194d8d7bb2d67feb",
+        "files": {
+            "src": [
+                "src/CodeGen_X86.cpp"
+            ],
+            "test": [
+                "test/correctness/simd_op_check.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 203,
+                "hunk_end": 209,
+                "func_is_single": true,
+                "func_start": 203,
+                "func_end": 209,
+                "func_hunks": [],
+                "patch_md5": "7b72e105c834f0785e6ae08e465822fe"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/470ad7174bb081ffa31be8197c69b13cd3535dc4"
+    },
+    {
+        "commit_after": "937ce50fa649b9848b8cf0cb531c9d9bbeb6fd7b",
+        "commit_message": "Rml4ZWQgYnVnIGluIFRCQUEgZ2VuZXJhdGlvbiwgYWRkZWQgdGVzdCB0aGF0IHJlcHJvZHVjZWQgdGhlIGJ1Zy4KCgpGb3JtZXItY29tbWl0LWlkOiBiMmQyZjY0OTlkZjA5ZGQ3ZDNlOThjMTk0Zjg4NWMyNWY1OTA4YmY1",
+        "commit_date": "2014-08-25 16:59:28 -0700",
+        "commit_before": "0c814c068a141290fa978e1ba6368e623a9e5990",
+        "files": {
+            "src": [
+                "src/CodeGen.cpp"
+            ],
+            "test": [
+                "test/correctness/vectorize_mixed_widths.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1131,
+                "hunk_end": 1137,
+                "func_is_single": true,
+                "func_start": 1131,
+                "func_end": 1137,
+                "func_hunks": [],
+                "patch_md5": "7c1f493ca1887a3d5d944352cd615fb2"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/937ce50fa649b9848b8cf0cb531c9d9bbeb6fd7b"
+    },
+    {
+        "commit_after": "8d5c077b4ac99744e0f82f3845e9443e596531f4",
+        "commit_message": "TW9kaWZpZWQgdGhlIHdheSB0aGUgc3BlY2lhbGl6ZV9icmFuY2hlZF9sb29wcyByZWN1cnNlcyB0aHJvdWdoIGV4cHJzIHRvIGZpeCBhIGJ1ZyB3aGVyZSB3ZSBuZWVkIHRvIHNwbGl0IG9uIGEgU2VsZWN0IG5vZGUgaW5zaWRlIHRoZSBleHByZXNzaW9uLiBBbHNvIGFkZGVkIGEgc2xpZ2h0bHkgbW9yZSBjb21wbGV4IHRlc3QgY2FzZSB0byBleGVyY2lzZSB0aGlzIGZlYXR1cmUgdG8gdGhlIGNvcnJlY3RuZXNzIHRlc3QuCgoKRm9ybWVyLWNvbW1pdC1pZDogMzU5MGQyZTBkNDRlZGE1NDRiZjFkODNhOGMwNzU1OGFkYjA3NGNjMA==",
+        "commit_date": "2014-09-26 15:32:10 -0700",
+        "commit_before": "fad9eeaf076f9ca3253d80dc2c8283241b70c2f8",
+        "files": {
+            "src": [
+                "src/SpecializeBranchedLoops.cpp"
+            ],
+            "test": [
+                "test/correctness/specialize_branched_loops.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 412,
+                "func_end": 919,
+                "func_hunks": [],
+                "patch_md5": "0a06b47d954b5194c8d5bdc4fbe6f3fd"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/8d5c077b4ac99744e0f82f3845e9443e596531f4"
+    },
+    {
+        "commit_after": "dc51aedaf5ebb14c0c0f824ba355aafe4aa73a2f",
+        "commit_message": "Rml4IGJ1ZyB3aGVyZSB0cmFjaW5nIGludGVyZmVyZWQgd2l0aCBib3VuZHMgaW5mZXJlbmNlLgoKCkZvcm1lci1jb21taXQtaWQ6IDE3ZGIxMTdlMWUzZDhlMzJkODM1YTljMTRlYjY4ZDU0MDc3MTY1ZjA=",
+        "commit_date": "2014-10-10 15:37:50 -0700",
+        "commit_before": "9ecbf00c6f36cece6c0b195d225970cd72e38598",
+        "files": {
+            "src": [
+                "src/Bounds.cpp"
+            ],
+            "test": [
+                "test/correctness/tracing_bounds.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 716,
+                "hunk_end": 723,
+                "func_is_single": true,
+                "func_start": 716,
+                "func_end": 723,
+                "func_hunks": [],
+                "patch_md5": "a8795cd08f3a045998b9961cae4fe65a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/dc51aedaf5ebb14c0c0f824ba355aafe4aa73a2f"
+    },
+    {
+        "commit_after": "9bbd895e0677f1e128422418d7edcefc32e54883",
+        "commit_message": "RW5hYmxlIHVudXNlZC12YXJpYWJsZSBlcnJvcnMgZm9yIHRlc3RzLCB0aGVuIGZpeCBlcnJvcnMKCgpGb3JtZXItY29tbWl0LWlkOiA5MjU3ODVlNjdmMzM1ZTNlYTRlOGVhYzFmNGFmNTMyMGRhNWM5ZWFm",
+        "commit_date": "2015-03-03 11:09:13 -0800",
+        "commit_before": "8451528662aade7918cc7b7b9234d1c23d59131f",
+        "files": {
+            "src": [
+                "tutorial/lesson_09_update_definitions.cpp"
+            ],
+            "test": [
+                "test/correctness/div_mod.cpp",
+                "test/correctness/extern_bounds_inference.cpp",
+                "test/correctness/multiple_outputs.cpp",
+                "test/correctness/vector_math.cpp",
+                "test/generator/gpu_only_aottest.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 777,
+                "func_end": 877,
+                "func_hunks": [],
+                "patch_md5": "db5d4b15b636218e8c6e99ac67d4ef8b"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/9bbd895e0677f1e128422418d7edcefc32e54883"
+    },
+    {
+        "commit_after": "b7758c0c1ce0376c9ddfc00ee957b44bd33202e5",
+        "commit_message": "Rml4IGZ1c2luZyBhIHZhcmlhYmxlIHdoZXJlIGlubmVyIGV4dGVudCBpcyB6ZXJvCgpUaGUgbG9vcCBzaG91bGRuJ3QgYmUgZW50ZXJlZCwgYnV0IGl0IHdhcyBjYXVzaW5nIGRpdmlkZSBieSB6ZXJvIGVycm9ycwppbiB0aGUgZWFybGllciBib3VuZHMgaW5mZXJlbmNlIGxvZ2ljLgoKCkZvcm1lci1jb21taXQtaWQ6IDljYjIzZDNiYWVjYTE2YmEzYmEzNDEwNGUxNzZiMWE3YjY1N2VhYzU=",
+        "commit_date": "2015-04-01 17:11:05 -0700",
+        "commit_before": "2d7d53263ff502cc6a2e5423ade777c7b447e9a6",
+        "files": {
+            "src": [
+                "src/Lower.cpp"
+            ],
+            "test": [
+                "test/correctness/fused_where_inner_extent_is_zero.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 230,
+                "hunk_end": 237,
+                "func_is_single": true,
+                "func_start": 230,
+                "func_end": 237,
+                "func_hunks": [],
+                "patch_md5": "5e1e7e7c047feabd28798e639ba17b5f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/b7758c0c1ce0376c9ddfc00ee957b44bd33202e5"
+    },
+    {
+        "commit_after": "81fdc4d249a569009fbd3b681ef561a043d84a20",
+        "commit_message": "Rml4IHN1YnRsZSBidWcgaW4gcGFydGl0aW9uIGxvb3BzCgpTb21lIHNjYWxhciBjb25kaXRpb25zIGFyZW4ndCB0aWdodCwgYW5kIGNhbid0IGJlIHVzZWQgdG8gc2ltcGxpZnkgdGhlCnByb2xvZ3VlIGFuZCBlcGlsb2d1ZS4KCgpGb3JtZXItY29tbWl0LWlkOiA2YmU4NzIwMjM1MGEwZGM4YTBmMTI1NmYxMWFjZGQzZmE4YmUxMjRl",
+        "commit_date": "2015-04-07 15:59:59 -0700",
+        "commit_before": "5a60b1a7e7689f06e0b916c5411da54d5037816b",
+        "files": {
+            "src": [
+                "src/PartitionLoops.cpp"
+            ],
+            "test": [
+                "test/correctness/bad_likely.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 121,
+                "func_end": 510,
+                "func_hunks": [],
+                "patch_md5": "95a45f470e672ac4e56f0d55eb7ddc02"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/81fdc4d249a569009fbd3b681ef561a043d84a20"
+    },
+    {
+        "commit_after": "9c503287c318807639e8b968475cf6ae62da5333",
+        "commit_message": "Rml4IGJ1ZyBpbiBkZWludGVybGVhdmUgYnkgYSBmYWN0b3Igb2YgZm91cgoKCkZvcm1lci1jb21taXQtaWQ6IGQwYzE5OGJlMTE1YzBlZWM3N2M4MjdkODNmYTFhZTEzZjM4MWM3MmY=",
+        "commit_date": "2015-04-10 11:09:28 -0700",
+        "commit_before": "8ff19fbb076592cc67a6c5ce9f8fbbed76eee668",
+        "files": {
+            "src": [
+                "src/Deinterleave.cpp"
+            ],
+            "test": [
+                "test/correctness/deinterleave4.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 422,
+                "hunk_end": 428,
+                "func_is_single": true,
+                "func_start": 422,
+                "func_end": 428,
+                "func_hunks": [],
+                "patch_md5": "726832184b9f766b2400ee31f7845d1a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/9c503287c318807639e8b968475cf6ae62da5333"
+    },
+    {
+        "commit_after": "678034a5238f740ef82145f43679129c8bcd1487",
+        "commit_message": "Rml4IGJ1ZyBpbiBkb3VibGUgcHJpbnRpbmcgZm9yIG51bWJlcnMgYmFyZWx5IGxlc3MgdGhhbiBhIHBvd2VyIG9mIDEwCgoKRm9ybWVyLWNvbW1pdC1pZDogNjVlOGI4ODFkYzZlODgzMTI4YWQzMWUzYjhkNTMzN2UxZWRjYjViMA==",
+        "commit_date": "2015-05-18 13:48:50 -0700",
+        "commit_before": "470c344fd8ac62d29c151d96fc5cdd3a9807021a",
+        "files": {
+            "src": [
+                "src/runtime/to_string.cpp"
+            ],
+            "test": [
+                "test/correctness/print.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 180,
+                "hunk_is_single": true,
+                "hunk_start": 179,
+                "hunk_end": 184,
+                "func_is_single": true,
+                "func_start": 179,
+                "func_end": 184,
+                "func_hunks": [],
+                "patch_md5": "801449be7e1dddcd0c7e98a3490030c6"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/678034a5238f740ef82145f43679129c8bcd1487"
+    },
+    {
+        "commit_after": "dbfaadaca127d25f76764606b2d5f43aae3a56b9",
+        "commit_message": "RW5kIG9mIHdvcmsgc2Vzc2lvbi4gdGVzdHMvdGVzdF9iYXNpY3MucHkgc3RpbGwgbm90IHBhc3NpbmcuIE1vcmUgd29yayBuZWVkZWQgdG8gc29sdmUgdGhpcyBidWcuCgoKRm9ybWVyLWNvbW1pdC1pZDogM2M3Zjg3YTkyYTNiNDUyMTc1YWUzYjM1ZTk1YTc1NmExZTQwYWEyZA==",
+        "commit_date": "2015-06-24 10:51:27 +0200",
+        "commit_before": "37d6ea85b383f60fc87e185cae2c3d6f4479117b",
+        "files": {
+            "src": [
+                "python_bindings/python/Expr.cpp"
+            ],
+            "test": [
+                "python_bindings/tests/test_basics.py"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 49,
+                "hunk_end": 64,
+                "func_is_single": true,
+                "func_start": 49,
+                "func_end": 64,
+                "func_hunks": [],
+                "patch_md5": "929657d53ab3038fe441eba1cb748984"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/dbfaadaca127d25f76764606b2d5f43aae3a56b9"
+    },
+    {
+        "commit_after": "65d887a1eff23715cdd77b8ee54394a3a92cd537",
+        "commit_message": "Rml4IHBhcnRpdGlvbiBsb29wcyBidWcKCldlIHdlcmUgcnVubmluZyBiZXlvbmQgdGhlIGVuZCBvZiB0aGUgbG9vcCB0byByZWFjaCB0aGUgcHJvbG9ndWUgdmFsdWUuCgoKRm9ybWVyLWNvbW1pdC1pZDogZDI2OGI3YzI2ZDJiYTgwMWU5YmNmNmMyZTdlMjBlZGUwMTYyMGY4Ng==",
+        "commit_date": "2015-12-02 15:23:35 -0800",
+        "commit_before": "24086fdee708db2aca09e54e8997a1139aa1ec5f",
+        "files": {
+            "src": [
+                "src/PartitionLoops.cpp"
+            ],
+            "test": [
+                "test/correctness/likely.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 495,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 494,
+                "func_end": 510,
+                "func_hunks": [],
+                "patch_md5": "086fd9c0aee69154de0ce5e86079803c"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/65d887a1eff23715cdd77b8ee54394a3a92cd537"
+    },
+    {
+        "commit_after": "3e14d42dc12be07eecea18a27199b2ff1afea859",
+        "commit_message": "Rml4ZWQgYnVncyBpbiBoYWxpZGVfcHJvZmlsZXJfcmVwb3J0X3VubG9ja2VkIGFuZCB0aGUgbWVtb3J5X3Byb2ZpbGVyIHRlc3RzLiBBZGRlZCB0ZXN0IGZvciBjb25kaXRpb25hbCBBbGxvY2F0ZQoKRml4ZWQgYnVncyBpbiBoYWxpZGVfcHJvZmlsZXJfcmVwb3J0X3VubG9ja2VkIHRvIHByaW50IG91dCBwZXIgZnVuYwpzdGF0cyBpZiB0b3RhbCBtZW1vcnkgYWxsb2NhdGVkIGJ5IHRoYXQgRnVuYyBpcyBub3QgemVybyBldmVuIGlmIHRpbWUKc3BlbnQgaXMgemVyby4KCgpGb3JtZXItY29tbWl0LWlkOiA4ZTFhNDI0OGIyYjQ3MzY3ODNiYjgzODBjMWFiNzk2ZjA1YTc2NDRl",
+        "commit_date": "2016-03-08 10:35:55 -0800",
+        "commit_before": "6c0ffb663f64551dc460757f53d5c0a909a800a3",
+        "files": {
+            "src": [
+                "src/runtime/profiler.cpp"
+            ],
+            "test": [
+                "test/performance/memory_profiler.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 233,
+                "func_end": 255,
+                "func_hunks": [],
+                "patch_md5": "c3bfb78cca68650dd2b6315b7553177e"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/3e14d42dc12be07eecea18a27199b2ff1afea859"
+    },
+    {
+        "commit_after": "4be464e55d4e14d6c6b61493b1c7086dde3cfa51",
+        "commit_message": "Rml4ZWQgYnVncyBpbiB0ZXN0CgoKRm9ybWVyLWNvbW1pdC1pZDogNGU0MjY5OWVjODBlNDUxYWMxYjdiNDIwYzBmYWZiYTQ2YzNkOGIwNw==",
+        "commit_date": "2016-04-19 03:20:39 -0700",
+        "commit_before": "d1ba34695004e97093bf751a06fa8fb42bc5929f",
+        "files": {
+            "src": [
+                "src/ParallelRVar.cpp"
+            ],
+            "test": [
+                "test/correctness/reduction_non_rectangular.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 139,
+                "hunk_end": 146,
+                "func_is_single": true,
+                "func_start": 139,
+                "func_end": 146,
+                "func_hunks": [],
+                "patch_md5": "b507382d27d999c930fa3f22527a96f3"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/4be464e55d4e14d6c6b61493b1c7086dde3cfa51"
+    },
+    {
+        "commit_after": "16c59b066d134d8f53b40456bacba9e772b947f4",
+        "commit_message": "YnVnIGZpeGVkIEV4dGVybkZ1bmNBcmd1bWVudCBkZWVwLWNvcHkKCkV4dGVybkZ1bmNBcmd1bWVudCdzIGZ1bmMgZGVlcC1jb3B5IHNob3VsZCBvbmx5IGJlIGRvbmUgaWYgaXQncyBkZWZpbmVkCgoKRm9ybWVyLWNvbW1pdC1pZDogMDcwMDhmYTY1MmY3NjE3MjYyZDY1OWU1ZjBmOTY4OWNmNTk2MjdmZA==",
+        "commit_date": "2016-05-06 13:40:38 -0700",
+        "commit_before": "5e9dd9991f35e8b4ab76cb9c13510a237544e7b3",
+        "files": {
+            "src": [
+                "src/Function.cpp"
+            ],
+            "test": [
+                "test/correctness/wrap.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 359,
+                "hunk_is_single": true,
+                "hunk_start": 358,
+                "hunk_end": 363,
+                "func_is_single": true,
+                "func_start": 358,
+                "func_end": 363,
+                "func_hunks": [],
+                "patch_md5": "58ff74243c8ea69af659a4eb7d79ee8a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/16c59b066d134d8f53b40456bacba9e772b947f4"
+    },
+    {
+        "commit_after": "55b3033359c66f02544e58c44d08b3bcfb0b4b61",
+        "commit_message": "Rml4IG9wZW5jbCBkb3VibGVzIGlzc3VlCgoKRm9ybWVyLWNvbW1pdC1pZDogYzczOTczYWMxYjg2MTAyNjE1MGU1YTYxNDY2OTVjYTE0MzcwZDRlNQ==",
+        "commit_date": "2016-05-25 16:49:58 -0700",
+        "commit_before": "11b484612cf9fec7b5d908aa8ac02a8e2a94bc11",
+        "files": {
+            "src": [
+                "src/Target.h"
+            ],
+            "test": [
+                "test/correctness/vector_cast.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 34,
+                "func_end": 231,
+                "func_hunks": [],
+                "patch_md5": "3196414a19d1bcfc0dcc2e6841f90c58"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/55b3033359c66f02544e58c44d08b3bcfb0b4b61"
+    },
+    {
+        "commit_after": "1b91cae74a855a6a4ecc20df93781f7b2c41f64d",
+        "commit_message": "Zml4ZWQgYnVncyBpbiBQYXJ0aXRpb25Mb29wcyBlcGlsb2d1ZSBydW5zIGJlZm9yZSBzdGFydCBvZiB0aGUgbG9vcAoKCkZvcm1lci1jb21taXQtaWQ6IDNhMjQ2Y2IwZDdiNmMzOWMwOThmNzY1NDkwMzFlNzcxNzU1ZGJkNGE=",
+        "commit_date": "2016-06-27 13:58:34 -0700",
+        "commit_before": "cf16560a40949420c5e600843375df5ca7f8e30e",
+        "files": {
+            "src": [
+                "src/PartitionLoops.cpp"
+            ],
+            "test": [
+                "test/correctness/specialize.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 575,
+                "hunk_is_single": true,
+                "hunk_start": 574,
+                "hunk_end": 581,
+                "func_is_single": true,
+                "func_start": 574,
+                "func_end": 581,
+                "func_hunks": [],
+                "patch_md5": "159fe1fc0700ab95afae0b3cb953ee13"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/1b91cae74a855a6a4ecc20df93781f7b2c41f64d"
+    },
+    {
+        "commit_after": "a301e865d615f753f7d1a462b3085d743d9d7ee9",
+        "commit_message": "Zml4ZWQgYnVncyB2ZWN0b3JpemVkIGFsbG9jYXRlIHJhbXAgZG9lcyBub3Qgc3RhcnQgZnJvbSB6ZXJvCgoKRm9ybWVyLWNvbW1pdC1pZDogNGU4N2Y4ODRjYjI3MTQwODZkOTQ2MTQ3NDJmNGU2ZjgzZjFmODJhNw==",
+        "commit_date": "2016-07-13 13:09:43 -0700",
+        "commit_before": "48322f03e38b6578056e0fa842d00a5f83641e50",
+        "files": {
+            "src": [
+                "src/VectorizeLoops.cpp"
+            ],
+            "test": [
+                "test/correctness/vectorized_reduction_bug.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 736,
+                "hunk_end": 744,
+                "func_is_single": true,
+                "func_start": 736,
+                "func_end": 744,
+                "func_hunks": [],
+                "patch_md5": "64321fac08d19f379d487ef98ef55b4a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/a301e865d615f753f7d1a462b3085d743d9d7ee9"
+    },
+    {
+        "commit_after": "ce682a461ff54e73c5b778fb3e8cacf1d3f3b687",
+        "commit_message": "Rml4ZWQgYSBidWcgaW4gU3RhZ2U6OnJmYWN0b3IoKQoKVGhlIGtleSBvZiBzdWJzdGl0dXRpb25fbWFwIHNob3VsZCB1c2UgdGhlIGZ1bGwgbmFtZQpvZiB0aGUgUlZhci4KCgpGb3JtZXItY29tbWl0LWlkOiAzYjY2Y2Y1YTc1NmFiOWRkMmUxM2M0MDA3YThkMTZlYjZjM2FiMzc4",
+        "commit_date": "2016-09-22 20:16:31 -0700",
+        "commit_before": "903037dc8b0c906353df27beb032acf35a546dc4",
+        "files": {
+            "src": [
+                "src/Func.cpp"
+            ],
+            "test": [
+                "test/correctness/rfactor.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 618,
+                "hunk_end": 624,
+                "func_is_single": true,
+                "func_start": 618,
+                "func_end": 624,
+                "func_hunks": [],
+                "patch_md5": "bbc1050a3aafad772b504463f1b7d5cd"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/ce682a461ff54e73c5b778fb3e8cacf1d3f3b687"
+    },
+    {
+        "commit_after": "466299503cc69884fe741a4ea17730036a3f9bc2",
+        "commit_message": "Rml4IG1hc2tfdG9fYm9vbCBub3QgZm91bmQgZXJyb3IgaW4gaGV4YWdvbi4KCgpGb3JtZXItY29tbWl0LWlkOiA0MTZkNWIwZWYyNThkMzM0N2NkNDUyYmI2ZjU5MGM1NzY5MDI0ZWI3",
+        "commit_date": "2016-12-18 16:23:54 -0600",
+        "commit_before": "82d58aa74685e19d5515eb69613a97ea58e3fcb9",
+        "files": {
+            "src": [
+                "src/CodeGen_Hexagon.cpp"
+            ],
+            "test": [
+                "test/correctness/logical.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1501,
+                "hunk_end": 1523,
+                "func_is_single": true,
+                "func_start": 1501,
+                "func_end": 1523,
+                "func_hunks": [],
+                "patch_md5": "49ba8644c8040e3468e569630b4d544f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/466299503cc69884fe741a4ea17730036a3f9bc2"
+    },
+    {
+        "commit_after": "86de911a260c3e03ff3a0f8ea32281c580e02b52",
+        "commit_message": "Rml4ZWQgcHJlZGljYXRlZCBzdG9yZSBidWdzIGluIGNvZGVnZW4gTExWTQoKCkZvcm1lci1jb21taXQtaWQ6IDQzMDZmZGMwNjRmY2JiODJmY2VkYTFmMjlmM2YzMzFmMjA5NGYwZTk=",
+        "commit_date": "2017-01-12 17:56:20 -0800",
+        "commit_before": "44b1c8759ee1b8207ea6336e2b48a4976c8320fe",
+        "files": {
+            "src": [
+                "src/CodeGen_LLVM.cpp"
+            ],
+            "test": [
+                "test/correctness/predicated_store_load.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2159,
+                "hunk_end": 2165,
+                "func_is_single": true,
+                "func_start": 2159,
+                "func_end": 2165,
+                "func_hunks": [],
+                "patch_md5": "497d9e8a638a62356d8a94c1069bc61f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/86de911a260c3e03ff3a0f8ea32281c580e02b52"
+    },
+    {
+        "commit_after": "1024007425ae44060fb21261c0bf7bec61e5b4b7",
+        "commit_message": "Rml4IHRlc3Q7IHJlbW92ZSBkZWJ1Z2dpbmcgcHJpbnQKCgpGb3JtZXItY29tbWl0LWlkOiA3NWZlYjY4N2QyMWZhOTBkMmJkYWE4ZDcxMWFlMGMwMjgwMGQ4Yjkx",
+        "commit_date": "2017-02-02 10:01:50 -0800",
+        "commit_before": "9a1fedb878702783d0fd38a3bf11da746b01c66c",
+        "files": {
+            "src": [
+                "src/SimplifySpecializations.cpp"
+            ],
+            "test": [
+                "test/correctness/specialize.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 46,
+                "hunk_end": 52,
+                "func_is_single": true,
+                "func_start": 46,
+                "func_end": 52,
+                "func_hunks": [],
+                "patch_md5": "d09eff77ee479280f2146c99a5a18ab6"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/1024007425ae44060fb21261c0bf7bec61e5b4b7"
+    },
+    {
+        "commit_after": "f8be6ba2ee6ec7276f555987b34c0d76ca17a5c4",
+        "commit_message": "QnVnIGZpeGVzCgoKRm9ybWVyLWNvbW1pdC1pZDogN2M5NGVhMTNiNGI4NDRiYWQwNzlhYWE5MTVkZDE2NTY2MGYxODQ0Ng==",
+        "commit_date": "2017-04-28 17:35:45 -0700",
+        "commit_before": "bff3686bf30fb9d10e14b7dfcf36a71d80413013",
+        "files": {
+            "src": [
+                "src/runtime/HalideBuffer.h"
+            ],
+            "test": [
+                "test/generator/cleanup_on_error_aottest.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1265,
+                "hunk_end": 1271,
+                "func_is_single": true,
+                "func_start": 1265,
+                "func_end": 1271,
+                "func_hunks": [],
+                "patch_md5": "d2c92c3edec79dbdff65e63b77876a95"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/f8be6ba2ee6ec7276f555987b34c0d76ca17a5c4"
+    },
+    {
+        "commit_after": "a6d34a475af3470c91ce55dcfeb8f40e2ed9e8f8",
+        "commit_message": "QysrIEJhY2tlbmQgc2hvdWxkIGVtaXQgQysrIGV4dGVybmFsLWNvZGUgYmxvYnMgaW50byBvdXRwdXQKClVwZGF0ZSBleHRlcm5hbF9jb2RlX2dlbmVyYXRvciB0ZXN0IGFuZCBNYWtlZmlsZSBhcHByb3ByaWF0ZWx5LiBGaXhlcyBJc3N1ZSAjMjEwMgoKCkZvcm1lci1jb21taXQtaWQ6IGFjMzA5MjdkNGZlZDQ3Y2ZhM2JlNTA4NDkxN2Y1YzRkNWE3NDI5ZDM=",
+        "commit_date": "2017-05-31 15:21:33 -0700",
+        "commit_before": "9f2cbaf435bd44681b36f77baefd2d1fedbb0af5",
+        "files": {
+            "src": [
+                "src/CodeGen_C.cpp"
+            ],
+            "test": [
+                "test/generator/external_code_generator.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 552,
+                "hunk_is_single": true,
+                "hunk_start": 551,
+                "hunk_end": 556,
+                "func_is_single": true,
+                "func_start": 551,
+                "func_end": 556,
+                "func_hunks": [],
+                "patch_md5": "fd8b08fef8447fffa0298eb839ef4312"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/a6d34a475af3470c91ce55dcfeb8f40e2ed9e8f8"
+    },
+    {
+        "commit_after": "fe0c4e74e354b83f3be301cc3987559cabe9ee58",
+        "commit_message": "SGFuZGxlIGNhc2Ugd2hlcmUgYW4gZW1iZWRkZWQgYnVmZmVyIGluIEpJVCBjb21waWxhdGlvbiBpcyBub3QgdmVjdG9yIGFsaWduZWQuCgpGaXhlcyBpc3N1ZSBodHRwczovL2dpdGh1Yi5jb20vaGFsaWRlL0hhbGlkZS9pc3N1ZXMvMjQ3OCAuCgpBZGQgYSB0ZXN0IGZvciBub24tdmVjdG9yIGFsaWduZWQgZW1iZGVkZGVkIGJ1ZmZlcnMuCgooT3BlbiBxdWVzdGlvbiBhcyB0byB3aGV0aGVyIHRoaXMgd29ya3MgY29ycmVjdGx5IGZvciBBT1QgZW1iZWRkZWQKYnVmZmVycyBmb3Igc3VmZmljaWVudGx5IGxvbmcgdmVjdG9ycywgYnV0IHRoZXJlIGFyZSBubyBidWcgcmVwb3J0cyBhcwp5ZXQuKQoKCkZvcm1lci1jb21taXQtaWQ6IDNiYjUzZTQ3NjM3YmM1YmM0YTIzZTU3ZWEyNThjYThhYjE0Yjk3MWUgW2Zvcm1lcmx5IGIyNzcwYjFjNGI3MzMyZDZmOGZmYzYxMWU4MDA5YWI4MGU0OWRhOWJdCkZvcm1lci1jb21taXQtaWQ6IDVkZjZhZTEzZGE5MjgzNzcyOWZkN2NhNjEzMWQ0ZWUyNTA1YTJlYTc=",
+        "commit_date": "2017-11-21 12:58:08 -0800",
+        "commit_before": "a97466663ba80efc3d15009350fa67db8796b399",
+        "files": {
+            "src": [
+                "src/CodeGen_LLVM.cpp"
+            ],
+            "test": [
+                "test/correctness/non_vector_aligned_embeded_buffer.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1998,
+                "hunk_end": 2006,
+                "func_is_single": true,
+                "func_start": 1998,
+                "func_end": 2006,
+                "func_hunks": [],
+                "patch_md5": "4a11e0836e6a2c620eedef1d50a25c58"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/fe0c4e74e354b83f3be301cc3987559cabe9ee58"
+    },
+    {
+        "commit_after": "03f72e9d53cae4a001d68b2a694053aad8e0f90f",
+        "commit_message": "Rml4IHB5dGhvbl9iaW5kaW5ncyB0ZXN0cwoKLSByZW1vdmUgdGhlIHNoZWxsIHNjcmlwdHMgaW4gZmF2b3Igb2YgZG9pbmcgZXZlcnl0aGluZyBpbiB0aGUgTWFrZWZpbGUKLSByZW5hbWUgInRlc3RzIiB0byAiY29ycmVjdG5lc3MiLCBhbmQgYWN0dWFsbHkgcnVuIHRoZW0gKHdoaWNoIHdlIGRpZG4ndCBiZWZvcmUpLCBmaXhpbmcgc29tZSBtaW5vciBlcnJvcnMKLSByZW1vdmUgcmVmZXJlbmNlcyB0byAibm9zZSIgdG9vbAotIGRpc2FibGUgY29ycmVjdG5lc3MvZXh0ZXJuIGFuZCBsZXNzb25fMTBfYW90X2NvbXBpbGF0aW9uX3J1biBmb3Igbm93LCBhcyB0aGV5IG5lZWQgbm9udHJpdmlhbCB3b3JrIHRvIGZ1bmN0aW9uCg==",
+        "commit_date": "2017-12-07 17:53:53 -0800",
+        "commit_before": "407972a54086a0e8da15ca846a530dcd836c30a8",
+        "files": {
+            "src": [
+                "python_bindings/correctness/the_sort_function.c"
+            ],
+            "test": [
+                "python_bindings/tests/test_halide.py"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2,
+                "hunk_is_single": true,
+                "hunk_start": 0,
+                "hunk_end": 0,
+                "func_is_single": true,
+                "func_start": 0,
+                "func_end": 0,
+                "func_hunks": [],
+                "patch_md5": "a59c0a7b6de120678e09db1868b4ae70"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/03f72e9d53cae4a001d68b2a694053aad8e0f90f"
+    },
+    {
+        "commit_after": "0f012722b3c3cdd2e236f99d7a8c5f7ffb8c2ed3",
+        "commit_message": "Rml4IGEgYnVnIGluIEluamVjdEhWWExvY2tVbmxvY2sgdGhhdCB3YXMgZXhwb3NlZCBieSBhIG1vZGlmaWVkIHZlcnNpb24Kb2YgdGVzdC9jb3JyZWN0bmVzcy9wYXJhbGxlbF9uZXN0ZWQuY3BwLgoKVGhlIGJ1ZyBpcyBleHBvc2VkIHdoZW4gd2UgaGF2ZSBuZXN0ZWQgcGFyYWxsZWxpc20gd2l0aCBhbHRlcm5hdGluZyBzY29wZXMKZnJvbSBpbm5lciB0byBvdXRlciB0aGF0IHVzZXMgaHZ4LiBUaGUgbW9kaWZpZWQgdmVyc2lvbiBpcyBub3cgYWRkZWQgYXMgYSBuZXcKdGVzdCAtIHRlc3QvY29ycmVjdG5lc3MvcGFyYWxsZWxfbmVzdGVkXzEuY3BwCg==",
+        "commit_date": "2017-12-19 13:39:42 -0600",
+        "commit_before": "eae18baa04d6cddcf0bfdbc1743041cf8af9801a",
+        "files": {
+            "src": [
+                "src/CodeGen_Hexagon.cpp"
+            ],
+            "test": [
+                "test/correctness/parallel_nested_1.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 210,
+                "hunk_end": 216,
+                "func_is_single": true,
+                "func_start": 210,
+                "func_end": 216,
+                "func_hunks": [],
+                "patch_md5": "bf65e1743bfc9e604d7d7921bacb9065"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/0f012722b3c3cdd2e236f99d7a8c5f7ffb8c2ed3"
+    },
+    {
+        "commit_after": "8f4de18c666d9fbcba87e094d199fd72fdb842b1",
+        "commit_message": "Rml4IGJ1Z3MgaW4gY29tcHV0ZV93aXRoIHdoZW4gdGhlIGZ1c2VkIGdyb3VwcyByZWZlciB0byBpbmxpbmVkIGZ1bmN0aW9ucwo=",
+        "commit_date": "2018-01-12 09:51:49 -0800",
+        "commit_before": "2994035c0872b5ed4a79ae5c6e15856f6cf660fa",
+        "files": {
+            "src": [
+                "src/RealizationOrder.cpp"
+            ],
+            "test": [
+                "test/correctness/compute_with_inlined.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 40,
+                "hunk_end": 50,
+                "func_is_single": true,
+                "func_start": 40,
+                "func_end": 50,
+                "func_hunks": [],
+                "patch_md5": "619a38ecdd3492d5d2c421e7c6c4f3e5"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/8f4de18c666d9fbcba87e094d199fd72fdb842b1"
+    },
+    {
+        "commit_after": "a386cd4fa59418f5ae48fd1a2076565c1ae8683c",
+        "commit_message": "Rml4IHNvbWUgZm9ybWF0dGluZyBpc3N1ZXMK",
+        "commit_date": "2018-06-06 18:52:43 -0500",
+        "commit_before": "1faba4a26c5a8764355924861dc754e31bd033bf",
+        "files": {
+            "src": [
+                "src/HexagonOptimize.cpp"
+            ],
+            "test": [
+                "test/correctness/widening_reduction.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1018,
+                "hunk_end": 1029,
+                "func_is_single": true,
+                "func_start": 1018,
+                "func_end": 1029,
+                "func_hunks": [],
+                "patch_md5": "ad358cccb1c7fd675bcaa062b435edf3"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/a386cd4fa59418f5ae48fd1a2076565c1ae8683c"
+    },
+    {
+        "commit_after": "cc7f009a01c488f1bf1cd7bd0ef3a53e62e01479",
+        "commit_message": "UmVtb3ZlIGFzc2VydGlvbiB0aGF0IGV2ZXJ5IHN0b3JlIGxldmVsIGNvbnRhaW5zIGEgY29tcHV0ZSBsZXZlbC4gRml4ICMzMzg4CgpBbHNvIGFkZHMgcmVncmVzc2lvbiB0ZXN0IGluIGNvcnJlY3RuZXNzIHRvIHByZXZlbnQgaXNzdWUgZnJvbSBiZWluZwpyZWludHJvZHVjZWQuIFN0b3JlIGxldmVsIGNhbiBiZSBhIGZhbHNlIHBvc2l0aXZlIGlmIGFuIGVhcmxpZXIgdXBkYXRlCnN0YWdlIGRvZXNuJ3QgcmVmZXJlbmNlIHRoZSBpbmplY3RlZCBmdW5jdGlvbi4K",
+        "commit_date": "2018-10-25 14:36:00 -0700",
+        "commit_before": "b7a5f54c68e64750124bf397a9f7bccaf18a0c74",
+        "files": {
+            "src": [
+                "src/ScheduleFunctions.cpp"
+            ],
+            "test": [
+                "test/correctness/compute_at_update_stage.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1021,
+                "hunk_end": 1029,
+                "func_is_single": true,
+                "func_start": 1021,
+                "func_end": 1029,
+                "func_hunks": [],
+                "patch_md5": "98f320c4f1eed9ff27017832a78a80a7"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/cc7f009a01c488f1bf1cd7bd0ef3a53e62e01479"
+    },
+    {
+        "commit_after": "763b895c5870926e988cecec92d55c118f89cf4b",
+        "commit_message": "Rml4IGEgYnVnIHdpdGggbXVsdGlwbGUgdXBkYXRlIHdpdGggc2VsZiByZWZlcmVuY2UK",
+        "commit_date": "2019-01-25 15:31:22 -0500",
+        "commit_before": "7ebff0363fdf885aa13268a390d414d31f4a791a",
+        "files": {
+            "src": [
+                "src/Derivative.cpp"
+            ],
+            "test": [
+                "test/correctness/autodiff.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1399,
+                "func_end": 1743,
+                "func_hunks": [],
+                "patch_md5": "2d5e957f774d153911afc722d36a8e07"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/763b895c5870926e988cecec92d55c118f89cf4b"
+    },
+    {
+        "commit_after": "a55ab25b81ed2c15ddb11fd2ec8e95e0cead5522",
+        "commit_message": "Rml4IG1vcmUgTmFOIGlzc3Vlcwo=",
+        "commit_date": "2019-01-26 13:51:34 -0500",
+        "commit_before": "468446445a661b628715b66b6a4f9f64ff490c87",
+        "files": {
+            "src": [
+                "src/Derivative.cpp"
+            ],
+            "test": [
+                "test/correctness/autodiff.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1088,
+                "func_end": 1132,
+                "func_hunks": [],
+                "patch_md5": "f5129160030c0d6e97ab91a6cad207b7"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/a55ab25b81ed2c15ddb11fd2ec8e95e0cead5522"
+    },
+    {
+        "commit_after": "074315a8f55a8db9bf9e5edea9fa5226d255f32a",
+        "commit_message": "Zml4IG1lbW9yeSBidWcK",
+        "commit_date": "2019-10-03 22:24:50 -0400",
+        "commit_before": "a6da1d19794f1cfb243bbc3e5d18f7d3743bb34f",
+        "files": {
+            "src": [
+                "src/AddAtomicMutex.cpp"
+            ],
+            "test": [
+                "test/correctness/atomics.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 219,
+                "func_end": 263,
+                "func_hunks": [],
+                "patch_md5": "3f52c8dc84ad1e80bd715378f8677c1a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/074315a8f55a8db9bf9e5edea9fa5226d255f32a"
+    },
+    {
+        "commit_after": "4dc3c8d86905efee4a7d5e954390d13f0079102a",
+        "commit_message": "Rml4IGZvcm1hdHRpbmcgaXNzdWVzCg==",
+        "commit_date": "2020-01-24 15:30:46 +1300",
+        "commit_before": "937ed09a6944e930c06448b53dbf4a0201279eff",
+        "files": {
+            "src": [
+                "src/CodeGen_X86.cpp"
+            ],
+            "test": [
+                "test/correctness/simd_op_check.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 283,
+                "hunk_end": 289,
+                "func_is_single": true,
+                "func_start": 283,
+                "func_end": 289,
+                "func_hunks": [],
+                "patch_md5": "faa1aa2b0159d3aa48942f571beb38bb"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/4dc3c8d86905efee4a7d5e954390d13f0079102a"
+    },
+    {
+        "commit_after": "971aa5e9c9ca7e83528cc3014a1181946b44e05b",
+        "commit_message": "Rml4IG9mICJqcGVnbGliLmgiIHZzLiA8d2luZG93cy5oPiBpc3N1ZQo=",
+        "commit_date": "2020-01-30 01:31:02 +0300",
+        "commit_before": "4f013a9a7765c88fa7dbaa132656c51b86bb0d60",
+        "files": {
+            "src": [
+                "tutorial/lesson_12_using_the_gpu.cpp"
+            ],
+            "test": [
+                "test/common/halide_test_dirs.h",
+                "test/correctness/image_io.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 16,
+                "hunk_end": 32,
+                "func_is_single": true,
+                "func_start": 16,
+                "func_end": 32,
+                "func_hunks": [],
+                "patch_md5": "d72ee71670bd1b8e630186deaa6f8618"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/971aa5e9c9ca7e83528cc3014a1181946b44e05b"
+    },
+    {
+        "commit_after": "4455d3cf79379df6d49957fa766a13b95a6892a6",
+        "commit_message": "Rml4IHRlc3QvZ2VuZXJhdG9yX2FvdF9tdWx0aXRhcmdldCAoSXNzdWUgIzQ2MTkpCgpOZWVkIHRvIHVzZSBhIGZlYXR1cmUgdGhhdCBkb2Vzbid0IG5lZWQgYSBjdXN0b20gcnVudGltZS4KCihBbHNvLCBkcml2ZS1ieSBhZGRpdGlvbiBvZiA6OkRlYnVnIHRvIHRoZSBtdWx0aXRhcmdldCBzbmlmZiB0ZXN0LCB3aGljaCBpdCBzaG91bGQgaGF2ZSBiZWVuIGluIGFscmVhZHkpCg==",
+        "commit_date": "2020-02-19 09:47:57 -0800",
+        "commit_before": "6ecff58515639249492e0236941a5296dde13873",
+        "files": {
+            "src": [
+                "src/Module.cpp"
+            ],
+            "test": [
+                "test/generator/CMakeLists.txt",
+                "test/generator/multitarget_aottest.cpp",
+                "test/generator/multitarget_generator.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 756,
+                "func_end": 774,
+                "func_hunks": [],
+                "patch_md5": "788060f66506b1e31216dc368e62371c"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/4455d3cf79379df6d49957fa766a13b95a6892a6"
+    },
+    {
+        "commit_after": "e63b99603ad2d1205bf24bd766b604988f24d85a",
+        "commit_message": "W0hleGFnb25dIEZpeCBmb3IgTFVUMzIgY29ycmVjdG5lc3MuCgpMb3dlciBib3VuZCBmb3IgbHV0IG5lZWRzIHRvID4gLTEgaW5zdGVhZCBvZiA+PSAtMS4KVGhlIGJ1ZyB3YXMgaW50cm9kdWNlZCBpbiBiN2RkNzg3YzQ1MzJkNzU5MzM0ZjBhMjM0OGM5OTNhZjVlMjFmMTUyCmNvbW1pdC4K",
+        "commit_date": "2020-08-19 12:45:25 -0500",
+        "commit_before": "ef37487147eaba4433f9adce868af71329768ba0",
+        "files": {
+            "src": [
+                "src/CodeGen_Hexagon.cpp"
+            ],
+            "test": [
+                "test/correctness/gather.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2090,
+                "hunk_end": 2096,
+                "func_is_single": true,
+                "func_start": 2090,
+                "func_end": 2096,
+                "func_hunks": [],
+                "patch_md5": "2b5a3868c225098702eebfb45c931061"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/e63b99603ad2d1205bf24bd766b604988f24d85a"
+    },
+    {
+        "commit_after": "9fea59fc26ae1c098b6f64a794d9de4674ea0b2b",
+        "commit_message": "QnVnIGZpeCBmb3IgbG9zc2xlc3NfY2FzdCB3aXRoIG1pbm9yIGFkZGl0aW9ucyAoIzU0NTkpCgoqIEJ1ZyBmaXggZm9yIGxvc3NsZXNzX2Nhc3Qgd2l0aCBtaW5vciBhZGRpdGlvbnMKClRoZSBidWcgY2FuIHNlZW4gZm9yIHR5cGVzIHdoZXJlIGxvc3NsZXNzX2Nhc3QgdHlwZSBjYW4gcmVwcmVzZW50CmNhc3QtPnZhbHVlLnR5cGUoKSBidXQgbm90IGNhc3QtPnR5cGUuIEZvciBlZzoKCmxvc3NsZXNzX2Nhc3QoVUludCgxNiksIGNhc3QoSW50KDgpLCBWYXJpYWJsZTo6bWFrZShVSW50KDE2KSwgZSkpKSByZXR1cm5zCih1aW50MTYpZSB3aGljaCBpcyBpbmNvcnJlY3QuCgpUaGUgcGF0Y2ggYWxzbyBhZGRzIGxvc3NsZXNzX2Nhc3Qgb2YgTW9kIGFuZCBSYW1wIGV4cHJlc3Npb25zLgoKKiBIYW5kbGUgTW9kIGZvciBuZWdhdGl2ZSBudW1iZXJzIGluIGxvc3NsZXNzX2Nhc3QuCgoqIEFkZCBsb3NzbGVzc19jYXN0IHRlc3QgZm9yIFZlY3RvclJlZHVjZS4KCiogUmVuYW1lIGNoZWNrIHRvIGNoZWNrX2xvc3NsZXNzX2Nhc3QuCgoqIGNsYW5nLWZvcm1hdCBjb21wbGFpbnMKCiogUmVtb3ZlIFJhbXAgYW5kIE1vZCBmcm9tIGxvc3NsZXNzX2Nhc3QuCgoqIE1pbm9yIGNoYW5nZXMKCiogVXBkYXRlIHRlc3QvY29ycmVjdG5lc3MvQ01ha2VMaXN0cy50eHQKCkNvLWF1dGhvcmVkLWJ5OiBBbmtpdCBBZ2dhcndhbCA8YWFua2l0QHF1aWNpbmMuY29tPg==",
+        "commit_date": "2020-12-14 09:01:27 -0800",
+        "commit_before": "ed8f7c2b0af06a237d5b13ba3db16eacd56f7efa",
+        "files": {
+            "src": [
+                "src/IROperator.cpp"
+            ],
+            "test": [
+                "test/correctness/CMakeLists.txt",
+                "test/correctness/lossless_cast.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 400,
+                "func_end": 496,
+                "func_hunks": [],
+                "patch_md5": "87f26b84ee107f0ccb713c2de3758d76"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/9fea59fc26ae1c098b6f64a794d9de4674ea0b2b"
+    },
+    {
+        "commit_after": "01f5e7324a681ccba25ab92b73490a61c27d9f65",
+        "commit_message": "VXBkYXRlIHNpbWRfb3BfY2hlY2sgZm9yIHRoZSBmaW5hbCB3YXNtIHNpbWQxMjggc3BlYyAoIzU3NzkpCgpUaGUgZmluYWwgcmV2aXNpb24gb2YgdGhlIHdhc20gc2ltZDEyOCBzcGVjIChodHRwczovL2dpdGh1Yi5jb20vV2ViQXNzZW1ibHkvc2ltZC9ibG9iL21hc3Rlci9wcm9wb3NhbHMvc2ltZC9TSU1ELm1kKSBhZGRlZCBzb21lIG9wcyBhbmQgdHdlYWtlZCBzb21lIG90aGVycy4gVGhpcyBqdXN0IGF1Z21lbnRzIHRoZSB3YXNtIHNlY3Rpb24gb2Ygc2ltZF9vcF9jaGVjayBzbyB0aGF0IGFsbCB0aGUgb3BzIGFyZSByZWZlcmVuY2VkLCB3aXRoIHRoZSBuZXcgKG9yIHN0aWxsLXVuaW1wbGVtZW50ZWQpIG9wcyBjb21tZW50ZWQgb3V0IHdpdGggVE9ET3MuCgpNb3N0IG9mIHRoZSBuZXcgb3BzIHdpbGwgbGlrZWx5IGJlIGltcGxlbWVudGVkIHZpYSBwYXR0ZXJuIG1hdGNoaW5nIGluIENvZGVnZW5fV2ViQXNzZW1ibHksIGJ1dCBiZWZvcmUgdGhhdCBjYW4gaGFwcGVuIGluIGFueSBlZmZpY2llbnQgd2F5LCBXQUJUIG5lZWRzIHRvIGJlIHVwZGF0ZWQgdG8gcmVjb2duaXplIGFsbCB0aGUgb3BzIGluIHRoZSBmaW5hbCBzcGVjIChpdCBkb2Vzbid0IGN1cnJlbnRseSwgYW5kIHNvIHdlIGNhbid0IGV2ZW4gbG9hZCBjb2RlIHdpdGggdGhvc2Ugb3BzIHdpdGhvdXQgY3JhdGVyaW5nKS4gU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9XZWJBc3NlbWJseS93YWJ0L2lzc3Vlcy8xNjE3IGZvciB0cmFja2luZyBidWcuCgooQWxzbzogZHJpdmUtYnkgZml4IGluIENvZGVnZW5MTFZNIHRvIGZpeCBwcmV0dHlwcmludGluZyBvZiBzb21lIGRlYnVnIG91dHB1dCk=",
+        "commit_date": "2021-03-02 10:06:11 -0800",
+        "commit_before": "47d0594d3ae0dade982d446c122a3cd90cce4a63",
+        "files": {
+            "src": [
+                "src/CodeGen_LLVM.cpp"
+            ],
+            "test": [
+                "test/correctness/simd_op_check.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 4747,
+                "func_end": 4770,
+                "func_hunks": [],
+                "patch_md5": "1d587c6cfef8e1b979c9fbb06ec7bda7"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/01f5e7324a681ccba25ab92b73490a61c27d9f65"
+    },
+    {
+        "commit_after": "780ebd2663c7f79d493cc813318f45437d50f97a",
+        "commit_message": "QWRkIGFuIGVycm9yIGZvciByZWFsaXplIHdpdGggYSBkaWZmZXJlbnQgbnVtYmVyIG9mIG91dHB1dHMgdGhhbiBkZWZpbmVkIGZvciBwaXBlbGluZS4gKCM1OTA2KQoKKiBBZGQgYW4gZXJyb3IgZm9yIGNhbGxpbmcgcmVhbGl6ZSB3aXRoIGEgZGlmZmVyZW50IG51bWJlciBvZiBvdXRwdXRzCnRoYW4gdGhlIHBpcGVsaW5lIHdhcyBjb21waWxlZCB3aXRoLgoKKiBGb3Jnb3QgdG8gYWRkIHRlc3QuCgoqIEEgcmVhZGFiaWxpdHkgc2NhcmlmaWNlIHRvIHRoZSBjbGFuZyBkZWl0eS4KCiogQWRkIENNYWtlIGZpbGUuCgoqIE1pbm9yIGNoYW5nZSB0byBlcnJvciB0ZXh0LgoKKiBGaXggbG9naWMgdG8gaGFuZGxlIEZ1bmNzIHJldHVybmluZyBUdXBsZXMuCgoqIEZvcm1hdHRpbmcu",
+        "commit_date": "2021-04-15 09:19:21 -0700",
+        "commit_before": "da02c0d0ee25de659b9251ab046cf73d4140515f",
+        "files": {
+            "src": [
+                "src/Pipeline.cpp"
+            ],
+            "test": [
+                "test/error/CMakeLists.txt",
+                "test/error/realization_with_too_many_outputs.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 934,
+                "hunk_is_single": true,
+                "hunk_start": 933,
+                "hunk_end": 938,
+                "func_is_single": true,
+                "func_start": 933,
+                "func_end": 938,
+                "func_hunks": [],
+                "patch_md5": "881e40b103baa02beed855956d694368"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/780ebd2663c7f79d493cc813318f45437d50f97a"
+    },
+    {
+        "commit_after": "d343e766e9e534c3101eca402f9719cf1d2a7269",
+        "commit_message": "Rml4IG9ic2N1cmUgYnVnIGluIHdpZGVuaW5nIGxldCBzdWJzdGl0dXRpb24gKCM2NDA1KQoKRml4IG9ic2N1cmUgYnVnIGluIHdpZGVuaW5nIGxldCBzdWJzdGl0dXRpb24=",
+        "commit_date": "2021-11-11 09:06:00 -0800",
+        "commit_before": "8e34a35f319f17690c841e5b3ac7a92a52502337",
+        "files": {
+            "src": [
+                "src/FindIntrinsics.cpp"
+            ],
+            "test": [
+                "test/correctness/intrinsics.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 671,
+                "hunk_is_single": true,
+                "hunk_start": 670,
+                "hunk_end": 676,
+                "func_is_single": true,
+                "func_start": 670,
+                "func_end": 676,
+                "func_hunks": [],
+                "patch_md5": "08ac0f3d403354b4b782f483f0eb4753"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/d343e766e9e534c3101eca402f9719cf1d2a7269"
+    },
+    {
+        "commit_after": "5993334281bea4e1fcde94ba1c5ccc528702961d",
+        "commit_message": "Rml4IGJ1ZyBpbiBtdWxfc2hpZnRfcmlnaHQgbWF0Y2hpbmcKCndpZGVuaW5nX211bCBoYW5kbGVzIG1peGVkLXNpZ25lZG5lc3MgYXJncywgYnV0IG11bF9zaGlmdF9yaWdodCBkb2Vzbid0LgpXZSBzaG91bGRuJ3QgbWFwIGEgbWl4ZWQtc2lnbmVkbmVzcyB3aWRlbmluZ19tdWwgdG8gYSBtdWxfc2hpZnRfcmlnaHQuCg==",
+        "commit_date": "2022-02-08 11:43:51 -0800",
+        "commit_before": "f28c07ad6d4f6bfda87a6336b9de0e9c98e91278",
+        "files": {
+            "src": [
+                "src/FindIntrinsics.cpp"
+            ],
+            "test": [
+                "test/correctness/intrinsics.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 384,
+                "func_end": 498,
+                "func_hunks": [],
+                "patch_md5": "e9a4554a9cdea138ebe242ebc6714ddd"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/5993334281bea4e1fcde94ba1c5ccc528702961d"
+    },
+    {
+        "commit_after": "d0c53fa4d9e084c7df3ef728d6ac4a62f5621359",
+        "commit_message": "W21pc2NvbXBpbGVdIERvbid0IGRlLW5lZ2F0ZSBhbmQgY2hhbmdlIGRpcmVjdGlvbiBvZiBzaGlmdHMtYnktdW5zaWduZWQgKCM2NzgyKQoKSSdtIGFmcmFpZCB0aGUgcHJvYmxlbSBpcyByZWFsbHkgb2J2aW91czoKaHR0cHM6Ly9naXRodWIuY29tL2hhbGlkZS9IYWxpZGUvYmxvYi9iNWYwMjRmYTgzYjZmMWNmZTVlODNhNDU5YzkzNzhiN2M1YmYwOTZkL3NyYy9Db2RlR2VuX0xMVk0uY3BwI0wyNjI4LUwyNjQ5Cl4gdGhlIHNoaWZ0IGRpcmVjdGlvbiBpcyB0cmVhdGVkIGFzIGZsaXBwYWJsZSBieSB0aGUgY29kZWdlbgppZmYgdGhlIHNoaWZ0IGFtb3VudCBpcyBzaWduZWQgOikKClRoZSBuZXdseS1hZGRlZCB0ZXN0IGZhaWxzIHdpdGhvdXQgdGhlIGZpeC4KCkkndmUgaGl0IHRoaXMgd2hlbiB3cml0aW5nIHRlc3RzIGZvciBodHRwczovL2dpdGh1Yi5jb20vaGFsaWRlL0hhbGlkZS9wdWxsLzY3NzU=",
+        "commit_date": "2022-05-26 20:33:31 +0300",
+        "commit_before": "ad1e7f6a6994a07fe02765d8fa5e1ff2c5cda124",
+        "files": {
+            "src": [
+                "src/Simplify_Call.cpp"
+            ],
+            "test": [
+                "test/correctness/CMakeLists.txt",
+                "test/correctness/shift_by_unsigned_negated.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 132,
+                "func_end": 176,
+                "func_hunks": [],
+                "patch_md5": "6ea8508ff731f7b1ff1288c57ba830a7"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/d0c53fa4d9e084c7df3ef728d6ac4a62f5621359"
+    },
+    {
+        "commit_after": "256c4d97fd7bce519eb76f6752b407023f112e18",
+        "commit_message": "Rml4IGJ1ZyB3aGVuIHJlYWxpemUgY29uZGl0aW9uIGRlcGVuZHMgb24gdHVwbGUgY2FsbCAoIzY5MTUpCgpJZiB0aGUgcmVhbGl6YXRpb24gaXMgdHVwbGUtdmFsdWVkLCBhbmQgdGhlIGNvbmRpdGlvbiBvbiB0aGUgcmVhbGl6YXRpb24KdXNlcyBhIHR1cGxlIGNhbGwgKGluZGV4ICE9IDApLCB0aGVuIHRoZSBjb25kaXRpb24gd2Fzbid0IGdldHRpbmcKcmVzb2x2ZWQgZHVyaW5nIHRoZSBzcGxpdF90dXBsZXMgcGFzcy4gVGhlIGNhdXNlIHdhcyBhIG1pc3NpbmcgbXV0YXRlCmNhbGwu",
+        "commit_date": "2022-08-04 13:21:01 -0700",
+        "commit_before": "ffa2c367381b51ea9b0bed2b20a8359f049056dc",
+        "files": {
+            "src": [
+                "src/SplitTuples.cpp"
+            ],
+            "test": [
+                "test/correctness/CMakeLists.txt",
+                "test/correctness/realize_condition_depends_on_tuple.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 69,
+                "hunk_end": 78,
+                "func_is_single": true,
+                "func_start": 69,
+                "func_end": 78,
+                "func_hunks": [],
+                "patch_md5": "8288fada538dfa5808950efae402ead3"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/256c4d97fd7bce519eb76f6752b407023f112e18"
+    },
+    {
+        "commit_after": "8ce1212157a2e005fde1e5b8f2578e6fbcdec6f2",
+        "commit_message": "Rml4IGJpdHJvdCBpbiBQb3dlclBDIHRlc3RpbmcgKCM3MjExKQoKKiBGaXggYml0cm90IGluIFBvd2VyUEMgdGVzdGluZwoKKFNlZSAjNzIwOCkKCi0gRGF0YUxheW91dCB3YXMgd3JvbmcgKGFuZCBoYXMgYmVlbiBmb3IgYSBsb25nIHRpbWUpCi0gc2ltZF9vcF9jaGVja19wb3dlcnBjIGhhZCBlcnJvcnMuIFNvbWUgd2VyZSBlYXN5IHRvIGZpeDsgdGhlIHJlc3QgSSBjb21tZW50ZWQgb3V0IHdpdGggYSBUT0RPIHNpbmNlIHRoaXMgYmFja2VuZCBkb2Vzbid0IGFwcGVhciB0byBiZSBpbiBhY3RpdmUgdXNlLgoKKFdhbnQgdG8gZml4IHRoaXMgaW4gcHJlcGFyYXRpb24gZm9yIGZpeGluZyAjNzIwNykKCiogTW92ZSB4ODYgYWJzZCB0ZXN0cyB0byB0aGUgcmlnaHQgcGxhY2UKCkNvLWF1dGhvcmVkLWJ5OiBBbmRyZXcgQWRhbXMgPGFuZHJldy5iLmFkYW1zQGdtYWlsLmNvbT4=",
+        "commit_date": "2022-12-07 09:29:19 -0800",
+        "commit_before": "35020c5d81d5983569dc31914d7dfb005dd8bc68",
+        "files": {
+            "src": [
+                "src/LLVM_Runtime_Linker.cpp"
+            ],
+            "test": [
+                "test/correctness/simd_op_check_powerpc.cpp",
+                "test/correctness/simd_op_check_x86.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 345,
+                "func_end": 366,
+                "func_hunks": [],
+                "patch_md5": "493248ec026526a7f82216dfa25a03a5"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/8ce1212157a2e005fde1e5b8f2578e6fbcdec6f2"
+    },
+    {
+        "commit_after": "04f09d4175ab5db2fef1ba86c0eec2583b17842a",
+        "commit_message": "QWRkIGVycm9yIG1lc3NhZ2Ugd2hlbiBjYXN0aW5nIG11bHRpLWVsZW1lbnQgUmVhbGl6YXRpb24gdG8gQnVmZmVyICgjNzUwNikKCiogQWRkIGVycm9yIG1lc3NhZ2Ugd2hlbiBjYXN0aW5nIG11bHRpLWVsZW1lbnQgUmVhbGl6YXRpb24gdG8gQnVmZmVyCgpGaXhlcyAjNzUwNAoKKiBBZGQgbWlzc2luZyB0ZXN0",
+        "commit_date": "2023-04-14 09:58:23 -0700",
+        "commit_before": "e20d7985da13d2cea9e1fb53de560b341cfb5272",
+        "files": {
+            "src": [
+                "src/Realization.h"
+            ],
+            "test": [
+                "test/error/CMakeLists.txt",
+                "test/error/tuple_realization_to_buffer.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 33,
+                "hunk_end": 40,
+                "func_is_single": true,
+                "func_start": 33,
+                "func_end": 40,
+                "func_hunks": [],
+                "patch_md5": "546c1c80f05947a64e9083ecca2715b4"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/04f09d4175ab5db2fef1ba86c0eec2583b17842a"
+    },
+    {
+        "commit_after": "02865e2a5b6764cd0ddee7182b6ae8cc43ddcc38",
+        "commit_message": "QWRkIGEgY2hlY2sgdGhhdCBQcmVkaWNhdGVMb2FkcyBtdXN0IGJlIHVzZWQgaW4gdGhlIG91dGVybW9zdCBzcGxpdCBvZiBhIGRpbWVuc2lvbiAoIzc3ODgpCgoqIGFkZCBhIGNoZWNrIHRoYXQgUHJlZGljYXRlTG9hZHMgbXVzdCBiZSB1c2VkIGluIHRoZSBvdXRlcm1vc3Qgc3BsaXQgb2YgYSBkaW1lbnNpb24KCiogbmV3bGluZQoKKiB1c2UgdGhlIHJlcHJvIGV4YW1wbGUKCiogZml4CgoqIGF2b2lkIGNoZWNrIGZvciBldmVyeSBvdGhlciB0YWlsIHN0cmF0ZWd5CgoqIHVwZGF0ZSBlcnJvciBtZXNzYWdlIHRvIHBvaW50IG91dCB3aGF0J3Mgbm90IGFsbG93ZWQKCi0tLS0tLS0tLQoKQ28tYXV0aG9yZWQtYnk6IFN0ZXZlbiBKb2huc29uIDxzcmpAZ29vZ2xlLmNvbT4=",
+        "commit_date": "2023-09-05 13:28:11 -0700",
+        "commit_before": "8188b42c50e4ed47a01bbfb43289453c6fc5b1c9",
+        "files": {
+            "src": [
+                "src/Func.cpp"
+            ],
+            "test": [
+                "test/error/CMakeLists.txt",
+                "test/error/predicate_loads_used_in_inner_splits.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1091,
+                "hunk_is_single": true,
+                "hunk_start": 1090,
+                "hunk_end": 1095,
+                "func_is_single": true,
+                "func_start": 1090,
+                "func_end": 1095,
+                "func_hunks": [],
+                "patch_md5": "a178dae35da36787796633a809775247"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/02865e2a5b6764cd0ddee7182b6ae8cc43ddcc38"
+    },
+    {
+        "commit_after": "120e5fdb7b9da13b600787d7419c2da791bd6233",
+        "commit_message": "Q29uc2lkZXIgYWxsIGRpbWVuc2lvbnMgYmVmb3JlIGRlY2lkaW5nIHRvIHNsaWRlIG92ZXIgYSBuZXcgZGltZW5zaW9uICgjNzg3NSkKCiogRG9uJ3QgZGVkdWNlIHVucmVhY2hhYmlsaXR5IGZyb20gcHJlZGljYXRlZCBvdXQgb2YgYm91bmRzIHN0b3JlcwoKRml4ZXMgIzc4NzMKCiogQ29uc2lkZXIgYWxsIGRpbWVuc2lvbnMgYmVmb3JlIGRlY2lkaW5nIHRvIHNsaWRlIG92ZXIgYSBuZXcgZGltZW5zaW9uCgpFdmVuIG9uZXMgd2UndmUgYWxyZWFkeSBzbGlkIG92ZXIuIFRoZSBwcmV2aW91cyB2ZXJzaW9uIG9mIHRoaXMgY29kZQpjb3VsZCB0cnkgdG8gc2xpZGUgb3ZlciBhIGxvb3Agd2hlcmUgbXVsdGlwbGUgZGltZW5zaW9ucyBkZXBlbmQgb24gdGhlCmxvb3AgdmFyLCBiZWNhdXNlIGl0IGlnbm9yZWQgZGltZW5zaW9ucyB0aGF0IGhhZCBhbHJlYWR5IGJlZW4gc2xpZCBvdmVyLgpNb3ZpbmcgYSBjaGVjayByZXNvbHZlcyB0aGUgaXNzdWUuCgpGaXhlcyAjNzg3Mg==",
+        "commit_date": "2023-10-05 16:52:58 -0700",
+        "commit_before": "51ab36465fc7ed7e1bb756430ce1799c3f7021ee",
+        "files": {
+            "src": [
+                "src/SlidingWindow.cpp"
+            ],
+            "test": [
+                "test/correctness/fuzz_schedule.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 266,
+                "func_end": 309,
+                "func_hunks": [],
+                "patch_md5": "9f39c9e02c8f87f4cfeaff9df6f74e67"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/120e5fdb7b9da13b600787d7419c2da791bd6233"
+    },
+    {
+        "commit_after": "bd1d4df7d76a4f39bd834311fe12706bef678b7e",
+        "commit_message": "U3RvcCBpbnRlcmxlYXZlciBmcm9tIGV4cGFuZGluZyB0aGUgc2NvcGUgb2YgbGV0c3RtdHMgKCM3OTA4KQoKSW4gdGhlIGZvbGxvd2luZyBjb2RlOgoKbGV0IGEgPSBiIGluCiAgWApsZXQgYSA9IGMgaW4KICBZCgpJZiBTdG10IFggc3VjY2Vzc2Z1bGx5IGhhZCBzdG9yZXMgaW50ZXJsZWF2ZWQsIGl0IHdhcyByZS1uZXN0aW5nIGl0IGxpa2UKc286CgpsZXQgYSA9IGIgaW4KICBYCiAgbGV0IGEgPSBjIGluCiAgICBZCgpUaGlzIGludHJvZHVjZXMgYSBzaGFkb3dlZCB2YXJpYWJsZSAnYScsIHdoaWNoIGlzIGlsbGVnYWwgYXQgdGhpcyBzdGFnZQpvZiBsb3dlcmluZy4KCkZpeGVzICM3OTA2CgpBbHNvIHNvbWUgZHJpdmUtYnkgZml4ZXMgdG8gZWFybGllciB0ZXN0cyB0aGF0IGhhZCBkZWJ1Z2dpbmcgY29kZSBsZWZ0CmluLg==",
+        "commit_date": "2023-10-20 10:21:50 -0700",
+        "commit_before": "eb66c06539d623459ea3c3abeea5b7cce111ad5f",
+        "files": {
+            "src": [
+                "src/Deinterleave.cpp"
+            ],
+            "test": [
+                "test/correctness/fuzz_schedule.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 759,
+                "hunk_end": 775,
+                "func_is_single": true,
+                "func_start": 759,
+                "func_end": 775,
+                "func_hunks": [],
+                "patch_md5": "3ee1423758f4f7c5041dbadf2ab1ddf5"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/halide/Halide/commits/bd1d4df7d76a4f39bd834311fe12706bef678b7e"
+    }
+]

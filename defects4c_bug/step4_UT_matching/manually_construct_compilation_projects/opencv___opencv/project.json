@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/opencv/opencv/commits/5b4159991158ab0aa9ffbf52e203230923b154a9",
+    "language": null,
+    "main_repo": "https://github.com/opencv/opencv",
+    "repo_name": "opencv___opencv",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

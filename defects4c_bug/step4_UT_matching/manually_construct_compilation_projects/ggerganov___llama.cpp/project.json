@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/ggerganov/llama.cpp",
+    "language": null,
+    "main_repo": "https://github.com/ggerganov/llama.cpp",
+    "repo_name": "ggerganov___llama.cpp",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

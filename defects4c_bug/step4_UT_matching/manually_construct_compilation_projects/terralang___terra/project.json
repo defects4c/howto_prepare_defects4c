@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/terralang/terra",
+    "language": null,
+    "main_repo": "https://github.com/terralang/terra",
+    "repo_name": "terralang___terra",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

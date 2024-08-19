@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/apache/mesos/commits/6772edb9de55e7839be99e2681508e19465d32ac",
+    "language": null,
+    "main_repo": "https://github.com/apache/mesos",
+    "repo_name": "apache___mesos",
+    "env": ["CXXFLAGS='-Wno-traditional -Wno-error'"],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

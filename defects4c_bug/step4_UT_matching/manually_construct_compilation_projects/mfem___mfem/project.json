@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/mfem/mfem/commits/ca5773a744ae991b251acd103bea85a15212930c",
+    "language": null,
+    "main_repo": "https://github.com/mfem/mfem",
+    "repo_name": "mfem___mfem",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "bash inplace_build.sh",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

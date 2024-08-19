@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/fnc12/sqlite_orm",
+    "language": null,
+    "main_repo": "https://github.com/fnc12/sqlite_orm",
+    "repo_name": "fnc12___sqlite_orm",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

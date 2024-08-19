@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/libgit2/libgit2",
+    "language": null,
+    "main_repo": "https://github.com/libgit2/libgit2",
+    "repo_name": "libgit2___libgit2",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

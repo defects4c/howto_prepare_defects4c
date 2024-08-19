@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/taosdata/TDengine/commits/31c20a354ff52fb69f18744f442aa427d7cdd63a",
+    "language": null,
+    "main_repo": "https://github.com/taosdata/TDengine",
+    "repo_name": "taosdata___TDengine",
+    "env": ["CFLAGS=-Wno-error","CXXFLAGS=-Wno-error","CXX=g++","CC=gcc"],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": ["-DBUILD_TEST=on",  "-DBUILD_WITH_S3=off" ],
+        "test": "bash inplace_test.sh",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

@@ -1,0 +1,3025 @@
+[
+    {
+        "commit_msg": "Rml4IHNlZ2ZhdWx0IGR1ZSB0byBOVUxMIGNoaWxkIChhdWcgdy8gZmVhdHVyZSkKCkluc3RhbGxpbmcgYSBZQU5HIG1vZHVsZSB3aXRoIHN5c3JlcG9jdGwgcmVzdWx0cyBpbiBhIHNlZ21lbnRhdGlvbgpmYXVsdCBpZiB0aGUgbW9kdWxlIGNvbnRhaW5zIGFuIGF1Z21lbnQgd2hvc2UgY2hpbGRyZW4gYXJlIGNvbnRpbmdlbnQKdXBvbiBhIGZlYXR1cmUuIFRoZSBzYW1lIHNlZ21lbnRhdGlvbiBmYXVsdCBvY2N1cnMgaWYgdGhlIG1vZHVsZQpjb250YWlucyBhbiBhdWdtZW50IHdpdGggYSB1c2VzIGNsYXVzZSB3aGVyZSB0aGUgY29ycmVzcG9uZGluZwpncm91cGluZ+KAmXMgY2hpbGRyZW4gYXJlIGNvbnRpbmdlbnQgb24gYSBmZWF0dXJlLiBJc3N1ZSAjMTEwNQpkb2N1bWVudHMgdGhpcyBpc3N1ZS4gVGhlIGluY2x1ZGVkIHRlc3QgY2FzZSBkZW1vbnN0cmF0ZXMgdGhlIGZhaWx1cmUuCgpUbyBhZGRyZXNzIHRoaXMsIGBtZF90cmF2ZXJzZV9zY2hlbWFfdHJlZSgpYCBoYXMgYmVlbiBtb2RpZmllZCB0bwp0b2xlcmF0ZSB0aGUgcmV0dXJuIG9mIGEgbnVsbCBjaGlsZCBmcm9tIHRoZSBjYWxsIHRvIHRoZSBmdW5jdGlvbgpgbHlzX2dldG5leHQoKWAu",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/264a529e4bef0a498c46425bc8303df7e49dd711",
+        "commit_before": "7690a27ba5bc7c31bb41369f69ac5b8225223037",
+        "commit_after": "264a529e4bef0a498c46425bc8303df7e49dd711",
+        "commit_date": "2018-05-11T20:13:44Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1744,
+                "hunk_end": 1755,
+                "func_is_single": true,
+                "func_start": 1744,
+                "func_end": 1755,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICMxMTUyIGZyb20gYXdlYXN0L2NvbmZpZy1kYXRhc3RvcmUtZml4CgpGaXggaXNzdWUgd2hlcmUgZWRpdC1jb25maWcgY2hhbmdlcyBhcmUgbm90IHJlZmxlY3RlZCBpbiBkYXRhc3RvcmUgd2hlbiB0b3AtbGV2ZWwgbm9kZSB3aXRoaW4gc3VibW9kdWxlIGhhcyBleHRlcm5hbCBkZXBlbmRlbmN5",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/ea9372cf75b47caadae7082ceec3e528cf9724c0",
+        "commit_before": "03a7b6a22aa70c0dc672228665f20d5c6947e254",
+        "commit_after": "ea9372cf75b47caadae7082ceec3e528cf9724c0",
+        "commit_date": "2018-05-31T09:16:05Z",
+        "files": {
+            "src": [
+                "src/data_manager.c"
+            ],
+            "test": [
+                "tests/rp_dt_edit_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1990,
+                "hunk_is_single": true,
+                "hunk_start": 1987,
+                "hunk_end": 1993,
+                "func_is_single": true,
+                "func_start": 1987,
+                "func_end": 1993,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "bW9kaW5mbyBDSEFOR0UgZ2VuZXJhdGUgZGF0YXN0b3JlcyBmb3IgeWFuZy1saWJyYXJ5IGRhdGEKClVwZGF0ZWQgbGlieWFuZyBpcyBhbHNvIHJlcXVpcmVkLgpGaXhlcyBjZXNuZXQvbGlieWFuZyMxMDUy",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/4f45d8f23c992c303730da498e63ecf303fb149e",
+        "commit_before": "c41ea134b99404bf264258e02419524c610a99a1",
+        "commit_after": "4f45d8f23c992c303730da498e63ecf303fb149e",
+        "commit_date": "2020-04-02T11:27:29Z",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1154,
+                "hunk_is_single": true,
+                "hunk_start": 1151,
+                "hunk_end": 1157,
+                "func_is_single": true,
+                "func_start": 1151,
+                "func_end": 1157,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "U09WRVJTSU9OIGJ1bXAgdG8gdmVyc2lvbiA1LjAuNQ==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/b7d553dd4e733e8881197181f2b57911f671ba60",
+        "commit_before": "8e8f7b4c6623fd6511fce16a96f62aa3d519eef5",
+        "commit_after": "b7d553dd4e733e8881197181f2b57911f671ba60",
+        "commit_date": "2020-02-06T14:50:38Z",
+        "files": {
+            "src": [
+                "src/shm_sub.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1201,
+                "hunk_is_single": true,
+                "hunk_start": 1198,
+                "hunk_end": 1204,
+                "func_is_single": true,
+                "func_start": 1198,
+                "func_end": 1204,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "UmVzb2x2ZSBtb2R1bGUgaW5zdGFsbGF0aW9uIGFzc2VydGlvbiBlcnJvciB3aGVuIGF1Z21lbnRpbmcgaW50byBlbXB0eSBjb250YWluZXI=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/0cc254fe77e880450c11c8e71986ec3317d12a31",
+        "commit_before": "7690a27ba5bc7c31bb41369f69ac5b8225223037",
+        "commit_after": "0cc254fe77e880450c11c8e71986ec3317d12a31",
+        "commit_date": "2018-05-10T14:20:22Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1785,
+                "hunk_end": 1794,
+                "func_is_single": true,
+                "func_start": 1785,
+                "func_end": 1794,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "c2htIG1vZCBCVUdGSVggYWN0aW9uIG91dHB1dCBtYXkgYWxzbyByZXF1aXJlIGl0cyBtb2R1bGUgZGF0YQoKRml4ZXMgIzE4Mzg=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/c98360e02278b26731fc371169aaf4554a584384",
+        "commit_before": "6bbfcf6b0bb4ea383d8bceb6de97ce9f40c773fa",
+        "commit_after": "c98360e02278b26731fc371169aaf4554a584384",
+        "commit_date": "2020-03-03T07:56:23Z",
+        "files": {
+            "src": [
+                "src/shm_mod.c"
+            ],
+            "test": [
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 305,
+                "hunk_is_single": true,
+                "hunk_start": 302,
+                "hunk_end": 308,
+                "func_is_single": true,
+                "func_start": 302,
+                "func_end": 308,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICM4ODAgZnJvbSBtaWNoYWx2YXNrby9zZXRfaW5zdGFsbGVkX2ZsYWcKClNldCBpbnN0YWxsZWQgZmxhZw==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/404e534d2862fcad85762f53aa4a99e776fcc034",
+        "commit_before": "f178db0df727ffafa8dd87abf4d328424b836ac3",
+        "commit_after": "404e534d2862fcad85762f53aa4a99e776fcc034",
+        "commit_date": "2017-06-21T07:10:12Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/sysrepoctl_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1795,
+                "hunk_end": 1805,
+                "func_is_single": true,
+                "func_start": 1795,
+                "func_end": 1805,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "Q0hBTkdFIHJlc29sdmUgbW9kdWxlIGltcG9ydHMgYmVmb3JlIGluY2x1ZGVzCgpCZWNhdXNlIGluY2x1ZGVzIG1heSBuZWVkIHRoZSBpbm1wb3J0cyByZXNvbHZlZC4KRml4ZXMgIzk2Mg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/20811d74e47a247403acec9091541074f4c9d730",
+        "commit_before": "615331e7179f33e4024351ce29faecba312b8d18",
+        "commit_after": "20811d74e47a247403acec9091541074f4c9d730",
+        "commit_date": "2017-10-30T13:21:48Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 2026,
+                "func_end": 2121,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "UmVzb2x2ZSBtb2R1bGUgaW5zdGFsbGF0aW9uIGFzc2VydGlvbiB3aGVuIGVtcHR5IGNvbnRhaW5lciBpbiBhdWdtZW50IGFuZCBkb3VibGUgYXVnbWVudHM=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/ca3bd44991d32be0595a4e4a0d0b9fbecbd120da",
+        "commit_before": "458c4402741e6d51a6fa91ac3575dcb27d99f374",
+        "commit_after": "ca3bd44991d32be0595a4e4a0d0b9fbecbd120da",
+        "commit_date": "2018-05-17T16:56:34Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1742,
+                "hunk_end": 1749,
+                "func_is_single": true,
+                "func_start": 1742,
+                "func_end": 1749,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBCVUdGSVggY2FuZGlkYXRlIHZhbGlkYXRpb24gc2hvdWxkIGJlIGFsd2F5cyBwZXJmb3JtZWQ=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/6686643b8f809c73a8a6f2034d4dcb32cbd44411",
+        "commit_before": "e23694dbf857d90bc22a25c60545aef552f5c121",
+        "commit_after": "6686643b8f809c73a8a6f2034d4dcb32cbd44411",
+        "commit_date": "2020-01-03T08:44:44Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_candidate.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2096,
+                "hunk_end": 2108,
+                "func_is_single": true,
+                "func_start": 2096,
+                "func_end": 2108,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBtZXJnaW5nIHJlcGxhY2UgdG8gbm9uZSBmb3IgbGVhZgoKLi4uIGlzIHZhbGlkIGJlY2F1c2UgdGhlIGxlYWYgbWF5IGhhdmUgaGFkIG9ubHkKY2hhbmdlZCB0aGUgZGVmYXVsdCBmbGFnLgpGaXhlcyAjMjQ5OQ==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/8793a56dde4b1d4307ce7d2d88a2ccbf5d92e8ef",
+        "commit_before": "0d59864a959217b9c798edddc93e656b3ab5b51a",
+        "commit_after": "8793a56dde4b1d4307ce7d2d88a2ccbf5d92e8ef",
+        "commit_date": "2021-07-02T12:39:52Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1992,
+                "hunk_end": 2032,
+                "func_is_single": true,
+                "func_start": 1992,
+                "func_end": 2032,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBtb2RpZmllZCBsZWFmIG5vZGUgaW4gZGlmZgoKRml4ZXMgIzI0NjY=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/93dc1d7a76bd087c34fde0f942ea1fd6be3c7009",
+        "commit_before": "0f106da4e8752d21bee1e2c33ada7c71b0268c88",
+        "commit_after": "93dc1d7a76bd087c34fde0f942ea1fd6be3c7009",
+        "commit_date": "2021-09-30T10:08:24Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 932,
+                "hunk_is_single": true,
+                "hunk_start": 929,
+                "hunk_end": 935,
+                "func_is_single": true,
+                "func_start": 929,
+                "func_end": 935,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICMxNjkyIGZyb20gbWljaGFsdmFza28vbWFzdGVyCgpCVUdGSVggYWN0aW9uIG5hY20gY2hlY2sgZml4ZWQ=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/011adb191af2cc48e25c4e61f70afe0cc7926881",
+        "commit_before": "2d13ea0ded1f571c6405dd003b3cb8ef56226fdf",
+        "commit_after": "011adb191af2cc48e25c4e61f70afe0cc7926881",
+        "commit_date": "2019-12-03T14:48:13Z",
+        "files": {
+            "src": [
+                "src/nacm.c"
+            ],
+            "test": [
+                "tests/nacm_cl_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 988,
+                "func_end": 1137,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBSRUZBQ1RPUiBmb3JtYXR0aW5n",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/ce0ad64202285f496f2d06524b892411a38d9deb",
+        "commit_before": "a5ce575a8b0942c1863c98ab61e0db4ea47cac08",
+        "commit_after": "ce0ad64202285f496f2d06524b892411a38d9deb",
+        "commit_date": "2021-05-26T05:29:16Z",
+        "files": {
+            "src": [
+                "src/executables/sysrepoctl.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 299,
+                "hunk_is_single": true,
+                "hunk_start": 296,
+                "hunk_end": 302,
+                "func_is_single": true,
+                "func_start": 296,
+                "func_end": 302,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "bW9kaW5mbyBCVUdGSVggaW52YWxpZCBvcHRpbWl6YXRpb24KCkV2ZW4gaWYgbm8gY29uZmlndXJhdGlvbiBkYXRhIGFyZSByZXF1ZXN0ZWQsCndlIGhhdmUgdG8gY29weSBhbGwgZW5hYmxlZCBkYXRhIGZpcnN0IHNvIHRoYXQKYW55IGV4aXN0aW5nIGNvbmZpZ3VyYXRpb24gcGFyZW50cyBvZiBuZXN0ZWQKc3RhdGUgZGF0YSBzdWJzY3JpcHRpb25zIGFjdHVhbGx5IGV4aXN0IGFuZAp0aGUgZGF0YSBhcmUgcmV0cmlldmVpbmcgYW5kIGZpbmFsbHkgcmV0dXJuZWQu",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/790756922ebef0086231f63d589c7e86419d5e91",
+        "commit_before": "667dbdb474531b95d663f5ab880c8771c5ccbed1",
+        "commit_after": "790756922ebef0086231f63d589c7e86419d5e91",
+        "commit_date": "2019-11-11T09:12:43Z",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 827,
+                "hunk_is_single": true,
+                "hunk_start": 824,
+                "hunk_end": 830,
+                "func_is_single": true,
+                "func_start": 824,
+                "func_end": 830,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "Q0hBTkdFIHVzZSBkaWZmZXJlbnQgcmV0dXJuIHZhbHVlIGZvciBub24tZXhpc3Rpbmcgc2NoZW1hIG5vZGU=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/872ed62bda995e31e3cbcb14661bcecf6a8740ba",
+        "commit_before": "164340aa0573d9c3deda2227ed3a4b70e608a4b5",
+        "commit_after": "872ed62bda995e31e3cbcb14661bcecf6a8740ba",
+        "commit_date": "2018-08-21T08:47:39Z",
+        "files": {
+            "src": [
+                "src/rp_dt_get.c"
+            ],
+            "test": [
+                "tests/sysrepocfg_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 701,
+                "hunk_is_single": true,
+                "hunk_start": 698,
+                "hunk_end": 704,
+                "func_is_single": true,
+                "func_start": 698,
+                "func_end": 704,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "UmVwbGFjZSBtYWxsb2MoLi4uKSBieSBjYWxsb2MoMSwgLi4uKSBpbiBzcl9nZXRfaXRlbSgpLiBUaGlzIGVuc3VyZXMgdGhhdCB0aGUgb3JpZ2luIGZpZWxkIGlzIGluaXRpYWxpemVkLgoKRml4ZXMgaHR0cHM6Ly9naXRodWIuY29tL3N5c3JlcG8vc3lzcmVwby9pc3N1ZXMvMjY1Nw==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/2434c6fdadf4bf9a07a01716769f35ff149f73b9",
+        "commit_before": "c070b9e289a05e702ba8f51c939ba0265ee3c42b",
+        "commit_after": "2434c6fdadf4bf9a07a01716769f35ff149f73b9",
+        "commit_date": "2021-12-02T09:53:11Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_get.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1402,
+                "hunk_is_single": true,
+                "hunk_start": 1399,
+                "hunk_end": 1405,
+                "func_is_single": true,
+                "func_start": 1399,
+                "func_end": 1405,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "bW9kaW5mbyBCVUdGSVggcmVzdHJpY3RpdmUgeHBhdGggbW9kdWxlIG5hbWUgZmlsdGVyaW5nCgpXZSBjYW4gZGVjaWRlIGRhdGEgYXJlIG5vdCBuZWVkZWQgb25seSBpZiBib3RoClhQYXRocyBoYXZlIG1vZHVsZSBuYW1lcywgb3RoZXJ3aXNlIHdlIGRvIG5vdCBrbm93Lg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/667dbdb474531b95d663f5ab880c8771c5ccbed1",
+        "commit_before": "82fff441ec73b5988e3d669f1219c7414117c82a",
+        "commit_after": "667dbdb474531b95d663f5ab880c8771c5ccbed1",
+        "commit_date": "2019-11-11T08:59:50Z",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 641,
+                "hunk_end": 654,
+                "func_is_single": true,
+                "func_start": 641,
+                "func_end": 654,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBoYW5kbGUgY2FzZXMgaW4gcmVwYWxjZSBjb25maWcgZGlmZiBjb3JyZWN0bHkKCmxpYnlhbmcgbHlkX21lcmdlKCkgY2Fubm90IGJlIHVzZWQgYmVjYXVzZSBpdAphdXRvZGVsZXRlcyBvdGhlciBjYXNlcywgd2hpY2ggaXMgbm90IGFjY2VwdGFibGUuCgpGaXhlcyAjMTc3Nw==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/a3b0b20967bfa3ca3418d953fdcc5f16c2b14f67",
+        "commit_before": "bc6c6029e66192b520d452f491ed199c68e8fb74",
+        "commit_after": "a3b0b20967bfa3ca3418d953fdcc5f16c2b14f67",
+        "commit_date": "2020-01-23T13:29:11Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_copy_config.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3145,
+                "hunk_end": 3167,
+                "func_is_single": true,
+                "func_start": 3145,
+                "func_end": 3167,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBCVUdGSVggZ2V0dGluZyBkYXRhIG9mIGRlZmF1bHQgc2libGluZ3MKClRlc3QgaW5jbHVkZWQu",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/2808558d9155afc79b21cc6cb243ec386272ef03",
+        "commit_before": "18cae0cf9acf02bea81ff595cefd5c566d7d93bc",
+        "commit_after": "2808558d9155afc79b21cc6cb243ec386272ef03",
+        "commit_date": "2019-12-18T13:50:34Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1842,
+                "hunk_is_single": true,
+                "hunk_start": 1839,
+                "hunk_end": 1845,
+                "func_is_single": true,
+                "func_start": 1839,
+                "func_end": 1845,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBudWxsIHBvaW50ZXIgYWNjZXNzCgpGaXhlcyAjMTgwMg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/1e6cb4b06630f718357a6db6552bbebf807315a9",
+        "commit_before": "1e7a7cdf0c612e4a28dba3c0e2237e83ce5c2785",
+        "commit_after": "1e6cb4b06630f718357a6db6552bbebf807315a9",
+        "commit_date": "2020-02-06T07:54:20Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1649,
+                "hunk_end": 1658,
+                "func_is_single": true,
+                "func_start": 1649,
+                "func_end": 1658,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBCVUdGSVggdHJlZSBjaGFuZ2VzIG9mIGR1cCBpbnN0IGxpc3RzCgpGaXhlcyAjMjk1Ng==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/cbf15f2e6e51bac6f639730b412d5297c5740dfe",
+        "commit_before": "469494d9dfb218b437e5ec1dec44ce8dc099962e",
+        "commit_after": "cbf15f2e6e51bac6f639730b412d5297c5740dfe",
+        "commit_date": "2022-11-25T08:21:54Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_oper_push.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 5435,
+                "func_end": 5483,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "bHlkIG1vZHMgQlVHRklYIGVuYWJsZSBhbHNvIGZlYXR1cmVzIGZvcm0gc3VibW9kdWxlcwoKRml4ZXMgIzE3MjA=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/e812951060a99225f6697a7184b5841a306fc1f6",
+        "commit_before": "32a17b9a1e96e56499a7eb612d9eff8dbf6add57",
+        "commit_after": "e812951060a99225f6697a7184b5841a306fc1f6",
+        "commit_date": "2020-01-06T09:32:36Z",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 153,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 150,
+                "func_end": 180,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBDSEFOR0UgZ2V0dGVycyByZXR1cm4gbmV3IGNvbmZpZ3VyYXRpb24gaW4gY2FsbGJhY2tzCgpGaXhlcyAjMTU3Ng==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/b1aaf29e75345f8e1120e77e2f604ee91b0281fb",
+        "commit_before": "8a3467e4faf4769ad5759def0be41caa71985020",
+        "commit_after": "b1aaf29e75345f8e1120e77e2f604ee91b0281fb",
+        "commit_date": "2019-08-15T11:28:43Z",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1161,
+                "hunk_end": 1189,
+                "func_is_single": true,
+                "func_start": 1161,
+                "func_end": 1189,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBkbyBub3QgY3JlYXRlIG9ubHkgZGZsdCBmbGFnIGNoYW5nZSBsZWFmIGRpZmYKClRlc3QgaW5jbHVkZWQuCgpGaXhlcyAjMTc1Nw==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/a2a4ccd14e083a02c3fa59f0829d7e3770ddad06",
+        "commit_before": "b28b657c318246fbed562b615b3a931f06d51cc2",
+        "commit_after": "a2a4ccd14e083a02c3fa59f0829d7e3770ddad06",
+        "commit_date": "2020-01-20T09:32:14Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_copy_config.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 3045,
+                "hunk_is_single": true,
+                "hunk_start": 3042,
+                "hunk_end": 3049,
+                "func_is_single": true,
+                "func_start": 3042,
+                "func_end": 3049,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "TWVyZ2UgYnJhbmNoICdkZXZlbCcgaW50byBhdWdtZW50ZWQtZW1wdHktY29udGFpbmVyLWZpeA==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/244bb1524acb5f1e6ec35a7172ab1883b9c2af91",
+        "commit_before": "0cc254fe77e880450c11c8e71986ec3317d12a31",
+        "commit_after": "244bb1524acb5f1e6ec35a7172ab1883b9c2af91",
+        "commit_date": "2018-05-15T08:04:19Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1744,
+                "hunk_end": 1755,
+                "func_is_single": true,
+                "func_start": 1744,
+                "func_end": 1755,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "c2htIHN1YiBCVUdGSVggYWJvcnQgZm9yIG11bHRpLXByaW9yaXR5IHN1YnNjcmlwdGlvbnMKCkluY2x1ZGVzIGEgdGVzdC4KRml4ZXMgIzIzNjc=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/aaa504c8a7891283ff39b13396442ba01e74d085",
+        "commit_before": "f5bb18e1046e113cd06de62b2c65ef30efe52a20",
+        "commit_after": "aaa504c8a7891283ff39b13396442ba01e74d085",
+        "commit_date": "2021-03-16T09:27:45Z",
+        "files": {
+            "src": [
+                "src/shm_sub.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1286,
+                "func_end": 1389,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICMxMTI5IGZyb20gYXdlYXN0L2F1Zy1hdWctZml4CgpSZXNvbHZlIG1vZHVsZSBpbnN0YWxsYXRpb24gYXNzZXJ0aW9uIHdoZW4gZW1wdHkgY29udGFpbmVyIGluIGF1Z21lbnQgYW5kIGRvdWJsZSBhdWdtZW50cw==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/4d4688befc08b5175f29ada837e6c40c1e9dfc9b",
+        "commit_before": "458c4402741e6d51a6fa91ac3575dcb27d99f374",
+        "commit_after": "4d4688befc08b5175f29ada837e6c40c1e9dfc9b",
+        "commit_date": "2018-05-18T09:38:51Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1742,
+                "hunk_end": 1749,
+                "func_is_single": true,
+                "func_start": 1742,
+                "func_end": 1749,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c2htIG1haW4gQlVHRklYIGV2cGlwZSBzaXplIGNhbGN1bGF0aW9uCgpSZWZzICMxODc0",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/3ec71bb2aa17bef2458781d4a5036729596394f5",
+        "commit_before": "88ad22e56b2f9808cf07123b842d1aa3fa07bee6",
+        "commit_after": "3ec71bb2aa17bef2458781d4a5036729596394f5",
+        "commit_date": "2020-03-31T06:54:58Z",
+        "files": {
+            "src": [
+                "src/shm_main.c"
+            ],
+            "test": [
+                "tests/test_process.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 838,
+                "hunk_is_single": true,
+                "hunk_start": 835,
+                "hunk_end": 841,
+                "func_is_single": true,
+                "func_start": 835,
+                "func_end": 841,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBSRUZBQ1RPUiBmb3JtYXR0aW5nCgpDb250cmlidXRpb25zIG9mIGF1dGhvcnMgbm90IHJlc3BvbmRpbmcKdG8gYW55IGNvbW11bmljYXRpb24gcmVtb3ZlZC4=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/a5ce575a8b0942c1863c98ab61e0db4ea47cac08",
+        "commit_before": "11b4b08d8dba3d321a0e5ab460814d17acce5fc9",
+        "commit_after": "a5ce575a8b0942c1863c98ab61e0db4ea47cac08",
+        "commit_date": "2021-05-26T05:29:07Z",
+        "files": {
+            "src": [
+                "src/executables/sysrepoctl.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 291,
+                "hunk_end": 302,
+                "func_is_single": true,
+                "func_start": 291,
+                "func_end": 302,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "TWVyZ2UgYnJhbmNoICdkZXZlbCcgaW50byBsaWJ5YW5nMg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/611839d8d06d1199dd05a29cc974bff8d9a515f4",
+        "commit_before": "b45d4e6252ee2bc390ffebc38cb6e13964cc93ad",
+        "commit_after": "611839d8d06d1199dd05a29cc974bff8d9a515f4",
+        "commit_date": "2021-03-16T14:12:17Z",
+        "files": {
+            "src": [
+                "src/shm_sub.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1277,
+                "func_end": 1379,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICM2NzggZnJvbSBsdWthc21hY2tvL2RldmVsCgpGaXggIzY1NCBmaXhlcyBzdGF0ZSBkYXRhIG5lc3RlZCBpbiBsaXN0IHVuZGVyIGdyb3VwaW5nICsgdGVzdA==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/5130694daa76f5dae0b347291627a387e0ac7328",
+        "commit_before": "a9e21d7e3af71ea7d96609b0e8b981e6ecc62cab",
+        "commit_after": "5130694daa76f5dae0b347291627a387e0ac7328",
+        "commit_date": "2017-01-09T15:38:23Z",
+        "files": {
+            "src": [
+                "src/rp_dt_get.c"
+            ],
+            "test": [
+                "tests/cl_state_data_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 871,
+                "func_end": 890,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBCVUdGSVggYWxsb3cgc2FtZSBlZGl0cyBpbiBzZXNzaW9ucwoKU2hvdWxkIGFsc28gd29yayBmb3IgbGlzdHMgYW5kIGxlYWYtbGlzdHMu",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/4ab38e13a8631c02f11994dfd9f3d37b7bbf47c5",
+        "commit_before": "89486fd1f8476dbfdc055f4e7c7a90b9f3964404",
+        "commit_after": "4ab38e13a8631c02f11994dfd9f3d37b7bbf47c5",
+        "commit_date": "2019-09-04T10:37:17Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_edit.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2517,
+                "hunk_end": 2555,
+                "func_is_single": true,
+                "func_start": 2517,
+                "func_end": 2555,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3ViIHNobSBDSEFOR0UgY29tcGxldGVseSBpbnRlcnJ1cHQgUlBDIHByb2Nlc3Npbmcgd2hlbiBzaGVsdmVkCgpUbyBhdm9pZCBwb3NzaWJsZSBwcm9ibGVtcyB3aXRoIG91dHB1dCBvZiBhIGNhbGxiYWNrCndpdGggbm90IHRoZSBsb3dlc3QgcHJpb3JpdHkgdG8gYmUgdXNlZC4KCkZpeGVzICMxOTE1",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/55bfc4c6e3e500434391b8820f83155d2204aa06",
+        "commit_before": "80385e257c1ef59d51d9255c2e85ec0082713df0",
+        "commit_after": "55bfc4c6e3e500434391b8820f83155d2204aa06",
+        "commit_date": "2020-04-15T08:29:48Z",
+        "files": {
+            "src": [
+                "src/shm_sub.c"
+            ],
+            "test": [
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2639,
+                "hunk_end": 2648,
+                "func_is_single": true,
+                "func_start": 2639,
+                "func_end": 2648,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "bHlkIG1vZHMgQlVHRklYIHdyb25nIHJldHVybiB2YWx1ZQ==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/8fb7b29262233ca0b3041e3467735ccd1e3f7052",
+        "commit_before": "d9d56c0171bc4d258998e3f904f3035cfb7db119",
+        "commit_after": "8fb7b29262233ca0b3041e3467735ccd1e3f7052",
+        "commit_date": "2020-01-22T08:15:10Z",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2185,
+                "hunk_is_single": true,
+                "hunk_start": 2182,
+                "hunk_end": 2188,
+                "func_is_single": true,
+                "func_start": 2182,
+                "func_end": 2188,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3ViIHNobSBCVUdGSVggZW1wdHkgZWRpdHMgc2hvdWxkIG5vdCByZXBsYWNlIHByZXZpb3VzIGVkaXRzIGZyb20gdXBkYXRlCgpUZXN0IGluY2x1ZGVkLg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/6f94af4b253856b1cee40d3c2adb4af2ec72d07b",
+        "commit_before": "1c0ef5f57bbb497eb8cf65d8a17f874c60423c8f",
+        "commit_after": "6f94af4b253856b1cee40d3c2adb4af2ec72d07b",
+        "commit_date": "2020-05-05T15:05:29Z",
+        "files": {
+            "src": [
+                "src/shm_sub.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 693,
+                "hunk_end": 701,
+                "func_is_single": true,
+                "func_start": 693,
+                "func_end": 701,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "Q2hlY2sgcHJlZGljYXRlIGluIGRwX2dldF9pdGVtcyBzdWJzY3JpYmU=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/b1747a783cd238014079f95d0d4ee84cbe960fcf",
+        "commit_before": "3df197792c1af029ee7db19d4fab65e5c986a831",
+        "commit_after": "b1747a783cd238014079f95d0d4ee84cbe960fcf",
+        "commit_date": "2017-01-25T07:38:33Z",
+        "files": {
+            "src": [
+                "src/notification_processor.c"
+            ],
+            "test": [
+                "tests/cl_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 851,
+                "func_end": 897,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "YWRkZWQgJy0tbWVyZ2UnIGZlYXR1cmUgdG8gc3lzcmVwb2NmZyBhbmQgc29tZSB0ZXN0cyBpbiBzeXNyZXBvY2ZnX3Rlc3Q=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/e44accbe084418e38d13f4a285d69a7f1cd1b6ae",
+        "commit_before": "3342411aa048506d99d14e6e77bb7a5b54314775",
+        "commit_after": "e44accbe084418e38d13f4a285d69a7f1cd1b6ae",
+        "commit_date": "2017-04-23T06:19:20Z",
+        "files": {
+            "src": [
+                "src/executables/sysrepocfg.c"
+            ],
+            "test": [
+                "tests/sysrepocfg_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1925,
+                "hunk_is_single": true,
+                "hunk_start": 1922,
+                "hunk_end": 1928,
+                "func_is_single": true,
+                "func_start": 1922,
+                "func_end": 1928,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3JwZF9yb3RhdGlvbiBVUERBVEUgemlwIGNoYW5nZWQgdG8gdGFyCgpUYXIgY29tbWFuZCBoYXMgbXVjaCBtb3JlIG9wdGlvbnMgYW5kCnRoZXJlZm9yZSBpcyBtb3JlIHN1aXRhYmxlIGZvciBmdXR1cmUKZXh0ZW5zaW9ucyB0aGFuIHppcCBjb21tYW5kLg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/d7804c7a1018393bbd102f8b3cfd051466d1564f",
+        "commit_before": "63146579622725d0b3ec1b017dffa10e427eecf3",
+        "commit_after": "d7804c7a1018393bbd102f8b3cfd051466d1564f",
+        "commit_date": "2022-08-02T13:23:34Z",
+        "files": {
+            "src": [
+                "src/executables/srpd_rotation.c"
+            ],
+            "test": [
+                "tests/test_rotation.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 235,
+                "hunk_end": 252,
+                "func_is_single": true,
+                "func_start": 235,
+                "func_end": 252,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBDSEFOR0UgdW5sb2NrIG1vZHVsZXMgd2hlbiBleGVjdXRpbmcgUlBDL2FjdGlvbgoKV2UgbmVlZCB0aGVtIG9ubHkgdG8gdmFsaWRhdGUgaW5wdXQsIGlmIHRoZSBtb2R1bGVzCmFyZSB0aGVuIGNoYW5nZWQgYW5kIGlucHV0IG5vIGxvbmdlciB2YWxpZCwgaXQgZG9lcwpub3QgYnJlYWsgYW55IHJlc3RyaWN0aW9uLgoKRml4ZXMgIzE3MzU=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/5e74cb87b1028cc086749d65a39b184104646229",
+        "commit_before": "e16a5638587c0bcfdd4ac935d34c1455082aad6d",
+        "commit_after": "5e74cb87b1028cc086749d65a39b184104646229",
+        "commit_date": "2020-01-06T15:36:42Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 4210,
+                "hunk_end": 4247,
+                "func_is_single": true,
+                "func_start": 4210,
+                "func_end": 4247,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "bHlkIG1vZHMgQlVHRklYIGZlYXR1cmUgY2hhbmdlIGNhbiBmYWlsIGJlY2F1c2Ugb2YgaXRzIGlmZmVhdHVyZQoKRml4ZXMgIzE3Nzg=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/c8cbfe8b52e406d453ebc36db72b4ddd926d0e0e",
+        "commit_before": "240f8e0244ee188c31d5404669bee049245613b7",
+        "commit_after": "c8cbfe8b52e406d453ebc36db72b4ddd926d0e0e",
+        "commit_date": "2020-01-23T14:00:50Z",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1390,
+                "hunk_is_single": true,
+                "hunk_start": 1387,
+                "hunk_end": 1393,
+                "func_is_single": true,
+                "func_start": 1387,
+                "func_end": 1393,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "bHlkIG1vZHMgQ0hBTkdFIGF1dG9tYXRpYyB1bmtub3duIGRhdGEgcmVtb3ZhbAoKQmVmb3JlLCBpZiBhIG1vZHVsZSB3aXRoIHNvbWUgZGF0YSB3YXMgYmVpbmcKdW5pbnN0YWxsZWQgb3IgYSBmZWF0dXJlIGNoYW5nZWQgY2F1c2luZyBzb21lCmRhdGEgdG8gYmUgdW5rbm93biwgYW4gZXJyb3Igd2FzIHJhaXNlZC4gVGhpcwppcywgdW5mb3J0dW5hdGVseSwgbm90IGFjY2VwdGFibGUgZm9yIG1vZHVsZXMKd2l0aCB0b3AtbGV2ZWwgbWFuZGF0b3J5IG5vZGVzLCB0aGV5IGNvdWxkIG5vdApiZSB1bmluc3RhbGxlZC4KCkZpeGVzICMxNzcx",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/72894b238b63603f925b166c4af03454bf2f3b27",
+        "commit_before": "8fb7b29262233ca0b3041e3467735ccd1e3f7052",
+        "commit_after": "72894b238b63603f925b166c4af03454bf2f3b27",
+        "commit_date": "2020-01-22T08:15:50Z",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1625,
+                "func_end": 1686,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "cmVwbGF5IENIQU5HRSBhbHdheXMgc2VudCByZXBsYXktY29tcGxldGUgc3BlY2lhbCBub3RpZg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/33a456ed357ff90a018c4f4399c7cb464adf7f2e",
+        "commit_before": "874764253b8aaa4b7018a4b2d5eb16a13a2fc1f9",
+        "commit_after": "33a456ed357ff90a018c4f4399c7cb464adf7f2e",
+        "commit_date": "2021-07-26T12:58:25Z",
+        "files": {
+            "src": [
+                "src/replay.c"
+            ],
+            "test": [
+                "tests/test_notif.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 844,
+                "hunk_end": 853,
+                "func_is_single": true,
+                "func_start": 844,
+                "func_end": 853,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "Rml4IGlzc3VlIHdoZXJlIGVkaXQtY29uZmlnIGNoYW5nZXMgYXJlIG5vdCByZWZsZWN0ZWQgaW4gZGF0YXN0b3JlIHdoZW4gdG9wLWxldmVsIG5vZGUgd2l0aGluIHN1Ym1vZHVsZSBoYXMgZXh0ZXJuYWwgZGVwZW5kZW5jeQ==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/c7031858ecec76113ba0b87ba6046cdca2c20518",
+        "commit_before": "03a7b6a22aa70c0dc672228665f20d5c6947e254",
+        "commit_after": "c7031858ecec76113ba0b87ba6046cdca2c20518",
+        "commit_date": "2018-05-30T21:53:30Z",
+        "files": {
+            "src": [
+                "src/data_manager.c"
+            ],
+            "test": [
+                "tests/rp_dt_edit_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1990,
+                "hunk_is_single": true,
+                "hunk_start": 1987,
+                "hunk_end": 1993,
+                "func_is_single": true,
+                "func_start": 1987,
+                "func_end": 1993,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBuZXZlciBmcmVlIGtleXMKCkZpeGVzICMyNDg4",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/2bfdbdc2c29a2132c115d6128e2bf9f15d6256d1",
+        "commit_before": "4f4df1d22e29a497efc049c19d144dab07a059ab",
+        "commit_after": "2bfdbdc2c29a2132c115d6128e2bf9f15d6256d1",
+        "commit_date": "2021-06-22T08:18:53Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 861,
+                "func_end": 926,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "Y29tbW9uIEJVR0ZJWCB4cGF0aCB0cmltIHByZWRpZGNhdGVzIGhlYXAgb3ZlcmZsb3cgKCMyMDAwKQoKVGVzdCBpbmNsdWRlZC4=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/1aa9a88c8c18ad5fa23c1b494efe5cb10646cc38",
+        "commit_before": "2da57afc1ba202e2a8faa91ace4c49e5e8b1aaa4",
+        "commit_after": "1aa9a88c8c18ad5fa23c1b494efe5cb10646cc38",
+        "commit_date": "2020-05-28T07:02:12Z",
+        "files": {
+            "src": [
+                "src/common.c"
+            ],
+            "test": [
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2557,
+                "hunk_end": 2571,
+                "func_is_single": true,
+                "func_start": 2557,
+                "func_end": 2571,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICMxMjczIGZyb20gbWljaGFsdmFza28vZGV2ZWwKClVzZSBkaWZmZXJlbnQgcmV0dXJuIHZhbHVlIGZvciBub24tZXhpc3Rpbmcgc2NoZW1hIG5vZGU=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/710064f2cb438e20e4e484f8a48080149fa94f13",
+        "commit_before": "164340aa0573d9c3deda2227ed3a4b70e608a4b5",
+        "commit_after": "710064f2cb438e20e4e484f8a48080149fa94f13",
+        "commit_date": "2018-08-21T09:25:26Z",
+        "files": {
+            "src": [
+                "src/rp_dt_get.c"
+            ],
+            "test": [
+                "tests/sysrepocfg_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 701,
+                "hunk_is_single": true,
+                "hunk_start": 698,
+                "hunk_end": 704,
+                "func_is_single": true,
+                "func_start": 698,
+                "func_end": 704,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBDSEFOR0UgdW5sb2NrIG1vZHVsZXMgYXMgc29ubiBhcyBwb3NzaWJsZSBpbiBlbmFibGVkIGV2ZW50CgpUaGlzIGFsc28gYWxsb3dzIG1hbmlwdWxhdGluZyB3aXRoIGRhdGEgaW4KdGhlIGNhbGxlZCBjYWxsYmFjay4KCkZpeGVzICMxNzY4",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/85f5fe87e22f3da5e1426946723ae43174dd21ae",
+        "commit_before": "55ef6a4e18be41764cda62d8e69eb1d89e5bdea1",
+        "commit_after": "85f5fe87e22f3da5e1426946723ae43174dd21ae",
+        "commit_date": "2020-01-22T10:30:08Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_get.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 3150,
+                "func_end": 3219,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCBza2lwIGRlZmF1bHQgbm9kZXMgZm9yIHJlcGxhY2UKCkZpeGVzICMyMDA2",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/d39c173031a202825fe603b70b2670a23978b600",
+        "commit_before": "aab9cd3d943b6b8b0ec2e3b3adfbae45ebe53b71",
+        "commit_after": "d39c173031a202825fe603b70b2670a23978b600",
+        "commit_date": "2020-06-02T12:16:10Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_edit.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1762,
+                "hunk_is_single": true,
+                "hunk_start": 1759,
+                "hunk_end": 1766,
+                "func_is_single": true,
+                "func_start": 1759,
+                "func_end": 1766,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBCVUdGSVggc3RhcnR1cCBkYXRhIGZvcmVpZ24gZGVmYXVsdCB2YWx1ZXMKClRlc3QgaW5jbHVkZWQuCkZpeGVzICMxODUx",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/69d3299ba75de45396a536daa8fc3f833a2a01b9",
+        "commit_before": "bd643472c0a8a306b7102ac42c78b7fc0491ae47",
+        "commit_after": "69d3299ba75de45396a536daa8fc3f833a2a01b9",
+        "commit_date": "2020-03-12T10:11:22Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1095,
+                "hunk_is_single": true,
+                "hunk_start": 1092,
+                "hunk_end": 1098,
+                "func_is_single": true,
+                "func_start": 1092,
+                "func_end": 1098,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "VEVTVCBwcmVsaW1pbmFyeSB0ZXN0IG9mIGNvcHktY29uZmlnIG5hY20=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/9f9ab9c9de2cd20f6b736be91ec4e663cd69ae4e",
+        "commit_before": "58356d3c072dddd3c0578db7e11fbefce47ff2b3",
+        "commit_after": "9f9ab9c9de2cd20f6b736be91ec4e663cd69ae4e",
+        "commit_date": "2017-05-17T13:45:05Z",
+        "files": {
+            "src": [
+                "src/rp_dt_edit.c"
+            ],
+            "test": [
+                "tests/nacm_cl_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 950,
+                "hunk_end": 961,
+                "func_is_single": true,
+                "func_start": 950,
+                "func_end": 961,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "c3lzcmVwbyBDSEFOR0UgdXBkYXRlIHN1YnNjcmlwdGlvbnMgYXJlIGFsd2F5cyBmb3IgYm90aCBkcwoKU28gdGhhdCB0aG9zZSB2YWx1ZXMgYXJlIGFsd2F5cyBjaGFuZ2VkIGFuZCBjb3B5LWNvbmZpZwpjYW4gYmUgcGVyZm9ybWVkIHdpdGhvdXQgY2FsbGluZyB0aGVzZSBjYWxsYmFja3MKYW5kIHRoZW4gdmFsaWRhdGluZyBpdC4=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/b4c91750b96962249cbf18897dc1913479f9dea0",
+        "commit_before": "2a09d6219a7d6110e328ef5031701d608c7ee3ec",
+        "commit_after": "b4c91750b96962249cbf18897dc1913479f9dea0",
+        "commit_date": "2019-02-04T11:04:42Z",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1642,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1611,
+                "func_end": 1696,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": "buggy==raw!=100"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_msg": "ZWRpdCBkaWZmIEJVR0ZJWCByZW1vdmUgb3BlciB4cGF0aCBzZWxlY3Rpb24gd2l0aCBjaGlsZHJlbgoKRml4ZXMgIzI3NDE=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/cc85f42af898c781268b77afa0725253613d1753",
+        "commit_before": "1736fab455d84e3426b24790de4450e9068a13b1",
+        "commit_after": "cc85f42af898c781268b77afa0725253613d1753",
+        "commit_date": "2022-03-09T15:41:22Z",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 3217,
+                "hunk_is_single": true,
+                "hunk_start": 3214,
+                "hunk_end": 3220,
+                "func_is_single": true,
+                "func_start": 3214,
+                "func_end": 3220,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICMxMTIwIGZyb20gYWxhbmdlZmUvYXVnLWNoaWxkLWZlYXR1cmUKCkZpeCBzZWdmYXVsdCBkdWUgdG8gTlVMTCBjaGlsZCBpZiBtb2R1bGUgY29udGFpbnMgYXVnbWVudCB3aG9zZSBjaGlsZHJlbiBhcmUgY29udGluZ2VudCBvbiBhIGZlYXR1cmU=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/44ced7648725ea782848e6c0820af28515b756fc",
+        "commit_before": "7690a27ba5bc7c31bb41369f69ac5b8225223037",
+        "commit_after": "44ced7648725ea782848e6c0820af28515b756fc",
+        "commit_date": "2018-05-15T08:00:51Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1744,
+                "hunk_end": 1755,
+                "func_is_single": true,
+                "func_start": 1744,
+                "func_end": 1755,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "Rml4ICM2NTQgZml4ZXMgc3RhdGUgZGF0YSBuZXN0ZWQgaW4gbGlzdCB1bmRlciBncm91cGluZyArIHRlc3Q=",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/e54a6cd6f8b9e3b966be47fee1fb8107f5b53b38",
+        "commit_before": "a9e21d7e3af71ea7d96609b0e8b981e6ecc62cab",
+        "commit_after": "e54a6cd6f8b9e3b966be47fee1fb8107f5b53b38",
+        "commit_date": "2017-01-09T14:36:23Z",
+        "files": {
+            "src": [
+                "src/rp_dt_get.c"
+            ],
+            "test": [
+                "tests/cl_state_data_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 871,
+                "func_end": 890,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "TWVyZ2UgcHVsbCByZXF1ZXN0ICMxMTE5IGZyb20gYXdlYXN0L2F1Z21lbnRlZC1lbXB0eS1jb250YWluZXItZml4CgpSZXNvbHZlIG1vZHVsZSBpbnN0YWxsYXRpb24gYXNzZXJ0aW9uIGVycm9yIHdoZW4gYXVnbWVudGluZyBpbnRvIGVtcHR5IGNvbnRhaW5lcg==",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/0abdfd232eb2aa6002d6b4305d2a2bfc01a835f9",
+        "commit_before": "44ced7648725ea782848e6c0820af28515b756fc",
+        "commit_after": "0abdfd232eb2aa6002d6b4305d2a2bfc01a835f9",
+        "commit_date": "2018-05-15T08:52:28Z",
+        "files": {
+            "src": [
+                "src/module_dependencies.c"
+            ],
+            "test": [
+                "tests/md_test.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1789,
+                "hunk_end": 1798,
+                "func_is_single": true,
+                "func_start": 1789,
+                "func_end": 1798,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": -2,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "bW9kaW5mbyBDSEFOR0UgZXJyb3IgY2hhbmdlIG9uIG5vbi1leGlzdGluZyBwYXJlbnQgb2YgbmVzdGVkIG9wCgpGcm9tIGludmFsaWQgYXJndW1lbnQgdG8gdmFsaWRhdGlvbiBmYWlsZWQsCm1ha2VzIG1vcmUgc2Vuc2Uu",
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/013bdb49220fff2aea0cd5ee22a44e18fbe4bfc7",
+        "commit_before": "abe3d568b42842947c80371c90768c48641542cf",
+        "commit_after": "013bdb49220fff2aea0cd5ee22a44e18fbe4bfc7",
+        "commit_date": "2020-03-04T07:20:10Z",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1510,
+                "hunk_is_single": true,
+                "hunk_start": 1507,
+                "hunk_end": 1513,
+                "func_is_single": true,
+                "func_start": 1507,
+                "func_end": 1513,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": -1
+    },
+    {
+        "commit_after": "75d0b62d3943cdda9146cb87172b045e0f0ee7e7",
+        "commit_message": "ZWRpdCBDSEFOR0UgYWxsb3cgZHVwbGljYXRlIGVkaXRzIGlmIHRoZXkgYXJlIGVxdWFsCg==",
+        "commit_date": "2019-09-03 13:25:26 +0200",
+        "commit_before": "53d2000a5382efc8c7200787cec518eb16fd083e",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_edit.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2523,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 2522,
+                "func_end": 2535,
+                "func_hunks": [],
+                "patch_md5": "64d871ee1b89480cc9c0f362a182f1d0"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/75d0b62d3943cdda9146cb87172b045e0f0ee7e7"
+    },
+    {
+        "commit_after": "d9c9898e33e8145b84ef1ab1377887fe6334fb02",
+        "commit_message": "bHlkbW9kcyBCVUdGSVggc2V0IHJ1bm5pbmcgZGF0YSBmb3IgbmV3IG1vZHVsZXMKCk5vdCBqdXN0IHN0YXJ0dXAuCg==",
+        "commit_date": "2019-09-30 15:24:50 +0200",
+        "commit_before": "caa97020621a08da14c0b876f26871cfef4ccf0a",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1487,
+                "hunk_is_single": true,
+                "hunk_start": 1486,
+                "hunk_end": 1491,
+                "func_is_single": true,
+                "func_start": 1486,
+                "func_end": 1491,
+                "func_hunks": [],
+                "patch_md5": "cee39874038e3145173771309489f5bd"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/d9c9898e33e8145b84ef1ab1377887fe6334fb02"
+    },
+    {
+        "commit_after": "97c6fabbd6c82c8643c0286e129635231472ee59",
+        "commit_message": "c3lzcmVwbyBDSEFOR0UgZG8gbm90IHB1dCBsZWFmLWxpc3QgdmFsdWUgaW50byB4cGF0aAoKVG8ga2VlcCB0aGUgc2FtZSBmb3JtYXQgZnJvbSB0aGUgb2xkIHN5c3JlcG8uCkZpeGVzICMxODA3Cg==",
+        "commit_date": "2020-02-07 10:19:55 +0100",
+        "commit_before": "6f0efd5d4d5a453f32b256773398d722855a5d8a",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_apply_changes.c",
+                "tests/test_copy_config.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3507,
+                "hunk_end": 3536,
+                "func_is_single": true,
+                "func_start": 3507,
+                "func_end": 3536,
+                "func_hunks": [],
+                "patch_md5": "652c76dcf57ffe2fb2aebf2d4d526fa8"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/97c6fabbd6c82c8643c0286e129635231472ee59"
+    },
+    {
+        "commit_after": "633597b4575e32549b09c9a0f25e5810a5d24e12",
+        "commit_message": "U09WRVJTSU9OIGJ1bXAgdG8gdmVyc2lvbiA1LjUuMwo=",
+        "commit_date": "2020-05-19 17:18:05 +0200",
+        "commit_before": "0389c7255007c3b4814ef25fa1d58bec567e3250",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/files/simple-imp.yang",
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1863,
+                "hunk_is_single": true,
+                "hunk_start": 1862,
+                "hunk_end": 1867,
+                "func_is_single": true,
+                "func_start": 1862,
+                "func_end": 1867,
+                "func_hunks": [],
+                "patch_md5": "230cf5064a6e6f23a82f4594f99ed18e"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/633597b4575e32549b09c9a0f25e5810a5d24e12"
+    },
+    {
+        "commit_after": "62b723f96cce1d786cc8e5425c0d1db3d72dd5e3",
+        "commit_message": "QnVnIEZpeDogVGhlIGluaXRpYWwgY29weSBvZiBTVEFSVFVQIHRvIFJVTk5JTkcgaXMgYmFzZWQgb24gZXhpc3RlbmNlIG9mCnRoZSBSVU5OSU5HIG1vZHVsZSBkYXRhc3RvcmUuIFRoZSB0ZXN0IHVzZXMgZmlsZSBzeXN0ZW0gYWNjZXNzKCkgdG8KdmVyaWZ5IGV4aXN0ZW5jZSB3aXRoIHRoZSBTSE0gL21vZHVsZSBuYW1pbmcuIFVzZSBhYnNvbHV0ZSBwYXRoIGZvcgphY2Nlc3MoKSB0ZXN0aW5nIGFuZCBTSE0gcGF0aCBmb3IgY29weWluZy4K",
+        "commit_date": "2020-08-25 17:03:31 -0400",
+        "commit_before": "7f06773e01b235192ba84ffd7a4b404b5d865470",
+        "files": {
+            "src": [
+                "src/shm_main.c"
+            ],
+            "test": [
+                "bindings/python/tests/TestModule.py"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1230,
+                "func_end": 1244,
+                "func_hunks": [],
+                "patch_md5": "a106d22a111a77c5fbb0e71c7f2997a2"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/62b723f96cce1d786cc8e5425c0d1db3d72dd5e3"
+    },
+    {
+        "commit_after": "134ae643d3afa13867c1fd748a72514edc3a6c4b",
+        "commit_message": "c3lzcmVwbyBGRUFUVVJFIG5vIG11bHRpcGxlIHJwYyBzdWJzY3JpcHRpb25zIHdpdGggZXF1YWwgcHJpb3JpdHkKCkJlY2F1c2UgdGhlbiB0aGUgZmlyc3QgY2FsbGJhY2sgY2FuIHdyaXRlIHRoZSBvdXRwdXQgYmVmb3JlCm90aGVycyBjYXVzaW5nIGxhdGVyIGNhbGxiYWNrcyB0byBwYXJzZSB0aGUgb3V0cHV0IGluc3RlYWQKb2YgaW5wdXQuCgpGaXhlcyBjZXNuZXQvbmV0b3BlZXIyIzc1MQo=",
+        "commit_date": "2020-11-06 10:28:17 +0100",
+        "commit_before": "4c2b5d9d7a5c39ff4f0a9a07e4eb33f3d872f21f",
+        "files": {
+            "src": [
+                "src/shm_main.c"
+            ],
+            "test": [
+                "tests/test_process.c",
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2016,
+                "hunk_is_single": true,
+                "hunk_start": 2015,
+                "hunk_end": 2024,
+                "func_is_single": true,
+                "func_start": 2015,
+                "func_end": 2024,
+                "func_hunks": [],
+                "patch_md5": "e7d6b892ef21ee03c53f896853106091"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/134ae643d3afa13867c1fd748a72514edc3a6c4b"
+    },
+    {
+        "commit_after": "99504a308f2a379c6907e12ab6d2c6fb4d576d84",
+        "commit_message": "ZWRpdCBkaWZmIEZFQVRVUkUgYWxsb3cgY3JlYXRpbmcgTlAgY29udGFpbmVycwoKTWVhbmluZyBkbyBub3QgcmV0dXJuIGFuIGVycm9yLCBzaW1wbHkgaWdub3JlCml0LgpSZWZzIGNlc25ldC9uZXRvcGVlcjIjNzU4Cg==",
+        "commit_date": "2020-11-26 14:45:04 +0100",
+        "commit_before": "38a95632447f023bae55eb9c92ec0d100cfcee41",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_edit.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1479,
+                "hunk_is_single": true,
+                "hunk_start": 1478,
+                "hunk_end": 1483,
+                "func_is_single": true,
+                "func_start": 1478,
+                "func_end": 1483,
+                "func_hunks": [],
+                "patch_md5": "2d067c936c2b54ab64b09f49ba629cd7"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/99504a308f2a379c6907e12ab6d2c6fb4d576d84"
+    },
+    {
+        "commit_after": "a97b1be560be72aa631e128ff0fd215e95738432",
+        "commit_message": "c3lzcmVwbyBCVUdGSVggc2V0X21vZHVsZV9hY2Nlc3MgbW9kdWxlX25hbWUgaXMgbm8gbG9uZ2VyIG1hbmRhdG9yeQo=",
+        "commit_date": "2021-05-11 12:10:46 +0200",
+        "commit_before": "87bfd1497e304debc16e8e7b2dddb5675ea75cf3",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1304,
+                "hunk_end": 1312,
+                "func_is_single": true,
+                "func_start": 1304,
+                "func_end": 1312,
+                "func_hunks": [],
+                "patch_md5": "ee6610f72d294aaba05f9df1624935ed"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/a97b1be560be72aa631e128ff0fd215e95738432"
+    },
+    {
+        "commit_after": "d169d35e34d39a10ab92bdff2e5fec945504c848",
+        "commit_message": "bHlkIG1vZHMgVVBEQVRFIG5vIHJlcS1pbnN0IGZhbHNlIGRlcGVuZGVuY2llcwoKQmVjYXVzZSB0aGV5IGFyZSBub3QgbmVlZGVkIGZvciB2YWxpZGF0aW9uLAp0aGV5IGNhbiBiZSBpZ25vcmVkLgo=",
+        "commit_date": "2021-09-29 14:22:29 +0200",
+        "commit_before": "39834e851cd4134b2cd1b19f24c6b58387bf1805",
+        "files": {
+            "src": [
+                "src/lyd_mods.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 547,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 546,
+                "func_end": 570,
+                "func_hunks": [],
+                "patch_md5": "baecb322a827e66a883321543765060b"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/d169d35e34d39a10ab92bdff2e5fec945504c848"
+    },
+    {
+        "commit_after": "f850297b0d55da750b6d9a06f86ceb514eda9636",
+        "commit_message": "c3lzcmVwbyBSRUZBQ1RPUiB1bmluaXRpYWxpemVkIHZhcnMgd2FybmluZ3MK",
+        "commit_date": "2022-03-04 15:55:57 +0100",
+        "commit_before": "dbff5440f51a3cb89ddb1693ecb078ccc42b76ff",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_common.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2040,
+                "hunk_is_single": true,
+                "hunk_start": 2039,
+                "hunk_end": 2044,
+                "func_is_single": true,
+                "func_start": 2039,
+                "func_end": 2044,
+                "func_hunks": [],
+                "patch_md5": "6ee36301dfa94bf22e060544f9ed50ca"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/f850297b0d55da750b6d9a06f86ceb514eda9636"
+    },
+    {
+        "commit_after": "fa897104410373d50a955b44d60bcbf6af04e17e",
+        "commit_message": "ZWRpdCBkaWZmIEJVR0ZJWCByZW1vdmUgb3BlciB4cGF0aCBzZWxlY3Rpb24gd2l0aCBjaGlsZHJlbgoKRml4ZXMgIzI3NDEK",
+        "commit_date": "2022-03-09 16:41:22 +0100",
+        "commit_before": "806c888879814151378e27cb6780dead8dd04f87",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_operational.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3214,
+                "hunk_end": 3220,
+                "func_is_single": true,
+                "func_start": 3214,
+                "func_end": 3220,
+                "func_hunks": [],
+                "patch_md5": "a0a232eb31d12253fd058b598c4a5b10"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/fa897104410373d50a955b44d60bcbf6af04e17e"
+    },
+    {
+        "commit_after": "210e8174d6e371d457aee4758769af3e5547d061",
+        "commit_message": "c3lzcmVwbyBVUERBVEUgZm9yYmlkIHNldHRpbmcgZ3JvdXAgaWYgc3lzcmVwbyBncm91cCBzZXQKClJlZnMgIzI4MTkK",
+        "commit_date": "2022-05-23 15:09:28 +0200",
+        "commit_before": "42fa7fb309ea57e8a34af261c57f6735e78779f8",
+        "files": {
+            "src": [
+                "src/sysrepo.c"
+            ],
+            "test": [
+                "tests/test_modules.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1819,
+                "hunk_is_single": true,
+                "hunk_start": 1818,
+                "hunk_end": 1823,
+                "func_is_single": true,
+                "func_start": 1818,
+                "func_end": 1823,
+                "func_hunks": [],
+                "patch_md5": "ddee5972c48851b51cc13324ab341e05"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/210e8174d6e371d457aee4758769af3e5547d061"
+    },
+    {
+        "commit_after": "d0b96dee906a42553eeb137c8a54d79e182a3bb9",
+        "commit_message": "bW9kaW5mbyBVUERBVEUgYXZvaWQgbG9ja3Mgd2hlbiByZWFkaW5nIFNITSBtb2QgbG9jayBzdGF0ZQo=",
+        "commit_date": "2023-01-10 13:33:21 +0100",
+        "commit_before": "80639307390a8546fee9142b3c3ca26e6afb3a58",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_oper_pull.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1749,
+                "hunk_end": 1767,
+                "func_is_single": true,
+                "func_start": 1749,
+                "func_end": 1767,
+                "func_hunks": [],
+                "patch_md5": "d41613d6b8579b44367790eb33f08a7d"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/d0b96dee906a42553eeb137c8a54d79e182a3bb9"
+    },
+    {
+        "commit_after": "b86eeac312bd84838f09a8daee9554ae6eaea4a1",
+        "commit_message": "ZWRpdCBkaWZmIFVQREFURSBhbGxvdyBvcGVyIGVkaXQgb3AgbWVyZ2Ugd2l0aCBvcCByZW1vdmUgY2hpbGQKCk9ubHkgb3AgcmVtb3ZlIHdpdGggY2hpbGQgb3AgbWVyZ2UgaXMgaW52YWxpZC4KRml4ZXMgIzI5ODIK",
+        "commit_date": "2023-01-13 14:37:47 +0100",
+        "commit_before": "1a74c48c7c5e9358255b25bdc75c2767cc30746e",
+        "files": {
+            "src": [
+                "src/edit_diff.c"
+            ],
+            "test": [
+                "tests/test_edit.c",
+                "tests/test_oper_push.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2476,
+                "hunk_end": 2484,
+                "func_is_single": true,
+                "func_start": 2476,
+                "func_end": 2484,
+                "func_hunks": [],
+                "patch_md5": "2ddc63cce02a519a7b734892f748829e"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/b86eeac312bd84838f09a8daee9554ae6eaea4a1"
+    },
+    {
+        "commit_after": "639dec95185d56782ebd65e33fa2553a76dcb37a",
+        "commit_message": "bW9kaW5mbyBCVUdGSVggY2hlY2sgZm9yIHRvcC1sZXZlbCBvcGFxdWUgbm9kZXMKCkZpeGVzICMyOTkxCg==",
+        "commit_date": "2023-01-26 10:13:29 +0100",
+        "commit_before": "a040134955ff06888ea729dc2581d54520a3b1bd",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_edit.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 154,
+                "hunk_end": 160,
+                "func_is_single": true,
+                "func_start": 154,
+                "func_end": 160,
+                "func_hunks": [],
+                "patch_md5": "a2ef3e1153d291e6efe6a1bfdb8bfa84"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/639dec95185d56782ebd65e33fa2553a76dcb37a"
+    },
+    {
+        "commit_after": "d6b0b30bba4f52932654cee79875960a9bdee2e4",
+        "commit_message": "bW9kaW5mbyBCVUdGSVggZG8gbm90IG92ZXJ3cml0ZSBzZXQgZmxhZ3MK",
+        "commit_date": "2023-01-31 09:39:15 +0100",
+        "commit_before": "ccd50c50f7bab6e97d501502d9268a86af90c9f4",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_rpc_action.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 109,
+                "hunk_end": 115,
+                "func_is_single": true,
+                "func_start": 109,
+                "func_end": 115,
+                "func_hunks": [],
+                "patch_md5": "2afd375406a51f9aaf7ff510ebe22f5e"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/d6b0b30bba4f52932654cee79875960a9bdee2e4"
+    },
+    {
+        "commit_after": "9a7b930a3840f3bfecff757f1ba66ad3b3ac296b",
+        "commit_message": "bW9kaW5mbyBVUERBVEUgcHJvcGVyIG9wZXJhdGlvbmFsIGRhdGFzdG9yZSB2YWxpZGF0aW9uCgpSZWZzICMxMzYzCg==",
+        "commit_date": "2023-03-02 11:30:58 +0100",
+        "commit_before": "d01051cf184385f4b26558d8adfe2f40b9c60c07",
+        "files": {
+            "src": [
+                "src/modinfo.c"
+            ],
+            "test": [
+                "tests/test_oper_pull.c",
+                "tests/test_oper_push.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2547,
+                "hunk_end": 2553,
+                "func_is_single": true,
+                "func_start": 2547,
+                "func_end": 2553,
+                "func_hunks": [],
+                "patch_md5": "952ae304574b77a465d24b60eaa0b51f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/9a7b930a3840f3bfecff757f1ba66ad3b3ac296b"
+    },
+    {
+        "commit_after": "6e345464074b7196fa78de0ba92ca5e02f4138dd",
+        "commit_message": "Y29tbW9uIFVQREFURSBsaWJ5YW5nIHVwZGF0ZXMK",
+        "commit_date": "2023-09-15 11:29:29 +0200",
+        "commit_before": "e508574839253a0f331f501cd5caac119609a485",
+        "files": {
+            "src": [
+                "src/common.c"
+            ],
+            "test": [
+                "tests/test_edit.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3664,
+                "hunk_end": 3671,
+                "func_is_single": true,
+                "func_start": 3664,
+                "func_end": 3671,
+                "func_hunks": [],
+                "patch_md5": "bf59f32df127c3ff9200428b27d71865"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/sysrepo/sysrepo/commits/6e345464074b7196fa78de0ba92ca5e02f4138dd"
+    }
+]

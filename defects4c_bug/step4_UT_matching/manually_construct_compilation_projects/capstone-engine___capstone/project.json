@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/capstone-engine/capstone",
+    "language": null,
+    "main_repo": "https://github.com/capstone-engine/capstone",
+    "repo_name": "capstone-engine___capstone",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

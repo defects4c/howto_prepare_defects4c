@@ -1,0 +1,46 @@
+[
+    {
+        "commit_after": "9ff3016c00108f21760d438bfbb451188886274c",
+        "commit_message": "Rml4IHVzZSgpLWluZyBjdXN0b20gdHlwZXMgd2l0aCBhbiBleHBsaWNpdGx5IG51bGwgaW5kaWNhdG9yCgpUaGlzIGZpeGVzIGEgYnVnIGNhdXNlZCBieSBjYWxsaW5nIHRoYXQgc29jaTo6dHlwZV9jb252ZXJzaW9uOjp0b19iYXNlKCkKdW5jb25kaXRpb25hbGx5LCBldmVuIGlmIHRoZSBjYWxsZXIgZXhwbGljaXRseSBwYXNzZWQgaV9udWxsIGZvciB0aGUKaW5kaWNhdG9yLCB3aGljaCBpcyB1bm5lY2Vzc2FyeSB3b3JrLCBidXQgd29yc2UsIGFjdHVhbGx5IHJlc3VsdGVkIGluCndyb25nIGRhdGEgYmVpbmcgaW5zZXJ0ZWQgaW50byB0aGUgZGF0YWJhc2Ugd2hlbiB1c2luZyBib29zdDo6b3B0aW9uYWwKY29udmVyc2lvbiAoYW5kIG90aGVyIHNpbWlsYXIgY3VzdG9tIHR5cGUgY29udmVyc2lvbnMpIGFzIGl0IHdvdWxkIHNldAp0aGUgaW5kIGFyZ3VtZW50IHRvIGlfb2ssIG92ZXJyaWRpbmcgdGhlIGNhbGxlcidzIGV4cGxpY2l0IGlfbnVsbCBwYXNzZWQKdG8gdXNlKCkuCgpBZGQgKHByZXZpb3VzbHkpIGZhaWxpbmcgdGVzdCB3aGljaCBub3cgcGFzc2VzIGZvciBtb3N0IGJhY2tlbmRzLgo=",
+        "commit_date": "2020-05-12 18:47:56 -0500",
+        "commit_before": "f8044b88e963409641aa1bfe8a92c31a03550cd8",
+        "files": {
+            "src": [
+                "include/soci/type-conversion.h"
+            ],
+            "test": [
+                "tests/common-tests.h"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 148,
+                "hunk_is_single": true,
+                "hunk_start": 147,
+                "hunk_end": 152,
+                "func_is_single": true,
+                "func_start": 147,
+                "func_end": 152,
+                "func_hunks": [],
+                "patch_md5": "293c90d7687f9471fb213520fb54e834"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "soci_sqlite3_test_static",
+                "soci_sqlite3_test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/SOCI/soci/commits/9ff3016c00108f21760d438bfbb451188886274c"
+    }
+]

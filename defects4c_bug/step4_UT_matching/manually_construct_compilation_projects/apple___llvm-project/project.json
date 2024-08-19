@@ -1,0 +1,15 @@
+{
+  "homepage": "https://github.com/apple/llvm-project",
+  "language": null,
+  "main_repo": "https://github.com/apple/llvm-project",
+  "repo_name": "apple___llvm-project",
+  "env": ["CXX=g++","CC=gcc"],
+  "before_install": [],
+  "c_compile": {
+    "build": "ninja",
+    "build_flags": ["-DCMAKE_BUILD_TYPE=Debug","-DLLVM_TARGETS_TO_BUILD=\"X86\"","-DLLVM_ENABLE_PROJECTS=\"clang\"","-DLLVM_INCLUDE_TESTS=on","-S=llvm"],
+    "test": "bash inplace_test.sh",
+    "test_flags": [],
+    "clean": "git"
+  }
+}

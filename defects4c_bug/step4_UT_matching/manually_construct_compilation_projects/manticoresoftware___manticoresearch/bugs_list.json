@@ -1,0 +1,974 @@
+[
+    {
+        "commit_after": "297b8520304e511c3b9cc07dfc149676fb80475d",
+        "commit_message": "Zml4ZWQgZXhjZXB0aW9ucyB2cyBxdWVyeS1wYXJzZXIgaXNzdWUKCgoKZ2l0LXN2bi1pZDogc3ZuOi8vc3ZuLnNwaGlueHNlYXJjaC5jb20vc3BoaW54L3RydW5rQDE2NTMgNDA2YTBjNGQtMDMzYS0wNDEwLThkZTgtZTgwMTM1NzEzOTY4Cg==",
+        "commit_date": "2009-01-12 01:11:18 +0000",
+        "commit_before": "772f61c4412a1b2215110ce9deb5fe2cc49825b2",
+        "files": {
+            "src": [
+                "src/sphinx.cpp"
+            ],
+            "test": [
+                "src/tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3513,
+                "hunk_end": 3519,
+                "func_is_single": true,
+                "func_start": 3513,
+                "func_end": 3519,
+                "func_hunks": [],
+                "patch_md5": "1592781fd80a2ce6b909cf8e4af466d1"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/297b8520304e511c3b9cc07dfc149676fb80475d"
+    },
+    {
+        "commit_after": "3a5f62e790021fe89c2faaf5c7dcd1e935ac8284",
+        "commit_message": "Zml4ZWQgaGFuZGxpbmcgb2YgZHVhbHMgaW4gYSBmZXcgY2FzZXMgKGJ1ZyAjNDQwIGV0IGFsKSwgYWRkZWQgYSB0ZXN0CgoKCmdpdC1zdm4taWQ6IHN2bjovL3N2bi5zcGhpbnhzZWFyY2guY29tL3NwaGlueC90cnVua0AyMTAzIDQwNmEwYzRkLTAzM2EtMDQxMC04ZGU4LWU4MDEzNTcxMzk2OAo=",
+        "commit_date": "2009-11-27 19:54:53 +0000",
+        "commit_before": "7cc466c531c28aaa61b7f79774fb3b24b92b2378",
+        "files": {
+            "src": [
+                "src/sphinx.cpp"
+            ],
+            "test": [
+                "test/test_98/model.bin",
+                "test/test_98/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 3399,
+                "hunk_end": 3406,
+                "func_is_single": true,
+                "func_start": 3399,
+                "func_end": 3406,
+                "func_hunks": [],
+                "patch_md5": "db8f65e7b6b507b3c04430a7fd37e6b0"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/3a5f62e790021fe89c2faaf5c7dcd1e935ac8284"
+    },
+    {
+        "commit_after": "48b9463672b4fa20396adb62dcfc98b8f9f9371a",
+        "commit_message": "Zml4ZWQgbXVsdGlwbHkgc3RvcHdvcmRzIHNvdXJjZSwgbWFudGlzIGJ1ZyA0NzIKYWRkZWQgdGVzdCBtdWx0aXBseSBzdG9wd29yZHMgc291cmNlCgpnaXQtc3ZuLWlkOiBzdm46Ly9zdm4uc3BoaW54c2VhcmNoLmNvbS9zcGhpbngvdHJ1bmtAMjMxNyA0MDZhMGM0ZC0wMzNhLTA0MTAtOGRlOC1lODAxMzU3MTM5NjgK",
+        "commit_date": "2010-06-02 05:37:28 +0000",
+        "commit_before": "da41e452c5acc99ffe40f48be32d9ca7e55c407c",
+        "files": {
+            "src": [
+                "src/sphinx.cpp"
+            ],
+            "test": [
+                "test/stopwords_121.txt",
+                "test/test_121/model.bin",
+                "test/test_121/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 14824,
+                "func_end": 14892,
+                "func_hunks": [],
+                "patch_md5": "75da50e28cab72423d1d136ff37beea3"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/48b9463672b4fa20396adb62dcfc98b8f9f9371a"
+    },
+    {
+        "commit_after": "73ae4bed4b1b1ec7bcfdf69d2d9334f6441a6635",
+        "commit_message": "Zml4ZWQgZXhjZXB0aW9ucyB2cyBzdGFyIHNlYXJjaCBpZSAoIHdvcmQqICkgKCBidWcgIzcwMiApCmFkZGVkIHJlZ3Jlc3Npb24gdG8gdGVzdCAxNjUKCmdpdC1zdm4taWQ6IHN2bjovL3N2bi5zcGhpbnhzZWFyY2guY29tL3NwaGlueC90cnVua0AyNjQyIDQwNmEwYzRkLTAzM2EtMDQxMC04ZGU4LWU4MDEzNTcxMzk2OAo=",
+        "commit_date": "2011-01-19 20:25:31 +0000",
+        "commit_before": "a60765e9db4bfc2202a3b39b3d7846743f571c0f",
+        "files": {
+            "src": [
+                "src/sphinx.cpp"
+            ],
+            "test": [
+                "test/test_165/model.bin",
+                "test/test_165/synonyms2.txt",
+                "test/test_165/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2278,
+                "hunk_is_single": true,
+                "hunk_start": 2277,
+                "hunk_end": 2282,
+                "func_is_single": true,
+                "func_start": 2277,
+                "func_end": 2282,
+                "func_hunks": [],
+                "patch_md5": "76de88ecb1be10ac2913bf364268e7a7"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/73ae4bed4b1b1ec7bcfdf69d2d9334f6441a6635"
+    },
+    {
+        "commit_after": "3d5a26fa9b0b020814720eaa715ca1177c53d4b4",
+        "commit_message": "Zml4ZWQgbGlic3BoaW54IEFQSSAtIGxhcmdlIHF1ZXJ5IGZhaWxzIHdob2xlIHF1ZXJ5IGJhdGNoIHdpdGggcGVyc2lzdCBjb25uZWN0aW9uICggZGF0YSBsZWZ0IGluIHNvY2tldCBvbiBlcnJvciApICM5NjIKYWRkZWQgcmVncmVzc2lvbiB0byBzbW9rZSB0ZXN0IG9mIGxpYnNwaGlueAoKZ2l0LXN2bi1pZDogc3ZuOi8vc3ZuLnNwaGlueHNlYXJjaC5jb20vc3BoaW54L3RydW5rQDI5OTIgNDA2YTBjNGQtMDMzYS0wNDEwLThkZTgtZTgwMTM1NzEzOTY4Cg==",
+        "commit_date": "2011-10-30 20:31:23 +0000",
+        "commit_before": "f38c392d63585bdca6b1d8c2f2fbf182d8b5e0ab",
+        "files": {
+            "src": [
+                "api/libsphinxclient/sphinxclient.c"
+            ],
+            "test": [
+                "api/libsphinxclient/test.c"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1666,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 1665,
+                "func_end": 1677,
+                "func_hunks": [],
+                "patch_md5": "e761ff82a380597918eea34c182ff079"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/3d5a26fa9b0b020814720eaa715ca1177c53d4b4"
+    },
+    {
+        "commit_after": "7dc9725ab613ccbefd3bbb42b5b8eae8b06436a0",
+        "commit_message": "LSBmaXhlZCBidWcgIzEwNzAKLSBhZGRlZCBhIHRlc3QgZm9yIGR1cGxpY2F0ZSBxdWVyeSB3b3JkcyB2cyBTUEhfUkFOS19FWFBSCgpnaXQtc3ZuLWlkOiBzdm46Ly9zdm4uc3BoaW54c2VhcmNoLmNvbS9zcGhpbngvdHJ1bmtAMzE0MyA0MDZhMGM0ZC0wMzNhLTA0MTAtOGRlOC1lODAxMzU3MTM5NjgK",
+        "commit_date": "2012-03-07 14:24:19 +0000",
+        "commit_before": "348425b7ec8b478d3c75d5ed8ef2b1c897e64e7d",
+        "files": {
+            "src": [
+                "src/sphinxsearch.cpp"
+            ],
+            "test": [
+                "test/test_184/model.bin",
+                "test/test_184/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 6201,
+                "hunk_end": 6214,
+                "func_is_single": true,
+                "func_start": 6201,
+                "func_end": 6214,
+                "func_hunks": [],
+                "patch_md5": "2a3df648d4e18d7fa1096181c7e8ed25"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/7dc9725ab613ccbefd3bbb42b5b8eae8b06436a0"
+    },
+    {
+        "commit_after": "4ed64080337204395291927081b9b337a045172f",
+        "commit_message": "Zml4ZWQgZGVhZGxvY2sgb24gZXJyb3Igd2hpbGUgdXBkYXRpbmcgSlNPTiBhdHRyaWJ1dGUgaW5wbGFjZQoKZ2l0LXN2bi1pZDogc3ZuOi8vc3ZuLnNwaGlueHNlYXJjaC5jb20vc3BoaW54L3RydW5rQDQwNzYgNDA2YTBjNGQtMDMzYS0wNDEwLThkZTgtZTgwMTM1NzEzOTY4Cg==",
+        "commit_date": "2013-08-13 17:28:50 +0000",
+        "commit_before": "4a6e919e619180655c7f11c9afa9769e2a709c0f",
+        "files": {
+            "src": [
+                "src/sphinxrt.cpp"
+            ],
+            "test": [
+                "test/test_206/model.bin",
+                "test/test_206/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 6940,
+                "hunk_is_single": true,
+                "hunk_start": 6939,
+                "hunk_end": 6944,
+                "func_is_single": true,
+                "func_start": 6939,
+                "func_end": 6944,
+                "func_hunks": [],
+                "patch_md5": "e97c137c21d1809aabcfb1a7077a7a1d"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/4ed64080337204395291927081b9b337a045172f"
+    },
+    {
+        "commit_after": "c23eb2e762f24715cd9cb84e71033dbe54ff1b9b",
+        "commit_message": "Zml4ZWQgIzIyMDkgcHJvaGliaXRlZCBvcmRlciBieSBNVkEsIGFkZGVkIGVycm9yIG1lc3NhZ2UKCmdpdC1zdm4taWQ6IHN2bjovL3N2bi5zcGhpbnhzZWFyY2guY29tL3NwaGlueC90cnVua0A0OTc5IDQwNmEwYzRkLTAzM2EtMDQxMC04ZGU4LWU4MDEzNTcxMzk2OAo=",
+        "commit_date": "2015-04-03 13:02:38 +0000",
+        "commit_before": "365775a0164552fd544e6912aea7ff993e677762",
+        "files": {
+            "src": [
+                "src/sphinxsort.cpp"
+            ],
+            "test": [
+                "test/test_020/model.bin",
+                "test/test_020/test.xml",
+                "test/test_180/model.bin",
+                "test/test_180/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 3628,
+                "hunk_is_single": true,
+                "hunk_start": 3627,
+                "hunk_end": 3632,
+                "func_is_single": true,
+                "func_start": 3627,
+                "func_end": 3632,
+                "func_hunks": [],
+                "patch_md5": "30f47fb3ab36f779a9bee7a2688f53a8"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/c23eb2e762f24715cd9cb84e71033dbe54ff1b9b"
+    },
+    {
+        "commit_after": "892a8686f67a19092bfb9af8d8616eacc2b669af",
+        "commit_message": "Zml4ZWQgYnVnICMxNTI4IChidWZmZXIgb3ZlcmZsb3cgaW4gbWV0YXBob25lIG9uIGxvbmcgc3RyaW5ncykKCmdpdC1zdm4taWQ6IHN2bjovL3N2bi5zcGhpbnhzZWFyY2guY29tL3NwaGlueC9icmFuY2hlcy9yZWwyMkA1MTEwIDQwNmEwYzRkLTAzM2EtMDQxMC04ZGU4LWU4MDEzNTcxMzk2OAo=",
+        "commit_date": "2015-06-01 12:29:39 +0000",
+        "commit_before": "a589e8e1be953687f2b5374599a1e1924030f336",
+        "files": {
+            "src": [
+                "src/sphinxmetaphone.cpp"
+            ],
+            "test": [
+                "test/test_038/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 589,
+                "hunk_end": 595,
+                "func_is_single": true,
+                "func_start": 589,
+                "func_end": 595,
+                "func_hunks": [],
+                "patch_md5": "2b22961a8766ee656488ad059f1221a0"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/892a8686f67a19092bfb9af8d8616eacc2b669af"
+    },
+    {
+        "commit_after": "1e09442955f70a70afc18f392693696bd299d0ef",
+        "commit_message": "Zml4ZWQgIzIyOTAgU3BoaW54UUwgcmVwbHkgcGFja2V0IG9uIGVycm9yIGluIG11bHRpLXF1ZXJ5OyBhZGRlZCByZWdyZXNzaW9uIHRvIHRlc3QgMTEzCg==",
+        "commit_date": "2015-08-17 14:34:54 +0300",
+        "commit_before": "9cc12ac9664494f8f80333c28bae1d3951577b9b",
+        "files": {
+            "src": [
+                "src/searchd.cpp"
+            ],
+            "test": [
+                "test/test_113/model.bin",
+                "test/test_113/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 17102,
+                "hunk_is_single": true,
+                "hunk_start": 17101,
+                "hunk_end": 17106,
+                "func_is_single": true,
+                "func_start": 17101,
+                "func_end": 17106,
+                "func_hunks": [],
+                "patch_md5": "a8aba2272a04a4b52182a930995e49dc"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/1e09442955f70a70afc18f392693696bd299d0ef"
+    },
+    {
+        "commit_after": "6ba73cab46a7c81563422092a9cddf356e87bdff",
+        "commit_message": "Zml4ZWQgIzIyMDkgcHJvaGliaXRlZCBvcmRlciBieSBNVkEsIGJhY2twb3J0ZWQgZnJvbSBtYXN0ZXIsIGFkZGVkIGVycm9yIG1lc3NhZ2U7IGZpeGVkIHRlc3RzIDIwLCAxODAK",
+        "commit_date": "2016-02-29 10:24:45 +0300",
+        "commit_before": "11206fa5cfa1aa989b39246580bb2c78aed8de77",
+        "files": {
+            "src": [
+                "src/sphinxsort.cpp"
+            ],
+            "test": [
+                "test/test_020/model.bin",
+                "test/test_020/test.xml",
+                "test/test_180/model.bin",
+                "test/test_180/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 3641,
+                "hunk_is_single": true,
+                "hunk_start": 3640,
+                "hunk_end": 3645,
+                "func_is_single": true,
+                "func_start": 3640,
+                "func_end": 3645,
+                "func_hunks": [],
+                "patch_md5": "94b8452085dda4f17acb5536d405a000"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/6ba73cab46a7c81563422092a9cddf356e87bdff"
+    },
+    {
+        "commit_after": "18659471d49255110b7f1f80db5ef56305378636",
+        "commit_message": "Zml4ZWQgIzI0MzQgZmllbGQgbW9kaWZpZXIgZXJyb3IgZm9yIG92ZXItc2hvcnQgd29yZDsgYWRkZWQgcmVncmVzc2lvbiB0byB0ZXN0IDIxMQo=",
+        "commit_date": "2016-03-18 16:21:34 +0300",
+        "commit_before": "cd9f87b57a5a8c0383f92974b78a10ba07c5fd88",
+        "files": {
+            "src": [
+                "src/sphinxquery.cpp"
+            ],
+            "test": [
+                "test/test_211/model.bin",
+                "test/test_211/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1016,
+                "hunk_is_single": true,
+                "hunk_start": 1015,
+                "hunk_end": 1020,
+                "func_is_single": true,
+                "func_start": 1015,
+                "func_end": 1020,
+                "func_hunks": [],
+                "patch_md5": "2bda4d6c42075da500449f8da22560b5"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/18659471d49255110b7f1f80db5ef56305378636"
+    },
+    {
+        "commit_after": "777a23816786e68f444fe4b3768ddbbc75f0db88",
+        "commit_message": "Zml4ZWQgIzI1MjQgc25pcHBldCBpc3N1ZSB3aXRoIHNic2MgdG8gdXRmLTggY2hhciBjb252ZXJzaW9uOyBhZGRlZCByZWdyZXNzaW9ucyB0byB0ZXN0IDYyCg==",
+        "commit_date": "2016-09-07 15:32:37 +0300",
+        "commit_before": "1c1800755d99e4c5d3cfb5d15ac316383dc97cbd",
+        "files": {
+            "src": [
+                "src/sphinxexcerpt.cpp"
+            ],
+            "test": [
+                "test/test_062/model.bin",
+                "test/test_062/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 3233,
+                "func_end": 3268,
+                "func_hunks": [],
+                "patch_md5": "f684b7303c27599cabb3ed50453ad9c5"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/777a23816786e68f444fe4b3768ddbbc75f0db88"
+    },
+    {
+        "commit_after": "e2ae8ab76b9cb4f5ce832d571507088c683226cb",
+        "commit_message": "Rml4ZWQgYnVnIGluIGJpZ2ludChmbG9hdCkgY2FsY3VsYXRpb24uIFRlc3QgY2FzZSBhZGRlZC4K",
+        "commit_date": "2017-12-17 16:58:42 +0700",
+        "commit_before": "04c64380690757916b3515b6f9d174adeaa91dec",
+        "files": {
+            "src": [
+                "src/sphinxexpr.cpp"
+            ],
+            "test": [
+                "test/test_125/model.bin",
+                "test/test_125/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 7016,
+                "hunk_end": 7026,
+                "func_is_single": true,
+                "func_start": 7016,
+                "func_end": 7026,
+                "func_hunks": [],
+                "patch_md5": "1a8e2a977918601b7315a2a5168cfefe"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/e2ae8ab76b9cb4f5ce832d571507088c683226cb"
+    },
+    {
+        "commit_after": "a40b0793feff65e40d10062568d9847c08d10f57",
+        "commit_message": "Zml4ZWQgIzE3OCBnaXRodWIjNSBNVkEgcmFuZ2VkLW1haW4tcXVlcnkgaXNzdWUgZHVlIHRvIHNxbF9yYW5nZV9zdGVwOyBhZGRlZCByZWdyZXNzaW9uIHRvIHRlc3QgMzI4Cg==",
+        "commit_date": "2018-01-11 14:19:14 +0300",
+        "commit_before": "c5eb06e5c5c408428e6c0ebcd52bcdb6dc6f7f45",
+        "files": {
+            "src": [
+                "src/sphinx.cpp"
+            ],
+            "test": [
+                "test/test_328/model.bin",
+                "test/test_328/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 27044,
+                "hunk_end": 27050,
+                "func_is_single": true,
+                "func_start": 27044,
+                "func_end": 27050,
+                "func_hunks": [],
+                "patch_md5": "4b866170953c2f31e793b7496925fa2f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/a40b0793feff65e40d10062568d9847c08d10f57"
+    },
+    {
+        "commit_after": "a56434ce71bb7714b4d8e75278aaa075b27ece80",
+        "commit_message": "Zml4ZWQgIzExODEgaW5zZXJ0IGRvY3VtZW50IHdpdGggbmVnYXRpdmUgSUQgaW50byBSVCBpbmRleCBmYWlscyB3aXRoIGVycm9yIG5vdzsgYWRkZWQgcmVncmVzc2lvbiB0byB0ZXN0IDg3Cg==",
+        "commit_date": "2020-01-27 16:54:26 +0300",
+        "commit_before": "a66aa26675d4e922f84f5b339dc8e80a670fd973",
+        "files": {
+            "src": [
+                "src/searchd.cpp"
+            ],
+            "test": [
+                "test/test_087/model.bin",
+                "test/test_087/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 12405,
+                "func_end": 12430,
+                "func_hunks": [],
+                "patch_md5": "dd8bf29e2f01a4fa94d3f026e988d01b"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/a56434ce71bb7714b4d8e75278aaa075b27ece80"
+    },
+    {
+        "commit_after": "4363e17d6eb6943b622ccf3dfd52b8b2e6ec0c93",
+        "commit_message": "Zml4ZWQgIzE3ODcgZXJyb3IgbWVzc2FnZSBmb3IgYm9vbCBhcmd1bWVudCBvZiBIVFRQIHF1ZXJ5OyBhZGRlZCByZWdyZXNzaW9uIHRvIHRlc3QgMzM3Cg==",
+        "commit_date": "2021-01-11 14:53:59 +0300",
+        "commit_before": "8bdb9e67feb02ebdae2f871c81451ab49859b41e",
+        "files": {
+            "src": [
+                "src/sphinxjson.cpp"
+            ],
+            "test": [
+                "test/test_337/model.bin",
+                "test/test_337/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1697,
+                "hunk_end": 1703,
+                "func_is_single": true,
+                "func_start": 1697,
+                "func_end": 1703,
+                "func_hunks": [],
+                "patch_md5": "c692c37407b9731f4c72bede5c66a302"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/4363e17d6eb6943b622ccf3dfd52b8b2e6ec0c93"
+    },
+    {
+        "commit_after": "f4ab83c291e65a5873d271c67b5491f629544f1d",
+        "commit_message": "Zml4ZWQgIzE5ODAgeG1sIHBpcGUgZXJyb3IgZnJvbSB0YWlsIGNodW5rIGdvdCBwYXNzZWQgYXMgdmFsaWQgZG9jdW1lbnQ7IGFkZGVkIHJlZ3Jlc3Npb24gdG8gdGVzdCA0MTgK",
+        "commit_date": "2021-03-02 23:57:32 +0300",
+        "commit_before": "ba2d6619b8107f3fb177741bbdff3709bac248cd",
+        "files": {
+            "src": [
+                "src/sphinx.cpp"
+            ],
+            "test": [
+                "test/test_418/data1.xml",
+                "test/test_418/model.bin",
+                "test/test_418/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 22219,
+                "hunk_end": 22225,
+                "func_is_single": true,
+                "func_start": 22219,
+                "func_end": 22225,
+                "func_hunks": [],
+                "patch_md5": "1f72553f231a080e948a9f5e23f8e906"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/f4ab83c291e65a5873d271c67b5491f629544f1d"
+    },
+    {
+        "commit_after": "6f6ba8e8b32eefddc935412dd6025da34f804fab",
+        "commit_message": "QWRkZWQgdGVzdCBjYXNlcyBhbmQgZml4ZWQgdGhlIGJ1Zwo=",
+        "commit_date": "2021-08-23 22:55:51 +0530",
+        "commit_before": "ffa6ad43c353f12f58867ab8b9ae1d247877570a",
+        "files": {
+            "src": [
+                "src/sphinxexpr.cpp"
+            ],
+            "test": [
+                "test/.DS_Store",
+                "test/test_442/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 2711,
+                "hunk_end": 2717,
+                "func_is_single": true,
+                "func_start": 2711,
+                "func_end": 2717,
+                "func_hunks": [],
+                "patch_md5": "5c76e2ed096f6cab2dd3188ac11e0b01"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "Tokenizer.exceptions_more"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/6f6ba8e8b32eefddc935412dd6025da34f804fab"
+    },
+    {
+        "commit_after": "60401eb118ec8b326a285151445c856e89ae1f2c",
+        "commit_message": "Zml4IGFmZmVjdGluZyBvZmZzZXQgdG8gZmFjZXQgcmVzdWx0cwoKTm90aWNlLCBob3dldmVyLCB0aGF0IGFmZmVjdGluZyBsaW1pdCBpcyBub3QgYSBidWcgYW5kIGlzIGRlc2NyaWJlZCBpbgonZmFjZXRpbmcnIHNlY3Rpb24uCgpUZXN0IGNhc2UgYWRkZWQuCgpUaGF0IGZpeGVzICMyMzg3Cg==",
+        "commit_date": "2022-12-06 18:28:18 +0700",
+        "commit_before": "3ae44d0fadb032b1abd5c5ec19a0427e09b0cd9d",
+        "files": {
+            "src": [
+                "src/searchdhttp.cpp"
+            ],
+            "test": [
+                "test/test_334/model.bin",
+                "test/test_334/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1033,
+                "hunk_is_single": true,
+                "hunk_start": 1032,
+                "hunk_end": 1037,
+                "func_is_single": true,
+                "func_start": 1032,
+                "func_end": 1037,
+                "func_hunks": [],
+                "patch_md5": "8bb87e1f12bb04763a3a4a38ddf2f988"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/60401eb118ec8b326a285151445c856e89ae1f2c"
+    },
+    {
+        "commit_after": "9946a8c105546c5aebed2ad939b9bceea4b2ee7a",
+        "commit_message": "Zml4ZWQgSFRUUCBlcnJvciB0byBicmVhayByZWNlaXZlIGxvb3AgYW5kIGNsb3NlcyBzb2NrZXQgYW5kIGV4aXQgYWZ0ZXIgc2VuZCBlcnJvciByZXBseSB0byBjbGllbnQK",
+        "commit_date": "2023-04-13 17:18:31 +0200",
+        "commit_before": "f2bb46ada2d0099cc549c0788a0862b7d366d903",
+        "files": {
+            "src": [
+                "src/searchdhttp.cpp"
+            ],
+            "test": [
+                "test/test_339/model.bin",
+                "test/test_339/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1976,
+                "hunk_end": 1982,
+                "func_is_single": true,
+                "func_start": 1976,
+                "func_end": 1982,
+                "func_hunks": [],
+                "patch_md5": "f100ee99d94554b2d5b0d697cbcc1e81"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/9946a8c105546c5aebed2ad939b9bceea4b2ee7a"
+    },
+    {
+        "commit_after": "cc595112f5513534e8ec343d6f29eb4dc98674d2",
+        "commit_message": "Zml4ZWQgZXJyb3IgYXQgZGFlbW9uIGZvciBxdWVyeSBpbnRvIGRpc3RyaWJ1dGVkIGluZGV4OyBmaXhlZCAjMzQ2ODsgYWRkZWQgcmVncmVzc2lvbnMgdG8gdGVzdCAxNzEK",
+        "commit_date": "2023-04-24 20:28:51 +0200",
+        "commit_before": "6dd3964c23f6da4b1b258acb452fa5ea6221b355",
+        "files": {
+            "src": [
+                "src/searchd.cpp"
+            ],
+            "test": [
+                "test/test_171/model.bin",
+                "test/test_171/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 4534,
+                "hunk_is_single": true,
+                "hunk_start": 4533,
+                "hunk_end": 4538,
+                "func_is_single": true,
+                "func_start": 4533,
+                "func_end": 4538,
+                "func_hunks": [],
+                "patch_md5": "18567aa2719603f82ac1b4774589eb17"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/cc595112f5513534e8ec343d6f29eb4dc98674d2"
+    },
+    {
+        "commit_after": "d016f3dc01d110d76f027cbe5711995b954f62d3",
+        "commit_message": "Y3Jhc2ggb24gY2xlYW51cCBvZiB0aGUgcGFyc2VkIHF1ZXJ5IGFmdGVyIHBhcnNlIGVycm9yOyBhZGRlZCByZWdyZXNzaW9uIHRvIHRlc3QgMzM0OyBmaXhlZCBHaXRodWIgIzE0ODEK",
+        "commit_date": "2023-10-25 15:09:25 +0200",
+        "commit_before": "c849394a57898864e86ed98b56a132f449d2cd5f",
+        "files": {
+            "src": [
+                "src/sphinxjsonquery.cpp"
+            ],
+            "test": [
+                "test/test_334/model.bin",
+                "test/test_334/test.xml"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 231,
+                "func_end": 251,
+                "func_hunks": [],
+                "patch_md5": "56e19ba189ab63cd1e1194deb9ceaac6"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/manticoresoftware/manticoresearch/commits/d016f3dc01d110d76f027cbe5711995b954f62d3"
+    }
+]

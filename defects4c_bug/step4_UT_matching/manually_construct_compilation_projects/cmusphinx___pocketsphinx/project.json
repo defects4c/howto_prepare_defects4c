@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/cmusphinx/pocketsphinx",
+    "language": null,
+    "main_repo": "https://github.com/cmusphinx/pocketsphinx",
+    "repo_name": "cmusphinx___pocketsphinx",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

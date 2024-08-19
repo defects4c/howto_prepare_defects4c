@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/MariaDB/server",
+    "language": null,
+    "main_repo": "https://github.com/MariaDB/server",
+    "repo_name": "MariaDB___server",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

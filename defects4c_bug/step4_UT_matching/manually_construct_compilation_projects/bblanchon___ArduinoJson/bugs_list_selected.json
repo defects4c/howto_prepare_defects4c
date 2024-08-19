@@ -1,0 +1,49 @@
+[
+    {
+        "commit_after": "81285f49fec49f2f0ce14b7e485d8241cf9329af",
+        "commit_message": "Rml4ZWQgaXNzdWUgIzY4Cg==",
+        "commit_date": "2015-04-27 15:57:40 +0200",
+        "commit_before": "877096d49d0a6498e89142f1b515973b4af383f7",
+        "files": {
+            "src": [
+                "src/JsonVariant.cpp"
+            ],
+            "test": [
+                "test/JsonVariant_Undefined_Tests.cpp",
+                "test/StaticJsonBuffer_CreateArray_Tests.cpp",
+                "test/StaticJsonBuffer_CreateObject_Tests.cpp",
+                "test/StaticJsonBuffer_ParseArray_Tests.cpp",
+                "test/StaticJsonBuffer_ParseObject_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 64,
+                "hunk_end": 76,
+                "func_is_single": true,
+                "func_start": 64,
+                "func_end": 76,
+                "func_hunks": [],
+                "patch_md5": "7d4cf720af8c9163c5dfd9e3c40e7c55"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "ArduinoJsonTests"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 1,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/81285f49fec49f2f0ce14b7e485d8241cf9329af"
+    }
+]

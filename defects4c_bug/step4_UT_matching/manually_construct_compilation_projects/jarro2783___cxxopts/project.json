@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/jarro2783/cxxopts",
+    "language": null,
+    "main_repo": "https://github.com/jarro2783/cxxopts",
+    "repo_name": "jarro2783___cxxopts",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

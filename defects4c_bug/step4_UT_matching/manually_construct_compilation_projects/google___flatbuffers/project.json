@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/google/flatbuffers",
+    "language": null,
+    "main_repo": "https://github.com/google/flatbuffers",
+    "repo_name": "google___flatbuffers",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

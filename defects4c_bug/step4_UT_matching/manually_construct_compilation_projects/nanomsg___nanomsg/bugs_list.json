@@ -1,0 +1,372 @@
+[
+    {
+        "commit_after": "3e60d5f292a854ebf42bb996e515f6915decb304",
+        "commit_message": "RGVhZGxvY2sgcHJvYmxlbSB3aXRoIHRpbWVycyBmaXhlZAoKU2lnbmVkLW9mZi1ieTogTWFydGluIFN1c3RyaWsgPHN1c3RyaWtAMjUwYnBtLmNvbT4K",
+        "commit_date": "2012-10-28 09:00:50 +0100",
+        "commit_before": "677882e8ce1e4d358dddb1f8a599d618af7a7b99",
+        "files": {
+            "src": [
+                "src/core/sock.c"
+            ],
+            "test": [
+                "tests/reqrep.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 253,
+                "func_end": 284,
+                "func_hunks": [],
+                "patch_md5": "8047e4a63fa79b1b23e1ce783cdc53cc"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/3e60d5f292a854ebf42bb996e515f6915decb304"
+    },
+    {
+        "commit_after": "7b23eb1a02dded96c140eeb0d66a7b92da30a4f2",
+        "commit_message": "TWlub3IgYnVnIGluIG5uX3NvY2tldCBmaXhlZC4KClNpZ25lZC1vZmYtYnk6IE1hcnRpbiBTdXN0cmlrIDxzdXN0cmlrQDI1MGJwbS5jb20+Cg==",
+        "commit_date": "2013-02-04 12:50:41 +0100",
+        "commit_before": "5d5561c6301f986b4b7501888d4fef6cf1c4b7fc",
+        "files": {
+            "src": [
+                "src/core/ctx.c"
+            ],
+            "test": [
+                "tests/shutdown.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 325,
+                "func_end": 339,
+                "func_hunks": [],
+                "patch_md5": "21318c340de87f5d6ebb754b7abedd48"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/7b23eb1a02dded96c140eeb0d66a7b92da30a4f2"
+    },
+    {
+        "commit_after": "0467f38bfb00863b15b7289bf0500353f4fc3095",
+        "commit_message": "QnVnIGluIG5uX3Rlcm0gZml4ZWQKCm5uX3Rlcm0gY2FuIGJlIGNhbGxlZCBldmVuIGlmIHRoZXJlIGlzIG5vIHNvY2tldCBvcGVuCgpTaWduZWQtb2ZmLWJ5OiBNYXJ0aW4gU3VzdHJpayA8c3VzdHJpa0AyNTBicG0uY29tPgo=",
+        "commit_date": "2013-02-04 13:34:43 +0100",
+        "commit_before": "966a01f6c850427a0cdbbd4e1b550235099e9759",
+        "files": {
+            "src": [
+                "src/core/ctx.c"
+            ],
+            "test": [
+                "tests/shutdown.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 285,
+                "hunk_end": 291,
+                "func_is_single": true,
+                "func_start": 285,
+                "func_end": 291,
+                "func_hunks": [],
+                "patch_md5": "d1bccb4516453fec335aba971dafdde5"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/0467f38bfb00863b15b7289bf0500353f4fc3095"
+    },
+    {
+        "commit_after": "9033fe23e069ff90c49a4d711484111f45c3d6c9",
+        "commit_message": "QnVnIGluIHVuaS1kaXJlY3Rpb25hbCBzb2NrZXRzIGZpeGVkCgpTTkRGRCBhbmQgUkNWRkQgb2JqZWN0cyB3ZXJlIHNvbWV0aW1lcyB1bnNpZ25hbGVkIGV2ZW4gd2hlbiB0aGV5CndlcmUgbm90IGNyZWF0ZWQgKGFzIHRoZSBzb2NrZXQgd2FzIHVuaS1kaXJlY3Rpb25hbCkuCgpTaWduZWQtb2ZmLWJ5OiBNYXJ0aW4gU3VzdHJpayA8c3VzdHJpa0AyNTBicG0uY29tPgo=",
+        "commit_date": "2013-03-05 07:17:24 +0100",
+        "commit_before": "9ed4c20160670876d0e21d03ada4b94849c54c04",
+        "files": {
+            "src": [
+                "src/core/sock.c"
+            ],
+            "test": [
+                "tests/device.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 670,
+                "hunk_end": 703,
+                "func_is_single": true,
+                "func_start": 670,
+                "func_end": 703,
+                "func_hunks": [],
+                "patch_md5": "d0a3e7537dc688065243a63b092a95bb"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/9033fe23e069ff90c49a4d711484111f45c3d6c9"
+    },
+    {
+        "commit_after": "86f0b4a5c79ca163d4f4f2e41cc437960c8ecbb0",
+        "commit_message": "QnVnIGluIHJlLXNpemluZyBhIGhhc2ggdGFibGUgZml4ZWQuCgpTaWduZWQtb2ZmLWJ5OiBNYXJ0aW4gU3VzdHJpayA8c3VzdHJpa0AyNTBicG0uY29tPgo=",
+        "commit_date": "2013-03-14 12:47:51 +0100",
+        "commit_before": "a2bf130bc4959ccc3c6f90909b3ba821462512b4",
+        "files": {
+            "src": [
+                "src/utils/hash.c"
+            ],
+            "test": [
+                "tests/CMakeLists.txt",
+                "tests/hash.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 55,
+                "hunk_end": 104,
+                "func_is_single": true,
+                "func_start": 55,
+                "func_end": 104,
+                "func_hunks": [],
+                "patch_md5": "0546fec5d6222a3ca1a552a45644b39c"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/86f0b4a5c79ca163d4f4f2e41cc437960c8ecbb0"
+    },
+    {
+        "commit_after": "b1378ac5f1071aa339e3965d3b119b8e5297539e",
+        "commit_message": "QnVnIGluIG5uX3Rlcm0oKSBwcm9jZWR1cmUgZml4ZWQKClNpZ25lZC1vZmYtYnk6IE1hcnRpbiBTdXN0cmlrIDxzdXN0cmlrQDI1MGJwbS5jb20+Cg==",
+        "commit_date": "2013-06-28 09:28:21 +0200",
+        "commit_before": "31bfd1cd87c29d02d7df7c77dc15b27636c24b09",
+        "files": {
+            "src": [
+                "src/core/sock.c"
+            ],
+            "test": [
+                "tests/shutdown.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 625,
+                "hunk_end": 633,
+                "func_is_single": true,
+                "func_start": 625,
+                "func_end": 633,
+                "func_hunks": [],
+                "patch_md5": "aa5dee128276b5c8e6ab55db74f7aed3"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/b1378ac5f1071aa339e3965d3b119b8e5297539e"
+    },
+    {
+        "commit_after": "85bf81829845887bbb251edd7f8ac7c9030bda7f",
+        "commit_message": "QnVnIGluIGlucHJvYyB0cmFuc3BvcnQgZml4ZWQgKE5OX1BJUEVCQVNFX1BBUlNFRCB3YXMgbm90IHNldCkKClNpZ25lZC1vZmYtYnk6IE1hcnRpbiBTdXN0cmlrIDxzdXN0cmlrQDI1MGJwbS5jb20+Cg==",
+        "commit_date": "2013-06-28 11:18:28 +0200",
+        "commit_before": "0f8be4bc7c68fb3b935180003e57af838e48c292",
+        "files": {
+            "src": [
+                "src/transports/inproc/sinproc.c"
+            ],
+            "test": [
+                "tests/survey.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 164,
+                "hunk_end": 183,
+                "func_is_single": true,
+                "func_start": 164,
+                "func_end": 183,
+                "func_hunks": [],
+                "patch_md5": "26f89475d72fa89d64676930cbaf66ed"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/85bf81829845887bbb251edd7f8ac7c9030bda7f"
+    },
+    {
+        "commit_after": "32b406551727acfd39b960ddb1961b665a981f6b",
+        "commit_message": "Rml4IGJ1ZyBvZiByZW1vdmluZyBwaXBlIHdpdGggdGhlIGN1cnJlbnQgcHJpb3JpdHkKClNpZ25lZC1vZmYtYnk6IE1hcnRpbiBTdXN0cmlrIDxzdXN0cmlrQDI1MGJwbS5jb20+Cg==",
+        "commit_date": "2013-09-21 07:38:01 +0200",
+        "commit_before": "cc9c20d63da2c0d2f4be3335c62af31ea965eb29",
+        "files": {
+            "src": [
+                "src/protocols/utils/priolist.c"
+            ],
+            "test": [
+                "tests/prio.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 62,
+                "func_end": 93,
+                "func_hunks": [],
+                "patch_md5": "05b8576a95956bb8649deaae8ac6ebb9"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/32b406551727acfd39b960ddb1961b665a981f6b"
+    },
+    {
+        "commit_after": "5cd676c50961c1bf30f7babefc0c3d7978ec5112",
+        "commit_message": "Zml4ZXMgIzQ2MyB0Y3Agc2h1dGRvd24gYW5kIGNsb3NlIHVuc3RhYmxlCgpGaXggY3Jhc2ggZHVyaW5nIHNvY2tldCBzaHV0ZG93biB3aGlsZSBpbiBiaW5kaW5nIHN0YXRlClRoaXMgaXMgdGhlIGNvZGUgZml4IGZyb20gY29tbWl0IDcxM2QxZTY0IHdpdGggYSB1bml0IHRlc3QgdGhhdCBkb2Vzbid0CmRlcGVuZCBvbiB0aGUgbm5fZ2V0ZXJyb3IgZnVuY3Rpb24gaW50cm9kdWNlZCBpbiBjb21taXQgZDQ4NGQwNTIK",
+        "commit_date": "2015-09-25 15:00:57 +0100",
+        "commit_before": "80ae441bcf2207a46cb784b40e9a40f26c7fff4f",
+        "files": {
+            "src": [
+                "src/transports/tcp/btcp.c"
+            ],
+            "test": [
+                "tests/tcp.c"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 238,
+                "hunk_end": 244,
+                "func_is_single": true,
+                "func_start": 238,
+                "func_end": 244,
+                "func_hunks": [],
+                "patch_md5": "6da70586a5dd0ced0e27d51872562740"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/nanomsg/nanomsg/commits/5cd676c50961c1bf30f7babefc0c3d7978ec5112"
+    }
+]

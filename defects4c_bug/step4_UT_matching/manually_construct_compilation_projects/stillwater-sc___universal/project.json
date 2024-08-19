@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/stillwater-sc/universal/commits/687bc076957b8fb7808c7b4cb98d13af9a36fb72",
+    "language": null,
+    "main_repo": "https://github.com/stillwater-sc/universal",
+    "repo_name": "stillwater-sc___universal",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

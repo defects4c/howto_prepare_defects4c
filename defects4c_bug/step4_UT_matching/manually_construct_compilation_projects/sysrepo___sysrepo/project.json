@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/sysrepo/sysrepo/commits/264a529e4bef0a498c46425bc8303df7e49dd711",
+    "language": null,
+    "main_repo": "https://github.com/sysrepo/sysrepo",
+    "repo_name": "sysrepo___sysrepo",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": ["-DENABLE_TESTS=on","-DCMAKE_BUILD_TYPE=Debug"],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

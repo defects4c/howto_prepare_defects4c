@@ -1,0 +1,758 @@
+[
+    {
+        "commit_msg": "QVJST1ctODkxMTogW0MrK10gRml4IHNlZ2ZhdWx0IHdoZW4gc2xpY2luZyBDaHVua2VkQXJyYXkgd2l0aCB6ZXJvIGNodW5rcwoKQ2xvc2VzICM3MjYyIGZyb20gd2VzbS9BUlJPVy04OTExCgpBdXRob3JlZC1ieTogV2VzIE1jS2lubmV5IDx3ZXNtK2dpdEBhcGFjaGUub3JnPgpTaWduZWQtb2ZmLWJ5OiBGcmFuw6dvaXMgU2FpbnQtSmFjcXVlcyA8ZnNhaW50amFjcXVlc0BnbWFpbC5jb20+",
+        "url": "https://api.github.com/repos/apache/arrow/commits/20957abe78b0c9ee887e99ae106ec702076f0e05",
+        "commit_before": "445d2b4d32290831a6cbdbbaa87c889a906a4178",
+        "commit_after": "20957abe78b0c9ee887e99ae106ec702076f0e05",
+        "commit_date": "2020-05-25T12:42:25Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/table.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/table_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 111,
+                "hunk_end": 119,
+                "func_is_single": true,
+                "func_start": 111,
+                "func_end": 119,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-table-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "UEFSUVVFVC0yMTYzOiAgSGFuZGxlIGRlY2ltYWwgc2NoZW1hcyB3aXRoIGxhcmdlIGZpeGVkX2xlbl9ieXRlX2FycmF5cwoKVGhlIHByZWNpc2lvbiBjYWxjdWxhdGlvbiBoYWQgYmVlbiBvdmVyZmxvd2luZyB0byBpbmZpbml0eSB3aGVuIHRoZQpsZW5ndGggb2YgdGhlIGZpeGVkX2xlbl9ieXRlX2FycmF5ID4gMTI4LCB0cmlnZ2VyaW5nIGFuIGVycm9yIHdoZW4gdGhlbgp0cnlpbmcgdG8gY29udmVydCBpbmZpbml0eSB0byBhbiBpbnQzMi4gV2UgY2FuIGFjdHVhbGx5IHNpbXBsaWZ5IHRoZQpsb2dpYyBieSBub3RpbmcgdGhhdCBsb2dfYihhXih4KSkgPSBsb2dfYihhKSp4LiBUaGlzIGF2b2lkcyB0aGUKaW50ZXJtZWRpYXRlIGluZmluaXR5LiBXZSBhbHNvIGFkZGVkIGEgY2hlY2sgZm9yIGV4dHJlbWVseSBsYXJnZSB2YWx1ZQpzaXplcyBpbXBseWluZyBhIG1heCBwcmVjaXNpb24gdGhhdCBjYW5ub3QgZml0IGluIGludDMyLiBFdmVuIDEyOSBieXRlCmRlY2ltYWwgc2VlbXMgZXh0cmVtZS4KClRoZSBmb3JtdWxhIFBhcnF1ZXQgQysrIHdhcyB1c2luZyBpcyB0ZWNobmljYWxseSBpbmNvcnJlY3QgdnMgdGhlClBhcnF1ZXQgc3BlY2lmaWNhdGlvbi4gVGhlIHNwZWNpZmljYXRpb24gc2F5cyB0aGF0IHRoZSBtYXggcHJlY2lzaW9uIGlzCmZsb29yKGxvZ18xMCgyXihCKjggLTEpIC0gMSkpLCB3aGVyZSB0aGUgQysrIGltcGxlbWVudGF0aW9uIHdhcyBvbWl0dGluZyB0aGUKb3V0ZXIgLTEuIEhvd2V2ZXIsIHRoaXMgaXMgb2theSBhcyBpdCBpcyBlYXN5IHRvIHByb3ZlIHRoYXQgdGhlc2UgdmFsdWVzCndpbGwgYWx3YXlzIGJlIHRoZSBzYW1lIChpZ25vcmluZyB0aGUgcmVhbGl0aWVzIG9mIEZQIGFyaXRobWV0aWMpICYgaW4KcHJhY3RpY2UgYWxsIHRocmVlIGZvcm11bGFzIGFncmVlIHRocm91Z2ggMTI4IHdoZW4gdXNpbmcgRlAuCgpCdWcgZm91bmQgdGhyb3VnaCBmdXp6aW5nLgoKQ2xvc2VzICMxMzQ1NiBmcm9tIHRhY2h5b253aWxsL2Zsb2F0X292ZXJmbG93CgpBdXRob3JlZC1ieTogV2lsbGlhbSBCdXRsZXIgPHdhYkBnb29nbGUuY29tPgpTaWduZWQtb2ZmLWJ5OiBNaWNhaCBLb3JuZmllbGQgPGVta29ybmZpZWxkQGdtYWlsLmNvbT4=",
+        "url": "https://api.github.com/repos/apache/arrow/commits/423ca163a26781ef6a8229af22b7e6e2d7423a54",
+        "commit_before": "2c29205b32af2a65df3278333583103a17a99972",
+        "commit_after": "423ca163a26781ef6a8229af22b7e6e2d7423a54",
+        "commit_date": "2022-07-06T16:02:00Z",
+        "files": {
+            "src": [
+                "cpp/src/parquet/types.cc"
+            ],
+            "test": [
+                "cpp/src/parquet/schema_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 913,
+                "hunk_is_single": true,
+                "hunk_start": 909,
+                "hunk_end": 916,
+                "func_is_single": true,
+                "func_start": 909,
+                "func_end": 916,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "parquet-schema-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTU2ODg6IFtDKytdIGFkZF9jaGVja2VkIGRvZXNuJ3QgZXJyb3Igb3V0IG9uIGR1cmF0aW9uIG92ZXJmbG93CgpUaGlzIGlzIHRvIHJlc29sdmUgW0FSUk9XLTE1Njg4XShodHRwczovL2lzc3Vlcy5hcGFjaGUub3JnL2ppcmEvYnJvd3NlL0FSUk9XLTE1Njg4KS4KCkNsb3NlcyAjMTI0MzggZnJvbSByb2svQVJST1ctMTU2ODgKCkF1dGhvcmVkLWJ5OiBSb2sgPHJva0BtaWhldmMub3JnPgpTaWduZWQtb2ZmLWJ5OiBBbnRvaW5lIFBpdHJvdSA8YW50b2luZUBweXRob24ub3JnPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/4f890abe1df27712e6001cbfe27b0ec4c21de8f1",
+        "commit_before": "07db461daad60792f7bffea4532e2ed813c2f7b8",
+        "commit_after": "4f890abe1df27712e6001cbfe27b0ec4c21de8f1",
+        "commit_date": "2022-02-16T14:25:11Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/compute/kernels/scalar_arithmetic.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/compute/kernels/scalar_temporal_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 2633,
+                "hunk_is_single": true,
+                "hunk_start": 2630,
+                "hunk_end": 2636,
+                "func_is_single": true,
+                "func_start": 2630,
+                "func_end": 2636,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-compute-scalar-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTc3MzM6IFtDKytdIFRha2UgaW5kZXhfd2lkdGggaW50byBhY2NvdW50IHdoZW4gZmlsbGluZyBudWxscyBpbiBpbmRleCBidWZmZXIgKCMxNDEyOSkKClRha2UgaW50byBhY2NvdW50IGluZGV4X3dpZHRoIHdoZW4gb2Zmc2V0dGluZyBieSBwb3NpdGlvbiBpbnRvIG91dF9kYXRhLiBPdGhlcndpc2Ugd2Ugb2Zmc2V0IHBvc2l0aW9uIGJ5dGVzIGludG8gdGhlIGFycmF5LCBidXQgd2Ugd2FudCB0byBvZmZzZXQgcG9zaXRpb24gcGxhY2VzIGludG8gdGhlIGFycmF5LgoKQXV0aG9yZWQtYnk6IFJhc211cyBKb2hhbnNlbiA8cmFzbmpvQGdtYWlsLmNvbT4KU2lnbmVkLW9mZi1ieTogRGF2aWQgTGkgPGxpLmRhdmlkbTk2QGdtYWlsLmNvbT4=",
+        "url": "https://api.github.com/repos/apache/arrow/commits/68e0fa7499876fc0cf86b8be784a890226648645",
+        "commit_before": "69266721472725f37095880a9b87d88f395462b6",
+        "commit_after": "68e0fa7499876fc0cf86b8be784a890226648645",
+        "commit_date": "2022-09-16T12:58:41Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/array/concatenate.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/array/concatenate_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 311,
+                "hunk_end": 318,
+                "func_is_single": true,
+                "func_start": 311,
+                "func_end": 318,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-concatenate-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTQ4NTQ6IFtDKytdIEZpeCBzdHJ1Y3RfZmllbGQgY3Jhc2ggb24gaW52YWxpZCBpbmRleAoKQSB0cml2aWFsIGZpeC4KCkNsb3NlcyAjMTE3NjggZnJvbSBwaXRyb3UvQVJST1ctMTQ4NTQtc3RydWN0LWZpZWxkLWNyYXNoCgpBdXRob3JlZC1ieTogQW50b2luZSBQaXRyb3UgPGFudG9pbmVAcHl0aG9uLm9yZz4KU2lnbmVkLW9mZi1ieTogRGF2aWQgTGkgPGxpLmRhdmlkbTk2QGdtYWlsLmNvbT4=",
+        "url": "https://api.github.com/repos/apache/arrow/commits/43e6a036cffcc2a5d6e39b2eb93edb8ca29cf986",
+        "commit_before": "5226a3b5a0f29942f20d71fafd7e74c92f220ba1",
+        "commit_after": "43e6a036cffcc2a5d6e39b2eb93edb8ca29cf986",
+        "commit_date": "2021-11-25T21:28:39Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/compute/kernels/scalar_nested.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/compute/kernels/scalar_nested_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 288,
+                "hunk_is_single": true,
+                "hunk_start": 285,
+                "hunk_end": 291,
+                "func_is_single": true,
+                "func_start": 285,
+                "func_end": 291,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-compute-scalar-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTc1MjQ6IFtDKytdIENvcnJlY3Rpb24gZm9yIGZpZWxkcyBpbmNsdWRlZCB3aGVuIHJlYWRpbmcgYW4gT1JDIHRhYmxlICgjMTM5NjIpCgpJIHRoaW5rIHRoZXJlIGlzIGEgYnVnIGluIHRoZSBPUkMgcmVhZGVyIDogd2hlbiB3ZSBzcGVjaWZ5IHRoZSBmaWVsZHMgaW5kZXhlcyB0aGF0IHdlIHdhbnQgdG8ga2VlcCwgaXQgZG9lcyBub3Qgd29yayBjb3JyZWN0bHkuIExvb2tpbmcgYXQgdGhlIGNvZGUsIGl0IHNlZW1zIHRvIGJlIGJlY2F1c2Ugd2UgZG8gImluY2x1ZGVUeXBlcyIgaW4gbGlldWUgb2YgImluY2x1ZGUiIHdoZW4gc2V0dGluZyB0aGUgT1JDIG9wdGlvbnMuDQpJdCBjYW4gYmUgcHJvYmxlbWF0aWMgd2hlbiB3ZSB3YW50IHRvIGltcG9ydCBhbiBPUkMgdGFibGUgY29udGFpbmluZyBVbmlvbiB0eXBlcyBhcyBpdCB3aWxsIGRvIGFuIGVycm9yIGF0IHRoZSBpbXBvcnQsIGV2ZW4gaWYgd2UgdHJ5IG5vdCB0byBpbXBvcnQgdGhlc2Ugc3BlY2lmaWMgZmllbGRzLg0KDQpUaGUgZGVmaW5pdGlvbnMgb2YgdGhlIGNvcnJlc3BvbmRpbmcgT1JDIG1ldGhvZHMgYXJlIGhlcmUgOiANCmh0dHBzOi8vZ2l0aHViLmNvbS9hcGFjaGUvb3JjL2Jsb2IvNzIyMjA4NTFjYmRlMTY0YTIyNzA2ZjhkNDc3NDFmZDFhZDNkYjE5MC9jJTJCJTJCL3NyYy9PcHRpb25zLmhoI0wxODUtTDE5MQ0KDQphbmQgDQpodHRwczovL2dpdGh1Yi5jb20vYXBhY2hlL29yYy9ibG9iLzcyMjIwODUxY2JkZTE2NGEyMjcwNmY4ZDQ3NzQxZmQxYWQzZGIxOTAvYyUyQiUyQi9zcmMvT3B0aW9ucy5oaCNMMjAxLUwyMDcKCkxlYWQtYXV0aG9yZWQtYnk6IExvdWlzQ2x0IDxsb3VpczExMTBAaG90bWFpbC5mcj4KQ28tYXV0aG9yZWQtYnk6IEFudG9pbmUgUGl0cm91IDxhbnRvaW5lQHB5dGhvbi5vcmc+CkNvLWF1dGhvcmVkLWJ5OiBBbnRvaW5lIFBpdHJvdSA8cGl0cm91QGZyZWUuZnI+ClNpZ25lZC1vZmYtYnk6IEFudG9pbmUgUGl0cm91IDxhbnRvaW5lQHB5dGhvbi5vcmc+",
+        "url": "https://api.github.com/repos/apache/arrow/commits/eea4a54f66a36137f4204876a68e6d5ed913cbc5",
+        "commit_before": "ff80b30ea6424f21d15ca9511107a869a2f956b0",
+        "commit_after": "eea4a54f66a36137f4204876a68e6d5ed913cbc5",
+        "commit_date": "2022-10-20T21:42:37Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/adapters/orc/adapter.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/adapters/orc/adapter_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 414,
+                "hunk_is_single": true,
+                "hunk_start": 411,
+                "hunk_end": 417,
+                "func_is_single": true,
+                "func_start": 411,
+                "func_end": 417,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-orc-adapter-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctOTk2OTogW0MrK10gRml4IFJlY29yZEJhdGNoQnVpbGRlciB3aXRoIGRpY3Rpb25hcnkgdHlwZXMKClNvbWUgdHlwZXMsIHN1Y2ggYXMgc29tZSBkaWN0aW9uYXJ5IHR5cGVzLCBjYW4gbm90IGJlIGZ1bGx5IGRldGVybWluZWQKYmVmb3JlIGEgUmVjb3JkQmF0Y2ggaGFzIGJlZW4gYnVpbHQuCgpFbnN1cmUgdGhhdCB0aGUgUmVjb3JkQmF0Y2ggc2NoZW1hIGNvbnRhaW5zIHRoZSBjb3JyZWN0IHR5cGVzLCB3aGVuCnRoZSBSZWNvcmRCYXRjaEJ1aWxkZXIgaGFzIGZpbmlzaGVkIGJ1aWxkaW5nIHRoZSBSZWNvcmRCYXRjaC4KCkNsb3NlcyAjODE3OCBmcm9tIHRyb2Vscy9yZWNvcmRiYXRjaC1zY2hlbWEtY29ycmVjdC10eXBlcwoKQXV0aG9yZWQtYnk6IFRyb2VscyBOaWVsc2VuIDxibi50cm9lbHNAZ21haWwuY29tPgpTaWduZWQtb2ZmLWJ5OiBBbnRvaW5lIFBpdHJvdSA8YW50b2luZUBweXRob24ub3JnPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/0b4fa2a2bf80bf3a91f9f8f42fe313f78b8a1282",
+        "commit_before": "a17717fa528bb7d495cfba5c6b5fb67866934a63",
+        "commit_after": "0b4fa2a2bf80bf3a91f9f8f42fe313f78b8a1282",
+        "commit_date": "2020-09-21T13:00:22Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/table_builder.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/table_builder_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 65,
+                "hunk_is_single": true,
+                "hunk_start": 62,
+                "hunk_end": 68,
+                "func_is_single": true,
+                "func_start": 62,
+                "func_end": 68,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-table-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTgyNjk6IFtDKytdIEhhbmRsZSBzbGFzaCBjaGFyYWN0ZXIgaW4gSGl2ZS1zdHlsZSBwYXJ0aXRpb24gdmFsdWVzICgjMTQ2NDYpCgpUaGlzIFBSIGluY2x1ZGVzIGEgbW9kaWZpY2F0aW9uIHRvIHRoZSBwYXJ0aXRpb24ga2V5IGdlbmVyYXRpb24uIEV4cGVjdGluZyBpbnB1dCBkYXRhIGNvbHVtbiB3aXRoIFVSSSBkYXRhIGZvciBwYXJ0aXRpb24sIHRoZSBVUkkgZW5jb2RpbmcgaXMgYWRkZWQgdG8gY29uc2lkZXIgdGhhdCBzaXR1YXRpb24uIAoKTGVhZC1hdXRob3JlZC1ieTogVmliaGF0aGEgTGFrbWFsIEFiZXlrb29uIDx2aWJoYXRoYUBnbWFpbC5jb20+CkNvLWF1dGhvcmVkLWJ5OiBBbnRvaW5lIFBpdHJvdSA8YW50b2luZUBweXRob24ub3JnPgpTaWduZWQtb2ZmLWJ5OiBBbnRvaW5lIFBpdHJvdSA8YW50b2luZUBweXRob24ub3JnPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/db004443e631fd72c0fd9a16a02294cd14b456e5",
+        "commit_before": "51213261982799e9bd4b191ab961137cca6299e9",
+        "commit_after": "db004443e631fd72c0fd9a16a02294cd14b456e5",
+        "commit_date": "2022-12-05T14:36:05Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/dataset/partition.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/dataset/partition_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 783,
+                "hunk_is_single": true,
+                "hunk_start": 780,
+                "hunk_end": 786,
+                "func_is_single": true,
+                "func_start": 780,
+                "func_end": 786,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-dataset-partition-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTc4NTc6IFtDKytdIEZpeCBzZWdmYXVsdCBpbiBUYWJsZTo6Q29tYmluZUNodW5rc1RvQmF0Y2ggKCMxNDI0OSkKCkF1dGhvcmVkLWJ5OiBEYXZpZCBMaSA8bGkuZGF2aWRtOTZAZ21haWwuY29tPgpTaWduZWQtb2ZmLWJ5OiBBbnRvaW5lIFBpdHJvdSA8YW50b2luZUBweXRob24ub3JnPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/e1cf9041c482486c314a3d143f4b01d35baeaab4",
+        "commit_before": "d8d0323fce233a53180a39c6139755b3d0c9310d",
+        "commit_after": "e1cf9041c482486c314a3d143f4b01d35baeaab4",
+        "commit_date": "2022-10-03T16:00:03Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/table.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/table_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 583,
+                "hunk_is_single": true,
+                "hunk_start": 580,
+                "hunk_end": 586,
+                "func_is_single": true,
+                "func_start": 580,
+                "func_end": 586,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-table-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTAwMjc6IFtDKytdIEZpeCBUYWtlIGFycmF5IGtlcm5lbCBmb3IgTnVsbFR5cGUKCkNsb3NlcyAjODIwOSBmcm9tIGpvcmlzdmFuZGVuYm9zc2NoZS9BUlJPVy0xMDAyNy1maWx0ZXItbnVsbAoKQXV0aG9yZWQtYnk6IEpvcmlzIFZhbiBkZW4gQm9zc2NoZSA8am9yaXN2YW5kZW5ib3NzY2hlQGdtYWlsLmNvbT4KU2lnbmVkLW9mZi1ieTogQW50b2luZSBQaXRyb3UgPGFudG9pbmVAcHl0aG9uLm9yZz4=",
+        "url": "https://api.github.com/repos/apache/arrow/commits/171e8bfe5fe13467a1763227e495fae6bc5d011d",
+        "commit_before": "04eb733d9f38ad2fdf61352aa955aa6200f23a7f",
+        "commit_after": "171e8bfe5fe13467a1763227e495fae6bc5d011d",
+        "commit_date": "2020-09-24T09:48:20Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/compute/kernels/vector_selection.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/compute/kernels/vector_selection_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 1174,
+                "hunk_is_single": true,
+                "hunk_start": 1171,
+                "hunk_end": 1177,
+                "func_is_single": true,
+                "func_start": 1171,
+                "func_end": 1177,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-compute-vector-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTQxMDk6IFtDKytdIEZpeCBzZWdmYXVsdCB3aGVuIHBhcnNpbmcgSlNPTiB3aXRoIGR1cGxpY2F0ZSBrZXlzLgoKV2hlbiByZWFkaW5nIGEgSlNPTiBvYmplY3Qgd2l0aCBkdXBsaWNhdGUga2V5cywgQXJyb3cgY2FuIGNyYXNoIGlmIHRoZSBkdXBsaWNhdGUga2V5IHdhcyBub3QgaW4gc2NoZW1hLiBJbiB0aGlzIGNhc2UsIHRoZSBhYnNlbnRfZmllbGRzX3N0YWNrXyB3aWxsIG5vdCBoYXZlIGFuIGluZGV4IHRvIHJlcHJlc2VudCB0aGUgZHVwbGljYXRlZCBrZXkuIFdoZW4gd2UgZW5jb3VudGVyIHRoZSBkdXBsaWNhdGVkIGtleSBmb3IgYSBzZWNvbmQgdGltZSwgZmllbGRfaW5kZXhfIHdpbGwgYmUgbm9uLW5lZ2F0aXZlIGFuZCBncmVhdGVyIHRoYW4gdGhlIHNpemUgb2YgYWJzZW50X2ZpZWxkc19zdGFja18sIHRodXMgdHJpZ2dlcmluZyBhIGNyYXNoIHdoZW4gd2UgYXR0ZW1wdCB0byByZWFkIGZyb20gYWJzZW50X2ZpZWxkc19zdGFja18uCgpDbG9zZXMgIzExMjIyIGZyb20gdGFjaHlvbndpbGwvanNvbl9kdXBsaWNhdGUKCkF1dGhvcmVkLWJ5OiBXaWxsaWFtIEJ1dGxlciA8d2FiQGdvb2dsZS5jb20+ClNpZ25lZC1vZmYtYnk6IFlpYm8gQ2FpIDx5aWJvLmNhaUBhcm0uY29tPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/6bbe8d6619958b9eb4809b5a353a1a1228117c71",
+        "commit_before": "8dbe5740acfe276121b8ab5b768038e0822cd311",
+        "commit_after": "6bbe8d6619958b9eb4809b5a353a1a1228117c71",
+        "commit_date": "2021-09-29T01:01:10Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/json/parser.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/json/parser_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 756,
+                "hunk_is_single": true,
+                "hunk_start": 753,
+                "hunk_end": 759,
+                "func_is_single": true,
+                "func_start": 753,
+                "func_end": 759,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-json-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctODkyOTogW0MrK10gU2V0IHRoZSBkZWZhdWx0IGZvciBjb21wdXRlOjpBcml0eTo6VmFyQXJncyB0byAwCgpBcyBNaWNhaCBwb2ludGVkIG91dCwgMCBpcyBhIG1vcmUgcmVhc29uYWJsZSBkZWZhdWx0IGZvciB0aGUgbWluaW11bSBudW1iZXIgb2YgYXJndW1lbnRzIHRoYW4gMSBpcy4KCkNsb3NlcyAjNzMyMiBmcm9tIHdlc20vQVJST1ctODkyOQoKQXV0aG9yZWQtYnk6IFdlcyBNY0tpbm5leSA8d2VzbStnaXRAYXBhY2hlLm9yZz4KU2lnbmVkLW9mZi1ieTogV2VzIE1jS2lubmV5IDx3ZXNtK2dpdEBhcGFjaGUub3JnPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/4a7e19e118907d0b1c7e1505697a5b74a541c9f7",
+        "commit_before": "58d5bf5053ee26b2b7f7bb26f1252467cd6b2ee6",
+        "commit_after": "4a7e19e118907d0b1c7e1505697a5b74a541c9f7",
+        "commit_date": "2020-06-02T01:39:30Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/compute/function.h"
+            ],
+            "test": [
+                "cpp/src/arrow/compute/function_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 63,
+                "hunk_is_single": true,
+                "hunk_start": 60,
+                "hunk_end": 66,
+                "func_is_single": true,
+                "func_start": 60,
+                "func_end": 66,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-compute-internals-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctOTY3MTogW0MrK10gRml4IGEgYnVnIGluIEJhc2ljRGVjaW1hbDEyOCBjb25zdHJ1Y3RvciB0aGF0IGludGVycHJldHMgdWludDY0X3QgaW50ZWdlcnMgd2l0aCBoaWdoZXN0IGJpdCBzZXQgYXMgbmVnYXRpdmUuCgpDbG9zZXMgIzc5MTUgZnJvbSBNaW5neXVaaG9uZy9ibgoKTGVhZC1hdXRob3JlZC1ieTogTWluZ3l1IFpob25nIDxteXpob25nQGdvb2dsZS5jb20+CkNvLWF1dGhvcmVkLWJ5OiBNaWNhaCBLb3JuZmllbGQgPG1pY2Foa0Bnb29nbGUuY29tPgpTaWduZWQtb2ZmLWJ5OiBNaWNhaCBLb3JuZmllbGQgPGVta29ybmZpZWxkQGdtYWlsLmNvbT4=",
+        "url": "https://api.github.com/repos/apache/arrow/commits/3d0a9d58b6fe29dcb208c3fa244c789449517988",
+        "commit_before": "f40e2871919b577995a8e9e2419af2e494f574cb",
+        "commit_after": "3d0a9d58b6fe29dcb208c3fa244c789449517988",
+        "commit_date": "2020-08-08T02:56:01Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/util/basic_decimal.h"
+            ],
+            "test": [
+                "cpp/src/arrow/util/decimal_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 51,
+                "hunk_end": 60,
+                "func_is_single": true,
+                "func_start": 51,
+                "func_end": 60,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-utility-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctODcyODogW0MrK10gRml4IGJpdG1hcCBvcGVyYXRpb24gYnVmZmVyIG92ZXJmbG93CgpDbG9zZXMgIzcxMjMgZnJvbSBjeWI3MDI4OS9iaXRtYXAtYnVnCgpBdXRob3JlZC1ieTogWWlibyBDYWkgPHlpYm8uY2FpQGFybS5jb20+ClNpZ25lZC1vZmYtYnk6IEFudG9pbmUgUGl0cm91IDxhbnRvaW5lQHB5dGhvbi5vcmc+",
+        "url": "https://api.github.com/repos/apache/arrow/commits/d96b4de577f4248e469bd41f77e4dfb32109511d",
+        "commit_before": "2dd90714a7b2d09efa45431613e8ff802c316b7c",
+        "commit_after": "d96b4de577f4248e469bd41f77e4dfb32109511d",
+        "commit_date": "2020-05-07T12:27:12Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/util/bit_util.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/util/bit_util_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 267,
+                "hunk_is_single": true,
+                "hunk_start": 264,
+                "hunk_end": 270,
+                "func_is_single": true,
+                "func_start": 264,
+                "func_end": 270,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-utility-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctOTQ5NTogW0MrK10gRXF1YWxpdHkgYXNzZXJ0aW9ucyBkb24ndCBoYW5kbGUgSW5mIC8gLUluZiBwcm9wZXJseQoKU2VlIGh0dHBzOi8vaXNzdWVzLmFwYWNoZS5vcmcvamlyYS9icm93c2UvQVJST1ctOTQ5NQoKQ2xvc2VzICM3ODI2IGZyb20gbGl5YWZhbjgyL2ZseV8wNzI0X2VxCgpBdXRob3JlZC1ieTogbGl5YWZhbjgyIDxmYW5fbGlfeWFAZm94bWFpbC5jb20+ClNpZ25lZC1vZmYtYnk6IEFudG9pbmUgUGl0cm91IDxhbnRvaW5lQHB5dGhvbi5vcmc+",
+        "url": "https://api.github.com/repos/apache/arrow/commits/c4f8436e2532524c2a2f9cc26f73c6b7dfababaa",
+        "commit_before": "18181fe3022d5142511f507fa3047796c627d88b",
+        "commit_after": "c4f8436e2532524c2a2f9cc26f73c6b7dfababaa",
+        "commit_date": "2020-08-17T14:27:46Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/compare.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/array/array_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 110,
+                "hunk_end": 120,
+                "func_is_single": true,
+                "func_start": 110,
+                "func_end": 120,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-array-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTYyMDQ6IFtDKytdW0RhdGFzZXRdIERlZmF1bHQgZXJyb3IgZXhpc3RpbmdfZGF0YV9iZWhhdmlvdXIgZm9yIHdyaXRpbmcgZGF0YXNldCBpZ25vcmVzIGEgc2luZ2xlIGZpbGUKCkNsb3NlcyAjMTI4OTggZnJvbSBqb3Jpc3ZhbmRlbmJvc3NjaGUvQVJST1ctMTYyMDQKCkF1dGhvcmVkLWJ5OiBKb3JpcyBWYW4gZGVuIEJvc3NjaGUgPGpvcmlzdmFuZGVuYm9zc2NoZUBnbWFpbC5jb20+ClNpZ25lZC1vZmYtYnk6IEpvcmlzIFZhbiBkZW4gQm9zc2NoZSA8am9yaXN2YW5kZW5ib3NzY2hlQGdtYWlsLmNvbT4=",
+        "url": "https://api.github.com/repos/apache/arrow/commits/912e2bb3345536c271580e3a9e88baaffb7f2836",
+        "commit_before": "16638a445201e7bf61358c96a6e70ab81df8a001",
+        "commit_after": "912e2bb3345536c271580e3a9e88baaffb7f2836",
+        "commit_date": "2022-04-22T16:11:51Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/dataset/dataset_writer.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/dataset/dataset_writer_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 426,
+                "hunk_is_single": true,
+                "hunk_start": 423,
+                "hunk_end": 429,
+                "func_is_single": true,
+                "func_start": 423,
+                "func_end": 429,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-dataset-dataset-writer-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTA0MTE6IFtDKytdIEZpeCBpbmNvcnJlY3QgY2hpbGQgYXJyYXkgbGVuZ3RocyBmb3IgQ29uY2F0ZW5hdGUgb2YgRml4ZWRTaXplTGlzdAoKQ2xvc2VzICM4NjEzIGZyb20gam9oYW5wZWwvZml4ZWQtc2l6ZS1saXN0LWNvbmNhdAoKQXV0aG9yZWQtYnk6IEpvaGFuIFBlbHRlbmJ1cmcgPGoudy5wZWx0ZW5idXJnQHR1ZGVsZnQubmw+ClNpZ25lZC1vZmYtYnk6IEJlbmphbWluIEtpZXR6bWFuIDxiZW5naWxnaXRAZ21haWwuY29tPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/a8b9646d069677c431f4eb2cf119438cd8bf2ab6",
+        "commit_before": "68866a1ed1e5911adfc0ba0daea283caa8263565",
+        "commit_after": "a8b9646d069677c431f4eb2cf119438cd8bf2ab6",
+        "commit_date": "2020-12-01T18:29:09Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/array/concatenate.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/array/concatenate_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 242,
+                "func_end": 390,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-concatenate-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    },
+    {
+        "commit_msg": "QVJST1ctMTYwMjU6IFtQeXRob25dW0MrK10gRml4IHNlZ21lbnRhdGlvbiBmYXVsdCB3aGVuIGNsb3NpbmcgT1JDRmlsZVdyaXR0ZXIKClRoaXMgUFIgZml4ZXMgQVJST1ctMTYwMjUgKENhbGxpbmcgbm9uZXhpc3RlbnQgbWV0aG9kIG9mIHB5YXJyb3cub3JjLk9SQ1dyaXRlciBjYXVzZXMgc2VnZmF1bHQpLgoKVGhlIHNlZ21lbnRhdGlvbiBmYXVsdCBjYW4gYmUgcmVwcm9kdWNlZCB3aXRoIHRoZSB0ZXN0OgpgYGBweXRob24KZGVmIHRlc3Rfd3JvbmdfdXNhZ2Vfb3JjX3dyaXRlcih0ZW1wZGlyKToKICAgIGZyb20gcHlhcnJvdyBpbXBvcnQgb3JjCgogICAgcGF0aCA9IHN0cih0ZW1wZGlyIC8gJ3Rlc3Qub3JjJykKICAgIHdpdGggb3JjLk9SQ1dyaXRlcihwYXRoKSBhcyB3cml0ZXI6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKEF0dHJpYnV0ZUVycm9yKToKICAgICAgICAgICAgd3JpdGVyLnRlc3QoKQpgYGAKClRoZSBpc3N1ZSB3YXMgdGhhdCBjbG9zaW5nIGBPUkNGaWxlV3JpdGVyYCB3aXRob3V0IGFjdHVhbGx5IHdyaXRpbmcgd2FzIHRyeWluZyB0byBjbG9zZSBhIG51bGwgd3JpdGVyIChgd3JpdGVyXy0+Y2xvc2UoKTtgKSBjYXVzaW5nIHRoZSBzZWdtZW50YXRpb24gZmF1bHQuCgpDbG9zZXMgIzEyODE2IGZyb20gcmF1bGNkL0FSUk9XLTE2MDI1CgpBdXRob3JlZC1ieTogUmHDumwgQ3VtcGxpZG8gPHJhdWxjdW1wbGlkb0BnbWFpbC5jb20+ClNpZ25lZC1vZmYtYnk6IEFsZXNzYW5kcm8gTW9saW5hIDxhbW9sQHR1cmJvZ2VhcnMub3JnPg==",
+        "url": "https://api.github.com/repos/apache/arrow/commits/ccaef092c297b8af5d375bc542d908cda8fd415e",
+        "commit_before": "5441c4b10c0ce44315f18b2ff6c6970ad62258de",
+        "commit_after": "ccaef092c297b8af5d375bc542d908cda8fd415e",
+        "commit_date": "2022-04-13T10:30:53Z",
+        "files": {
+            "src": [
+                "cpp/src/arrow/adapters/orc/adapter.cc"
+            ],
+            "test": [
+                "cpp/src/arrow/adapters/orc/adapter_test.cc"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 840,
+                "hunk_is_single": true,
+                "hunk_start": 837,
+                "hunk_end": 843,
+                "func_is_single": true,
+                "func_start": 837,
+                "func_end": 843,
+                "func_hunks": []
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "arrow-orc-adapter-test"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 1,
+        "status_manual": 1
+    }
+]

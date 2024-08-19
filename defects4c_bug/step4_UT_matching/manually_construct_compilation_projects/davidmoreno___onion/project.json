@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/davidmoreno/onion",
+    "language": null,
+    "main_repo": "https://github.com/davidmoreno/onion",
+    "repo_name": "davidmoreno___onion",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/doxygen/doxygen",
+    "language": null,
+    "main_repo": "https://github.com/doxygen/doxygen",
+    "repo_name": "doxygen___doxygen",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

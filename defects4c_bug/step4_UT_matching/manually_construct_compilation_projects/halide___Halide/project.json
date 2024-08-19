@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/halide/Halide",
+    "language": null,
+    "main_repo": "https://github.com/halide/Halide",
+    "repo_name": "halide___Halide",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

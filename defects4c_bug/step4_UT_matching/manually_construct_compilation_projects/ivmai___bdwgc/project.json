@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/ivmai/bdwgc",
+    "language": null,
+    "main_repo": "https://github.com/ivmai/bdwgc",
+    "repo_name": "ivmai___bdwgc",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

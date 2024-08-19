@@ -1,0 +1,587 @@
+[
+    {
+        "commit_after": "95a2d6714ed89f1e7d296f0013f6a97a594832e8",
+        "commit_message": "Rml4IG1pbm9yIGlzc3VlcyBmb3IgR0NDCg==",
+        "commit_date": "2014-10-14 09:50:58 +0200",
+        "commit_before": "3ce5e5332332d0ecb18362ae27e14633577cb002",
+        "files": {
+            "src": [
+                "srcs/Arduino/Printable.h"
+            ],
+            "test": [
+                "tests/JsonObject_Serialization_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 1,
+                "hunk_end": 12,
+                "func_is_single": true,
+                "func_start": 1,
+                "func_end": 12,
+                "func_hunks": [],
+                "patch_md5": "4808d6b95bccf1cf89f951a41a5ebf98"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/95a2d6714ed89f1e7d296f0013f6a97a594832e8"
+    },
+    {
+        "commit_after": "81285f49fec49f2f0ce14b7e485d8241cf9329af",
+        "commit_message": "Rml4ZWQgaXNzdWUgIzY4Cg==",
+        "commit_date": "2015-04-27 15:57:40 +0200",
+        "commit_before": "877096d49d0a6498e89142f1b515973b4af383f7",
+        "files": {
+            "src": [
+                "src/JsonVariant.cpp"
+            ],
+            "test": [
+                "test/JsonVariant_Undefined_Tests.cpp",
+                "test/StaticJsonBuffer_CreateArray_Tests.cpp",
+                "test/StaticJsonBuffer_CreateObject_Tests.cpp",
+                "test/StaticJsonBuffer_ParseArray_Tests.cpp",
+                "test/StaticJsonBuffer_ParseObject_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 64,
+                "hunk_end": 76,
+                "func_is_single": true,
+                "func_start": 64,
+                "func_end": 76,
+                "func_hunks": [],
+                "patch_md5": "7d4cf720af8c9163c5dfd9e3c40e7c55"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": [
+                "ArduinoJsonTests"
+            ],
+            "status": "success2"
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/81285f49fec49f2f0ce14b7e485d8241cf9329af"
+    },
+    {
+        "commit_after": "a1943e21ed060c9d3196fcf30bb6334e29330058",
+        "commit_message": "Rml4ZWQgY29tcGlsYXRpb24gb24gVmlzdWFsIFN0dWRpbyAyMDEwIGFuZCAyMDEyIChpc3N1ZSAjMTA3KQo=",
+        "commit_date": "2015-08-27 21:47:49 +0200",
+        "commit_before": "01c287bc8987d670f3e2f7ee75e667254622d436",
+        "files": {
+            "src": [
+                "src/Arduino/Print.cpp"
+            ],
+            "test": [
+                "test/CMakeLists.txt"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 18,
+                "hunk_is_single": true,
+                "hunk_start": 17,
+                "hunk_end": 22,
+                "func_is_single": true,
+                "func_start": 17,
+                "func_end": 22,
+                "func_hunks": [],
+                "patch_md5": "a4af577abcdea198374fd6dae210561f"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/a1943e21ed060c9d3196fcf30bb6334e29330058"
+    },
+    {
+        "commit_after": "6a608d4b4906b43bd57617fdf3ca5cd446de770a",
+        "commit_message": "Rml4ZWQgYEpzb25WYXJpYW50Ojppczxib29sPigpYCB0aGF0IHdhcyBpbmNvcnJlY3RseSByZXR1cm5pbmcgZmFsc2UgKGlzc3VlICMyMTQpCg==",
+        "commit_date": "2016-01-31 21:56:04 +0100",
+        "commit_before": "01924618bd1444e75bf2839aedbf4f63d3094e1e",
+        "files": {
+            "src": [
+                "src/JsonVariant.cpp"
+            ],
+            "test": [
+                "test/Issue214.cpp",
+                "test/JsonVariant_Is_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 87,
+                "hunk_is_single": true,
+                "hunk_start": 86,
+                "hunk_end": 91,
+                "func_is_single": true,
+                "func_start": 86,
+                "func_end": 91,
+                "func_hunks": [],
+                "patch_md5": "554c44b61a0055519b7cc7c36dfac2af"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/6a608d4b4906b43bd57617fdf3ca5cd446de770a"
+    },
+    {
+        "commit_after": "c64340a9bb7035b7651748cf1831387be4166bb4",
+        "commit_message": "Rml4ZWQgZXJyb3IgaW4gZmxvYXQgc2VyaWFsaXphdGlvbiAoaXNzdWUgIzMyNCkK",
+        "commit_date": "2016-07-20 13:15:17 +0200",
+        "commit_before": "79d80a5dbf0b78b423c20aa527029acc6255f86d",
+        "files": {
+            "src": [
+                "include/ArduinoJson/Internals/JsonWriter.hpp"
+            ],
+            "test": [
+                "test/JsonWriter_WriteFloat_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 81,
+                "func_end": 165,
+                "func_hunks": [],
+                "patch_md5": "2d36ae6f437f3242345940ebc020342a"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/c64340a9bb7035b7651748cf1831387be4166bb4"
+    },
+    {
+        "commit_after": "ffb9b6d1bab1fe806c57ef4908d3a13316268016",
+        "commit_message": "Rml4ZWQgIGBKc29uVmFyaWFudDo6c3VjY2VzcygpYCB3aGljaCBkaWRuJ3QgcHJvcGFnYXRlIGBKc29uQXJyYXk6OnN1Y2Nlc3MoKWAgbm9yIGBKc29uT2JqZWN0OjpzdWNjZXNzKClgIChpc3N1ZSAjMzQyKS4K",
+        "commit_date": "2016-08-29 20:54:39 +0200",
+        "commit_before": "e401498e4ac2349e18d58b15b5c51ac21d3c25a1",
+        "files": {
+            "src": [
+                "include/ArduinoJson/JsonVariant.hpp"
+            ],
+            "test": [
+                "test/CMakeLists.txt",
+                "test/JsonVariant_Is_Tests.cpp",
+                "test/JsonVariant_Success_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 107,
+                "hunk_end": 122,
+                "func_is_single": true,
+                "func_start": 107,
+                "func_end": 122,
+                "func_hunks": [],
+                "patch_md5": "b4115072ebb10802ac3a76c7669ed0ca"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/ffb9b6d1bab1fe806c57ef4908d3a13316268016"
+    },
+    {
+        "commit_after": "11432253a10f40a8ec30328d453c85e30ecf2b54",
+        "commit_message": "Rml4ZWQgZXJyb3Igd2hlbiBhc3NpZ25pbmcgYSBgdm9sYXRpbGUgaW50YCB0byBhIGBKc29uVmFyaWFudGAgKGlzc3VlICM0MTUpCg==",
+        "commit_date": "2017-01-11 10:17:27 +0100",
+        "commit_before": "f17e1c4a803ceba035279beccbea52e26346e8b7",
+        "files": {
+            "src": [
+                "include/ArduinoJson/TypeTraits/IsBaseOf.hpp"
+            ],
+            "test": [
+                "test/JsonObject_Subscript_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 19,
+                "hunk_end": 25,
+                "func_is_single": true,
+                "func_start": 19,
+                "func_end": 25,
+                "func_hunks": [],
+                "patch_md5": "47c2bff6ac45e5010e83b8e3e2ab8011"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/11432253a10f40a8ec30328d453c85e30ecf2b54"
+    },
+    {
+        "commit_after": "17a17c8957cc54146226706031833cfcecebb9e5",
+        "commit_message": "Rml4ZWQgcGFyc2luZyBvZiBjb21tZW50cyAoaXNzdWUgIzQyMSkK",
+        "commit_date": "2017-01-17 21:48:13 +0100",
+        "commit_before": "2e7d498865893d541e66e6db49aeacb5e0a16427",
+        "files": {
+            "src": [
+                "include/ArduinoJson/Deserialization/Comments.hpp"
+            ],
+            "test": [
+                "test/JsonParser_Array_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 27,
+                "hunk_end": 65,
+                "func_is_single": true,
+                "func_start": 27,
+                "func_end": 65,
+                "func_hunks": [],
+                "patch_md5": "6e1f53498a80ea3cb324f382675da7b6"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/17a17c8957cc54146226706031833cfcecebb9e5"
+    },
+    {
+        "commit_after": "db9a76f7c60c98b1e0e18fca5673eafef56c8797",
+        "commit_message": "Rml4ZWQgYW4gYWNjZXNzIHZpb2xhdGlvbiBpbiBgRHluYW1pY0pzb25CdWZmZXJgIHdoZW4gbWVtb3J5IGFsbG9jYXRpb24gZmFpbHMgKGlzc3VlICM0MzMpCg==",
+        "commit_date": "2017-01-31 10:06:40 +0100",
+        "commit_before": "3fd87e8e825b6a8187dba20c5d0184889a7583e3",
+        "files": {
+            "src": [
+                "include/ArduinoJson/DynamicJsonBuffer.hpp"
+            ],
+            "test": [
+                "test/DynamicJsonBuffer_NoMemory_Tests.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 84,
+                "hunk_end": 90,
+                "func_is_single": true,
+                "func_start": 84,
+                "func_end": 90,
+                "func_hunks": [],
+                "patch_md5": "794546c8ff985b286f453d053e065aaf"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/db9a76f7c60c98b1e0e18fca5673eafef56c8797"
+    },
+    {
+        "commit_after": "959b1d9e4cf2fcaf193f3b8151c3e23a79bd59fe",
+        "commit_message": "Rml4ZWQgZXJyb3IgQzI3NjYgd2l0aCBmbGFnIGAvWmM6X19jcGx1c3BsdXNgIG9uIFZTMjAxNysgKGZpeGVzICMxMjUwKQo=",
+        "commit_date": "2020-04-28 09:11:46 +0200",
+        "commit_before": "daa279d57b20736ba3bf39de935fa919661d8ecf",
+        "files": {
+            "src": [
+                "src/ArduinoJson/Configuration.hpp"
+            ],
+            "test": [
+                "extras/tests/CMakeLists.txt"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": false,
+                "hunk_start": null,
+                "hunk_end": null,
+                "func_is_single": true,
+                "func_start": 4,
+                "func_end": 25,
+                "func_hunks": [],
+                "patch_md5": "5af75231707c10e6613883d9c53eb8a2"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/959b1d9e4cf2fcaf193f3b8151c3e23a79bd59fe"
+    },
+    {
+        "commit_after": "2664a2d0da16f26d6e1264380cf16a7ebb193fcd",
+        "commit_message": "Rml4ZWQgZXJyb3IgImFtYmlndW91cyBvdmVybG9hZCBmb3Igb3BlcmF0b3J8IiAoZml4ZXMgIzE0MTEpCg==",
+        "commit_date": "2020-10-22 09:30:31 +0200",
+        "commit_before": "1f7350658e3b67952828a3a6997e8a8234a929e4",
+        "files": {
+            "src": [
+                "src/ArduinoJson/Variant/VariantOperators.hpp"
+            ],
+            "test": [
+                "extras/tests/MemberProxy/CMakeLists.txt",
+                "extras/tests/MemberProxy/or.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": false,
+                "line_number": null,
+                "hunk_is_single": true,
+                "hunk_start": 20,
+                "hunk_end": 41,
+                "func_is_single": true,
+                "func_start": 20,
+                "func_end": 41,
+                "func_hunks": [],
+                "patch_md5": "1cd2e54ba51be63b7f987990954c1fa3"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/2664a2d0da16f26d6e1264380cf16a7ebb193fcd"
+    },
+    {
+        "commit_after": "d2174d158051f35b9887247692e7e8f628c72f5d",
+        "commit_message": "Rml4ZWQgY29tcGlsYXRpb24gZXJyb3Igd2hlbiBpc2RpZ2l0KCkgaXMgYSBtYWNybyAoZml4ZXMgIzE0ODcpCg==",
+        "commit_date": "2021-02-02 10:08:10 +0100",
+        "commit_before": "c72eccdd35c0f8451988d59be390e1068e2e9798",
+        "files": {
+            "src": [
+                "src/ArduinoJson/Polyfills/ctype.hpp"
+            ],
+            "test": [
+                "extras/tests/Misc/conflicts.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 9,
+                "hunk_is_single": true,
+                "hunk_start": 8,
+                "hunk_end": 16,
+                "func_is_single": true,
+                "func_start": 8,
+                "func_end": 16,
+                "func_hunks": [],
+                "patch_md5": "fcfc1512d67692b1e5c7e600ea3a1988"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/d2174d158051f35b9887247692e7e8f628c72f5d"
+    },
+    {
+        "commit_after": "49e2a8d421d7f442ac397d42caa3f60b2c00db54",
+        "commit_message": "Rml4ICdzdGQ6OnN0cmluZ192aWV3JyBoYXMgbm90IGJlZW4gZGVjbGFyZWQgKGlzc3VlICMxOTY3KQo=",
+        "commit_date": "2023-09-13 18:12:18 +0200",
+        "commit_before": "259855a87b17294e0e63e3869bd1dcfe1d0ac3e4",
+        "files": {
+            "src": [
+                "src/ArduinoJson/Variant/ConverterImpl.hpp"
+            ],
+            "test": [
+                "extras/tests/Cpp17/string_view.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 13,
+                "hunk_is_single": true,
+                "hunk_start": 12,
+                "hunk_end": 17,
+                "func_is_single": true,
+                "func_start": 12,
+                "func_end": 17,
+                "func_hunks": [],
+                "patch_md5": "5c07c466efb3d21e4b683e8204657c95"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/49e2a8d421d7f442ac397d42caa3f60b2c00db54"
+    },
+    {
+        "commit_after": "259855a87b17294e0e63e3869bd1dcfe1d0ac3e4",
+        "commit_message": "Rml4ICdzdGQ6OnN0cmluZycgaGFzIG5vdCBiZWVuIGRlY2xhcmVkIChpc3N1ZSAjMTk2NykK",
+        "commit_date": "2023-09-13 18:13:18 +0200",
+        "commit_before": "aebf042baeb08435ca22bd583e5ee3df82e03d46",
+        "files": {
+            "src": [
+                "src/ArduinoJson/Variant/ConverterImpl.hpp"
+            ],
+            "test": [
+                "extras/tests/Misc/CMakeLists.txt",
+                "extras/tests/Misc/issue1967.cpp"
+            ],
+            "src0_location": {
+                "line_is_single": true,
+                "line_number": 9,
+                "hunk_is_single": true,
+                "hunk_start": 8,
+                "hunk_end": 13,
+                "func_is_single": true,
+                "func_start": 8,
+                "func_end": 13,
+                "func_hunks": [],
+                "patch_md5": "8f9cfb19dff4a6d191c82dbf74bc4073"
+            }
+        },
+        "unittest": {
+            "id": null,
+            "name": null,
+            "status": null
+        },
+        "c_compile": {
+            "build": null,
+            "build_flags": null,
+            "test": null,
+            "test_flags": null,
+            "clean": null
+        },
+        "status": 0,
+        "status_manual": 0,
+        "url": "https://api.github.com/repos/bblanchon/ArduinoJson/commits/259855a87b17294e0e63e3869bd1dcfe1d0ac3e4"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/ginkgo-project/ginkgo/commits/b3408f406a18bb2d0d971d548ba5c88db73a3373",
+    "language": null,
+    "main_repo": "https://github.com/ginkgo-project/ginkgo",
+    "repo_name": "ginkgo-project___ginkgo",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": ["-DGINKGO_FAST_TESTS=on","-DGINKGO_BUILD_TESTS=on"],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

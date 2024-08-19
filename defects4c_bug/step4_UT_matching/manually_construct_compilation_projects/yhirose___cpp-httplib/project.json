@@ -1,0 +1,15 @@
+{
+    "homepage": "https://api.github.com/repos/yhirose/cpp-httplib/commits/dcdb0d047b375ee50794fa9214cee3a1cea36066",
+    "language": null,
+    "main_repo": "https://github.com/yhirose/cpp-httplib",
+    "repo_name": "yhirose___cpp-httplib",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "bash inplace_build.sh",
+        "build_flags": [],
+        "test": "bash inplace_test.sh",
+        "test_flags": ["./test "],
+        "clean": "git"
+    }
+}

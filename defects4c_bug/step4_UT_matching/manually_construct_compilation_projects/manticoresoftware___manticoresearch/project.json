@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/manticoresoftware/manticoresearch",
+    "language": null,
+    "main_repo": "https://github.com/manticoresoftware/manticoresearch",
+    "repo_name": "manticoresoftware___manticoresearch",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}

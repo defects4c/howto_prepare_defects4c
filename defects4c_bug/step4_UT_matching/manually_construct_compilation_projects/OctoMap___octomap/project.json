@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/OctoMap/octomap",
+    "language": null,
+    "main_repo": "https://github.com/OctoMap/octomap",
+    "repo_name": "OctoMap___octomap",
+    "env": [],
+    "before_install": [],
+    "c_compile": {
+        "build": "ninja",
+        "build_flags": [],
+        "test": "ctest",
+        "test_flags": [],
+        "clean": "git"
+    }
+}
