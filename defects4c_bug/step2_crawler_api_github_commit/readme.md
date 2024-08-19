@@ -1,7 +1,7 @@
-This folder is intend to crawler the cotnent by giuven a commit url from api.github.com 
+This folder is intend to crawler the content from api.github.com when given a commit url  
 
 
-At begin, data from gharchive.com (or BigQuery) only includes event types and commit URLs. As a result, the SQL query result yields only the commit URLs. In Step 2, by indexing these commit URLs to ask content from api.github.com, we can retrieve meta-information such as bug commits and changing content. This step allows us to determine whether the changes are confined to a single source file and whether they occur within a single function. Therefore step 2 is crucial for subsequent steps, as it provides the necessary content to build a corpus for further analysis.
+> At begin, data from gharchive.com (or BigQuery) only includes event types and commit URLs. As a result, the SQL query result yields only the commit URLs. In Step 2, by indexing these commit URLs to ask content from api.github.com, we can retrieve meta-information such as bug commits and changing content. This step allows us to determine whether the changes are confined to a single source file and whether they occur within a single function. Therefore step 2 is crucial for subsequent steps, as it provides the necessary content to build a corpus for further analysis.
 
 
 Here, we provide a JSON result retrieved from api.github.com to illustrate the mechanism.
