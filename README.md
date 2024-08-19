@@ -1,7 +1,8 @@
-# howto_prepare_defects4c
+# How to extract the defects and it corresponding unittest from BQ/CVE 
+
 This repository is preprocessing and intemediate data for how to construct the defects4c, which includes most of our crawler code, preprocessing scripts, and intermediate data from BigQuery and the GitHub API
 
-
+## How to construct the defects4c_bug
 
 |No.|Task|DownloadLink|previewLink|Size of commits|Drop Rate|Description 
 |-|--|--|--|--|--|----|
@@ -12,3 +13,10 @@ This repository is preprocessing and intemediate data for how to construct the d
 |3.3|Phase-C: top 100 projects| [ipynotebook](https://github.com/defects4c/howto_prepare_defects4c/blob/master/defects4c_bug/step3.3_selected_interest/select_top100_projects.ipynb) | - | top 100 repos almost  21K commits|72.4% |Rank the top projects by commit size and select the top 100 repositories for manually configuring the compile flags
 |4 |Unit Test Matching | [80+projects](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step4_UT_matching) | - |3785 |91.3% |Paper Section 3.2 |
 |5 |Human Annotation | [labels](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step5_human_labeling)| - |248 |93.4% |Paper Section 3.3 |
+
+
+
+## How to construct the defects4c_vul
+
+The defects4c_vul is collect from existing CVE projects, from the this , we illustrate the scripts and piplelines. please check detail from [howto defects4c-vul ](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_vul)
+
