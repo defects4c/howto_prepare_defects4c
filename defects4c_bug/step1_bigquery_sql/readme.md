@@ -6,7 +6,7 @@ We extracts commits from GHArchive.org, which is an event collection database. B
 
 
 
-The file starting with "part1_sql" queries GitHub repositories from BigQuery to obtain license-free repositories, which are one of the sources for the repository data. It then performs a left join on  tables to construct the commits table, which includes nearly 300K C/C++ repositories.
+The file starting with "part1_sql" queries GitHub repositories from BigQuery to obtain license-free repositories, which are one of the sources for the repository data. It then performs a left join on  tables to construct the commits table, which includes nearly 110K C/C++ repositories.
 
 
 
