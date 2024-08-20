@@ -11,7 +11,7 @@ This repository is preprocessing and intemediate data for how to construct the d
 |3.1|Phase-A: 1 src file paired with 1 test file| - |  - | | |src endswith “c/cpp/cc/hpp/h” and  test path contains “test”  |
 |3.2|Phase-B: single-function changing| [21MB](https://drive.google.com/file/d/1aSfCgD-XQvntFqJUdWS0dB6EtqOa2cx5/view?usp=sharing) | index | - | A+B: ~76K |  91.6% |The changing in src file only happened in single function. 
 |3.3|Phase-C: top 100 projects| [2.0M](https://github.com/defects4c/howto_prepare_defects4c/blob/master/defects4c_bug/step3.3_selected_interest/21k_interest_select.list) | index  | - | top 100 repos almost  21K commits|72.4% |Rank the top projects by commit size and select the top 100 repositories for manually configuring the compile flags
-|4 |Unit Test Matching | [80+projects](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step4_UT_matching) | compilation configuration  | - |3785 |91.3% |Paper Section 3.2 |
+|4 |Unit Test Matching | [366K](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step4_UT_matching) | compilation configuration  | - |3785 |91.3% |Paper Section 3.2 |
 |5 |Human Annotation | [labels](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step5_human_labeling)| Microsoft Excel  | - |248 |93.4% |Paper Section 3.3 |
 
 
