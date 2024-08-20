@@ -4,19 +4,26 @@ This repository is preprocessing and intemediate data for how to construct the d
 
 ## How to construct the defects4c_bug
 
-|Step No.|Task|DownloadLink|release type| previewLink|Size of commits|Drop Rate|Description 
-|-|--|--|--|--|--|--|----|
-|1|C/C++ commit from BQ| [ 10.85GB ](https://drive.google.com/file/d/1Wk0UoyoAAzR5A-yEQOp-WpMAx0EXFAi6/view?usp=sharing)| jsonl  | [50samples](https://drive.google.com/file/d/1YcLUpyN2xa6IA-I8jQv03BDE-MQnoPI3/view?usp=sharing) |38M |- | Time-range 2015-2023; high-star>200; Top 500 projects; Keywords filter; |
-|2|Validity from api.github.com | [3.02GB](https://drive.google.com/file/d/1fu_ZQtei6v9ZWL0nhDor1TT7BFwf8tMp/view?usp=drive_link) | jsonl | [50samples](https://drive.google.com/drive/folders/1uMfv_VTdtzTmHZ5LAZQY2CXTzlG2LWR_?usp=drive_link)|9M| 76%| Both bug and patch commits are validated. eg: is-activate  |
-|3.1|Phase-A: 1 src file paired with 1 test file| - |  - | | |src endswith “c/cpp/cc/hpp/h” and  test path contains “test”  |
-|3.2|Phase-B: single-function changing| [21MB](https://drive.google.com/file/d/1aSfCgD-XQvntFqJUdWS0dB6EtqOa2cx5/view?usp=sharing) | index | - | A+B: ~76K |  91.6% |The changing in src file only happened in single function. 
-|3.3|Phase-C: top 100 projects| [2.0M](https://github.com/defects4c/howto_prepare_defects4c/blob/master/defects4c_bug/step3.3_selected_interest/21k_interest_select.list) | index  | - | top 100 repos almost  21K commits|72.4% |Rank the top projects by commit size and select the top 100 repositories for manually configuring the compile flags
-|4 |Unit Test Matching | [366K](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step4_UT_matching) | compilation configuration  | - |3785 |91.3% |Paper Section 3.2 |
-|5 |Human Annotation | [labels](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step5_human_labeling)| Microsoft Excel  | - |248 |93.4% |Paper Section 3.3 |
-
+|Step No.|Task|DownloadLink|release type| previewLink|Size of commits|Drop Rate|Description | Potential Usage| 
+|-|-|-|-|-|-|-|------|------|
+|1|Commits Data| [ 10.85GB ](https://drive.google.com/file/d/1Wk0UoyoAAzR5A-yEQOp-WpMAx0EXFAi6/view?usp=sharing)| jsonl  | [50samples](https://drive.google.com/file/d/1YcLUpyN2xa6IA-I8jQv03BDE-MQnoPI3/view?usp=sharing) |38M |- | Commits from projects after filtering with bug-relevant keywords, including BigQuery projects (2015-2023; high-star > 200) and Top 500 projects. | Useful in commit analysis research. | 
+|2|Validity from api.github.com | [3.02GB](https://drive.google.com/file/d/1fu_ZQtei6v9ZWL0nhDor1TT7BFwf8tMp/view?usp=drive_link) | jsonl | [50samples](https://drive.google.com/drive/folders/1uMfv_VTdtzTmHZ5LAZQY2CXTzlG2LWR_?usp=drive_link)|9M| 76%| 9M bug-relevant commits after filtering | Useful in applications where the commit diff is needed. Can be used for training.| 
+|3|SingleFunc Commits| [21MB](https://drive.google.com/file/d/1aSfCgD-XQvntFqJUdWS0dB6EtqOa2cx5/view?usp=sharing) | index | - |  ~76K |  91.6% |76K bug-relevant commits that are included in single functions | Useful in applications where the bug-relevan commit diff is in single functions. Can be used for training.
+|4|SingleFunc Commits from Top-100 Projects| [2.0M](https://github.com/defects4c/howto_prepare_defects4c/blob/master/defects4c_bug/step3.3_selected_interest/21k_interest_select.list) | index  | - | top 100 repos almost  21K commits|72.4% |21K bug-relevant commits included in single functions from the top-100 projects | Useful in applications where the commit diff is needed. The commits are more popular, originating from top-100 projects. Can be used as a dataset, from popular projects, for training.
+|5 |SingleFunc Commits with UnitTests from Top-100 Projects | [366K](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step4_UT_matching) | compilation configuration  | - |3785 |91.3% |Paper Section 3.2, 3,785 bug-relevant commits included in single functions from the top-100 projects, each with at least 1 unit test for verification and reproducibility |Useful in applications where the commit diff and unit tests are needed. These commits are popular, from top-100 projects. Can be used as a high-quality dataset for fine-tuning. All unit tests are executable.|
+|6 |Human-confirmed SingleFunc Commits with UnitTests from Top-100 Project | [labels](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_bug/step5_human_labeling)| Microsoft Excel  | - |248 |93.4% |Paper Section 3.3, the 248 high-quality bug/fix data in single functions from top-100 projects, with unit tests. |High-quality bug/fix data, which can be used for the evaluation of bug detection, repair, and other applications. | 
 
 
 ## How to construct the defects4c_vul
 
 The defects4c_vul is collect from existing CVE projects, from the this , we illustrate the scripts and piplelines. please check detail from [howto defects4c-vul ](https://github.com/defects4c/howto_prepare_defects4c/tree/master/defects4c_vul)
+
+
+
+
+
+
+
+
+
 
