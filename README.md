@@ -3,6 +3,7 @@
 This repository is preprocessing and intemediate data for how to construct the defects4c, which includes most of our crawler code, preprocessing scripts, and intermediate data from BigQuery and the GitHub API
 
 ## How to construct the defects4c_bug
+* we already backup the important intermediate datasets into [figshare.com](https://figshare.com/articles/dataset/Defects4C_Benchmarking_Large_Language_Model_Repair_Capability_with_C_C_Bugs/30514943)
 
 |Step No.|Task|DownloadLink|release type |Size of commits|Drop Rate|Description | Potential Usage| 
 |-|-|-|-|-|-|------|------|
